@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Data is part of the input in reinforcement learning.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "In supervised learning, the model is trained with the correct answer.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The best solution in reinforcement learning is decided based on the minimum reward.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Reinforcement learning is a good technique for systems that need to make a lot of small decisions without human guidance.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "One advantage of reinforcement learning is that it is easy to debug and interpret.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Reinforcement learning can handle non-deterministic environments.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "CNN architectures assume the input is in the form of structured data.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The convolution operation increases the number of free parameters in a neural network.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "A very high number of neurons is necessary if we apply a fully connected network to images.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Max pooling uses the average value from each of a cluster of neurons.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "All CNN models are trained on the ImageNet dataset.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "In a CNN, the activation function is applied before the convolution operation.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The stride in a convolutional layer determines the step size of the filter.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Zero padding is a common technique used to control the output size in a convolutional layer.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "ReLU is an activation function that eliminates positive values.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The purpose of the flattening operation is to convert the multi-dimensional feature maps into a single vector.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The output of the SoftMax layer is a vector where the sum of its elements is 0.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Reinforcement learning is preferable for solving simple problems.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The training data in reinforcement learning is obtained via the direct interaction of the agent with the environment.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The fully connected layer is responsible for feature extraction in a CNN.",
+    "options": ["True", "False"],
+    "answer": "False"
+  }
+]

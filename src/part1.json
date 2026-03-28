@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Reinforcement learning is an area of .............. .",
+    "options": ["a) Deep Learning", "b) Machine Learning", "c) Supervised Learning", "d) Robotics"],
+    "answer": "b) Machine Learning"
+  },
+  {
+    "question": "In reinforcement learning, the model takes action to maximize .............. .",
+    "options": ["a) Reward", "b) Data", "c) Error", "d) Input"],
+    "answer": "a) Reward"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of reinforcement learning?",
+    "options": ["a) It is about taking suitable action to maximize reward.", "b) It is employed to find the best possible behavior.", "c) The training data has the answer key.", "d) There is no answer key for the agent."],
+    "answer": "c) The training data has the answer key."
+  },
+  {
+    "question": "Reinforcement learning differs from supervised learning because in supervised learning ..............",
+    "options": ["a) the model is trained without an answer key", "b) the training data has the answer key", "c) there is no reward", "d) the agent decides what to do"],
+    "answer": "b) the training data has the answer key"
+  },
+  {
+    "question": "What is the science of decision making in the context of the material?",
+    "options": ["a) Supervised Learning", "b) Unsupervised Learning", "c) Reinforcement Learning", "d) Deep Learning"],
+    "answer": "c) Reinforcement Learning"
+  },
+  {
+    "question": "In reinforcement learning, algorithms learn from .............. .",
+    "options": ["a) Labeled data", "b) Unlabeled data", "c) Outcomes", "d) A teacher"],
+    "answer": "c) Outcomes"
+  },
+  {
+    "question": "The feedback an RL algorithm receives after each action helps it determine if the choice was .............. .",
+    "options": ["a) Correct, neutral, or incorrect", "b) Only correct or incorrect", "c) Only neutral", "d) None of them"],
+    "answer": "a) Correct, neutral, or incorrect"
+  },
+  {
+    "question": "In the training process for reinforcement learning, the user decides to .............. the model based on its output.",
+    "options": ["a) Reward or punish", "b) Supervise", "c) Label", "d) Ignore"],
+    "answer": "a) Reward or punish"
+  },
+  {
+    "question": "The best solution in reinforcement learning is decided based on ...........",
+    "options": ["a) The minimum error", "b) The maximum reward", "c) The first solution found", "d) The input data"],
+    "answer": "b) The maximum reward"
+  },
+  {
+    "question": "Which of the following is an application of Reinforcement Learning?",
+    "options": ["a) Housing pricing", "b) Robotics", "c) Image recognition", "d) Natural Language Processing"],
+    "answer": "b) Robotics"
+  },
+  {
+    "question": "A master chess player making a move is given as an example of ......... .",
+    "options": ["a) Unsupervised Learning", "b) An application of Reinforcement Learning", "c) A supervised learning problem", "d) A Convolutional Neural Network"],
+    "answer": "b) An application of Reinforcement Learning"
+  },
+  {
+    "question": "Which of the following is an advantage of Reinforcement Learning?",
+    "options": ["a) It is ideal for solving simple problems.", "b) It requires very little computation.", "c) It can be used to solve very complex problems.", "d) The reward function is easy to design."],
+    "answer": "c) It can be used to solve very complex problems."
+  },
+  {
+    "question": "One of the advantages of RL is that it can handle environments that are .............. .",
+    "options": ["a) Deterministic", "b) Non-deterministic", "c) Static", "d) Labeled"],
+    "answer": "b) Non-deterministic"
+  },
+  {
+    "question": "Which of the following is a disadvantage of Reinforcement Learning?",
+    "options": ["a) It cannot be combined with other techniques.", "b) It needs a lot of data and computation.", "c) It is preferable for simple problems.", "d) It is easy to debug."],
+    "answer": "b) It needs a lot of data and computation."
+  },
+  {
+    "question": "Reinforcement Learning is highly dependent on the quality of the .............. .",
+    "options": ["a) Input data", "b) Neural network", "c) Reward function", "d) Teacher"],
+    "answer": "c) Reward function"
+  },
+  {
+    "question": "Which of the following statements about Deep Learning is correct?",
+    "options": ["a) It is a subset of Reinforcement Learning.", "b) It is a separate field from Machine Learning.", "c) It is a type of Machine Learning.", "d) It is the same as Convolutional Neural Networks."],
+    "answer": "c) It is a type of Machine Learning."
+  },
+  {
+    "question": "The most widely used deep learning method for image processing is .............. .",
+    "options": ["a) Deep Belief Nets (DBN)", "b) Stacked Auto-encoders (SAE)", "c) Recurrent Neural Networks (RNN)", "d) Convolutional Neural Networks (CNNs)"],
+    "answer": "d) Convolutional Neural Networks (CNNs)"
+  },
+  {
+    "question": "CNN architectures make the explicit assumption that the inputs are .............. .",
+    "options": ["a) Text", "b) Audio", "c) Images", "d) Structured data"],
+    "answer": "c) Images"
+  },
+  {
+    "question": "What operation is applied in the convolutional layers of a CNN?",
+    "options": ["a) A pooling operation", "b) A flattening operation", "c) A convolution operation", "d) A classification operation"],
+    "answer": "c) A convolution operation"
+  },
+  {
+    "question": "Why is it not practical to apply a fully connected feed-forward network directly to images?",
+    "options": ["a) Because it requires a very high number of neurons.", "b) Because it cannot classify images.", "c) Because it cannot learn features.", "d) Because it does not use activation functions."],
+    "answer": "a) Because it requires a very high number of neurons."
+  },
+  {
+    "question": "The convolution operation reduces the number of .............. .",
+    "options": ["a) Filters", "b) Layers", "c) Free parameters (weights)", "d) Pooling operations"],
+    "answer": "c) Free parameters (weights)"
+  },
+  {
+    "question": "Which pooling layer uses the maximum value from each cluster of neurons?",
+    "options": ["a) Average pooling", "b) Sum pooling", "c) Max pooling", "d) Min pooling"],
+    "answer": "c) Max pooling"
+  },
+  {
+    "question": "Which of the following is a classic CNN model?",
+    "options": ["a) GoogleNet", "b) ResNet-101", "c) AlexNet", "d) Inception-V3"],
+    "answer": "c) AlexNet"
+  },
+  {
+    "question": "The frequently used CNN architectures mentioned are trained on which dataset?",
+    "options": ["a) CIFAR-10", "b) MNIST", "c) ImageNet", "d) Pascal VOC"],
+    "answer": "c) ImageNet"
+  },
+  {
+    "question": "The CNN model architecture consists of which two main parts?",
+    "options": ["a) Input and Output", "b) Feature Learning and Classification", "c) Convolution and Pooling", "d) Training and Testing"],
+    "answer": "b) Feature Learning and Classification"
+  },
+  {
+    "question": "In a CNN, what is the primary function of the convolutional layer?",
+    "options": ["a) To reduce dimensionality", "b) To perform classification", "c) To extract features", "d) To flatten the data"],
+    "answer": "c) To extract features"
+  },
+  {
+    "question": "The linear function used to extract features in the convolution operation is called a .............. .",
+    "options": ["a) Stride", "b) Padding", "c) Filter or Kernel", "d) Pool"],
+    "answer": "c) Filter or Kernel"
+  },
+  {
+    "question": "What does the term 'stride' refer to in the context of a convolutional layer?",
+    "options": ["a) The size of the filter", "b) The step size by which the filter moves", "c) The amount of padding added", "d) The type of activation function"],
+    "answer": "b) The step size by which the filter moves"
+  },
+  {
+    "question": "What is the purpose of 'padding' in a convolutional layer?",
+    "options": ["a) To increase the number of filters", "b) To decrease the stride", "c) To control the spatial size of the output", "d) To add an activation function"],
+    "answer": "c) To control the spatial size of the output"
+  },
+  {
+    "question": "The most commonly used activation function in CNNs which eliminates negative values is .............. .",
+    "options": ["a) Sigmoid", "b) Tanh", "c) Softmax", "d) ReLU"],
+    "answer": "d) ReLU"
+  },
+  {
+    "question": "It has been observed that a CNN with ReLU trains .............. than a network with hyperbolic tangent.",
+    "options": ["a) Much faster", "b) Much slower", "c) At the same speed", "d) None of them"],
+    "answer": "a) Much faster"
+  },
+  {
+    "question": "What is the primary purpose of a pooling layer?",
+    "options": ["a) To extract features", "b) To reduce the spatial size of the features", "c) To add non-linearity", "d) To perform the final classification"],
+    "answer": "b) To reduce the spatial size of the features"
+  },
+  {
+    "question": "Which of the following is a type of pooling?",
+    "options": ["a) Max pooling", "b) Convolution pooling", "c) ReLU pooling", "d) Softmax pooling"],
+    "answer": "a) Max pooling"
+  },
+  {
+    "question": "After feature extraction, the resultant is flattened into a single vector for what purpose?",
+    "options": ["a) To be used as input for the fully connected layer", "b) To perform another convolution", "c) To visualize the features", "d) To increase the number of parameters"],
+    "answer": "a) To be used as input for the fully connected layer"
+  },
+  {
+    "question": "The operation of a fully connected layer is to .............. .",
+    "options": ["a) Apply convolution", "b) Connect all input feature maps to a larger feature map", "c) Reduce dimensionality", "d) Extract low-level features"],
+    "answer": "b) Connect all input feature maps to a larger feature map"
+  },
+  {
+    "question": "The last fully connected layer inside a CNN provides a .............. for each object.",
+    "options": ["a) Score or probability", "b) Binary value", "c) Feature map", "d) Filter"],
+    "answer": "a) Score or probability"
+  },
+  {
+    "question": "The SoftMax layer translates the input one-dimensional array into a vector with .............. for each class.",
+    "options": ["a) A score", "b) A probability", "c) A label", "d) A filter"],
+    "answer": "b) A probability"
+  },
+  {
+    "question": "According to the mathematical definition, the sum of outputs from a SoftMax function for all classes is .............. .",
+    "options": ["a) 0", "b) 100", "c) 1", "d) -1"],
+    "answer": "c) 1"
+  },
+  {
+    "question": "Which of the following statements is true about the input and output of a Reinforcement Learning model?",
+    "options": ["a) The input is labeled data, and the output is a prediction.", "b) The input is an initial state, and there are many possible outputs.", "c) The input is unstructured data, and the output is a class.", "d) The input is an initial state, and the output is always a single solution."],
+    "answer": "b) The input is an initial state, and there are many possible outputs."
+  },
+  {
+    "question": "An adaptive controller adjusting parameters of a petroleum refinery is an example of .............. .",
+    "options": ["a) Supervised learning", "b) An application of Reinforcement Learning", "c) Unsupervised learning", "d) A limitation of deep learning"],
+    "answer": "b) An application of Reinforcement Learning"
+  },
+  {
+    "question": "One advantage of RL is that it can correct errors that occurred during the .............. .",
+    "options": ["a) Testing process", "b) Deployment process", "c) Training process", "d) Data collection process"],
+    "answer": "c) Training process"
+  },
+  {
+    "question": "Why is reinforcement learning difficult to debug and interpret?",
+    "options": ["a) Because the code is too complex.", "b) Because it is not always clear why the agent is behaving in a certain way.", "c) Because it does not use any algorithms.", "d) Because it requires a teacher."],
+    "answer": "b) Because it is not always clear why the agent is behaving in a certain way."
+  },
+  {
+    "question": "The fully connected layers in a CNN are in principle the same as a .............. .",
+    "options": ["a) Convolutional layer", "b) Pooling layer", "c) Traditional multi-layer perceptron neural network (MLP)", "d) Activation function"],
+    "answer": "c) Traditional multi-layer perceptron neural network (MLP)"
+  },
+  {
+    "question": "The CNN architectures can be categorized into which three strategies?",
+    "options": ["a) Simple, Complex, and Hybrid", "b) Classic, Inception, and Residual", "c) Supervised, Unsupervised, and Reinforcement", "d) Shallow, Medium, and Deep"],
+    "answer": "b) Classic, Inception, and Residual"
+  },
+  {
+    "question": "In the formula for a convolutional layer, what does the bias term 'b' represent?",
+    "options": ["a) A value added to the convoluted part", "b) The step size", "c) The filter size", "d) The number of filters"],
+    "answer": "a) A value added to the convoluted part"
+  },
+  {
+    "question": "The input of a CNN model for image processing can be as large as 100x100, but a fully connected layer would have .............. for each neuron in the second layer.",
+    "options": ["a) 100 weights", "b) 10,000 weights", "c) 1,000,000 weights", "d) 25 weights"],
+    "answer": "b) 10,000 weights"
+  },
+  {
+    "question": "In the equation for the dimension of a pooled part, what does mc represent?",
+    "options": ["a) The number of channels in the input image", "b) The number of classes", "c) The stride value", "d) The filter dimension"],
+    "answer": "a) The number of channels in the input image"
+  },
+  {
+    "question": "What is the function of the SoftMax layer in a CNN?",
+    "options": ["a) To extract features from the image.", "b) To reduce the dimensionality of the feature map.", "c) To provide a probability for each class.", "d) To apply a convolution operation."],
+    "answer": "c) To provide a probability for each class."
+  },
+  {
+    "question": "What is the role of the \"Fully Connected\" layer named fc_2 in the provided table?",
+    "options": ["a) To perform convolution with 64 filters.", "b) To produce 10 outputs, likely for 10 classes.", "c) To apply max pooling.", "d) To normalize the input image."],
+    "answer": "b) To produce 10 outputs, likely for 10 classes."
+  },
+  {
+    "question": "Which layer in the CNN architecture example is directly connected to the final Softmax layer?",
+    "options": ["a) conv_3", "b) fc_1", "c) avgpool2d_2", "d) fc_2"],
+    "answer": "d) fc_2"
+  },
+  {
+    "question": "Which type of learning uses labeled data with a teacher?",
+    "options": ["a) Unsupervised Learning", "b) Reinforcement Learning", "c) Supervised Learning", "d) Clustering"],
+    "answer": "c) Supervised Learning"
+  },
+  {
+    "question": "What type of data is typically used in supervised learning?",
+    "options": ["a) Unstructured data like images", "b) Random text", "c) Structured data with known labels", "d) Compressed audio"],
+    "answer": "c) Structured data with known labels"
+  },
+  {
+    "question": "Which of the following is an example of unstructured data?",
+    "options": ["a) House size and age", "b) Image of a cat", "c) Excel sheet with labeled prices", "d) Student grades in table"],
+    "answer": "b) Image of a cat"
+  },
+  {
+    "question": "Unsupervised learning typically works with:",
+    "options": ["a) Data with labeled outputs", "b) Structured tabular data", "c) Data without labeled outputs", "d) Only audio files"],
+    "answer": "c) Data without labeled outputs"
+  },
+  {
+    "question": "What is reinforcement learning primarily concerned with?",
+    "options": ["a) Memorizing training data", "b) Taking suitable actions to maximize reward in a situation", "c) Encrypting and storing large datasets", "d) Labeling datasets manually"],
+    "answer": "b) Taking suitable actions to maximize reward in a situation"
+  },
+  {
+    "question": "Which of the following best describes reinforcement learning?",
+    "options": ["a) Learning from labeled examples", "b) Learning without taking any actions", "c) Learning by interacting with the environment and receiving rewards or penalties", "d) Learning by repeating data multiple times"],
+    "answer": "c) Learning by interacting with the environment and receiving rewards or penalties"
+  },
+  {
+    "question": "How does reinforcement learning differ from supervised learning?",
+    "options": ["a) In reinforcement learning, data is unlabeled but feedback is available through rewards", "b) Reinforcement learning uses only static datasets", "c) Supervised learning doesn't need any training data", "d) Supervised learning only applies to audio tasks"],
+    "answer": "a) In reinforcement learning, data is unlabeled but feedback is available through rewards"
+  },
+  {
+    "question": "What role does the reinforcement agent play?",
+    "options": ["a) Provides labels for supervised models", "b) Observes without acting", "c) Decides what action to take to maximize reward", "d) Cleans noisy data"],
+    "answer": "c) Decides what action to take to maximize reward"
+  },
+  {
+    "question": "Which of the following is TRUE about reinforcement learning compared to supervised/unsupervised learning?",
+    "options": ["a) It uses labeled data like supervised learning", "b) It doesn't involve learning from outcomes", "c) Data is not part of the typical input as in supervised/unsupervised learning", "d) It stores all actions before choosing"],
+    "answer": "c) Data is not part of the typical input as in supervised/unsupervised learning"
+  },
+  {
+    "question": "Which of the following is a benefit of using reinforcement learning?",
+    "options": ["a) It's only used for sorting data", "b) It avoids decision-making", "c) It allows automated systems to make many small decisions without human input", "d) It requires constant human supervision"],
+    "answer": "c) It allows automated systems to make many small decisions without human input"
+  },
+  {
+    "question": "What makes reinforcement learning suitable for complex problems?",
+    "options": ["a) It requires no training", "b) It avoids decision making", "c) It learns through interaction and feedback", "d) It's based on fixed rules"],
+    "answer": "c) It learns through interaction and feedback"
+  },
+  {
+    "question": "How is training data obtained in reinforcement learning?",
+    "options": ["a) From static datasets", "b) Through predefined labels", "c) By agent interaction with the environment", "d) Using human-written scripts"],
+    "answer": "c) By agent interaction with the environment"
+  },
+  {
+    "question": "Which of the following is TRUE about reinforcement learning?",
+    "options": ["a) It cannot handle uncertainty", "b) It works only in deterministic environments", "c) It's flexible and works well with deep learning", "d) It doesn't require feedback"],
+    "answer": "c) It's flexible and works well with deep learning"
+  },
+  {
+    "question": "Why is reinforcement learning not ideal for simple problems?",
+    "options": ["a) It is too slow", "b) It overfits easily", "c) It's too complex and requires high resources", "d) It doesn't support binary classification"],
+    "answer": "c) It's too complex and requires high resources"
+  },
+  {
+    "question": "Which of the following statements is TRUE about reinforcement learning models?",
+    "options": ["a) They stop learning after first reward", "b) They continue learning through repeated training and feedback", "c) They need labeled data to train", "d) They don't require any feedback"],
+    "answer": "b) They continue learning through repeated training and feedback"
+  },
+  {
+    "question": "What are the three main components in a neural network?",
+    "options": ["a) Input, activation, weights", "b) Input, hidden neurons, output", "c) Data, output, filters", "d) Layers, cost, signal"],
+    "answer": "b) Input, hidden neurons, output"
+  },
+  {
+    "question": "What do hidden neurons do in a neural network?",
+    "options": ["a) Store data", "b) Perform intermediate processing of features", "c) Output labels", "d) Only visualize the input"],
+    "answer": "b) Perform intermediate processing of features"
+  },
+  {
+    "question": "Which neural network structure is best for sequential data like text or speech?",
+    "options": ["a) CNN", "b) Standard NN", "c) RNN", "d) GAN"],
+    "answer": "c) RNN"
+  },
+  {
+    "question": "Standard neural networks are best suited for:",
+    "options": ["a) Image segmentation", "b) Audio signal prediction", "c) Structured data like housing pricing", "d) Language translation"],
+    "answer": "c) Structured data like housing pricing"
+  },
+  {
+    "question": "According to the performance vs data chart, which model performs best with large data?",
+    "options": ["a) Small neural network", "b) Traditional learning algorithm", "c) Large neural network", "d) Linear regression"],
+    "answer": "c) Large neural network"
+  },
+  {
+    "question": "What does the graph suggest about deep learning and data?",
+    "options": ["a) Deep learning doesn't need data", "b) Deep learning gets worse with more data", "c) Deep learning improves more with larger datasets compared to older algorithms", "d) Deep learning plateaus early"],
+    "answer": "c) Deep learning improves more with larger datasets compared to older algorithms"
+  },
+  {
+    "question": "Why do older learning algorithms perform worse as data increases?",
+    "options": ["a) They're not optimized", "b) They can't generalize well on large, complex data", "c) They use image-based input", "d) They use deep networks"],
+    "answer": "b) They can't generalize well on large, complex data"
+  },
+  {
+    "question": "Which deep learning models are listed as examples along with CNNs?",
+    "options": ["a) DBN, DBM, SAE", "b) KNN, SVM, PCA", "c) RNN, LSTM, GPT", "d) GAN, BERT, LDA"],
+    "answer": "a) DBN, DBM, SAE"
+  },
+  {
+    "question": "Which of the following is not a layer type used in CNNs?",
+    "options": ["a) Convolutional", "b) Pooling", "c) Linear Regression", "d) Fully Connected"],
+    "answer": "c) Linear Regression"
+  },
+  {
+    "question": "Which of the following is a residual model?",
+    "options": ["a) AlexNet", "b) VGGNet", "c) ResNet-101", "d) Inception-V3"],
+    "answer": "c) ResNet-101"
+  },
+  {
+    "question": "How many categories are these CNN models typically used to classify in ImageNet?",
+    "options": ["a) 10", "b) 100", "c) 1000", "d) 10000"],
+    "answer": "c) 1000"
+  },
+  {
+    "question": "In a standard neural network, what connects the input layer to the output layer?",
+    "options": ["a) Convolution filters", "b) Max pooling", "c) Hidden layers", "d) Activation maps"],
+    "answer": "c) Hidden layers"
+  },
+  {
+    "question": "What is the main purpose of padding in CNNs?",
+    "options": ["a) Reduce the input size", "b) Increase the kernel size", "c) Prevent loss of edge information", "d) Add more filters"],
+    "answer": "c) Prevent loss of edge information"
+  },
+  {
+    "question": "Which of the following best describes what happens to the input data in a CNN?",
+    "options": ["a) It is stored in a database for analysis", "b) It is passed through layers that extract features and classify", "c) It is directly converted to labels", "d) It is compressed into one value"],
+    "answer": "b) It is passed through layers that extract features and classify"
+  },
+  {
+    "question": "Which of the following are the core building blocks of a CNN?",
+    "options": ["a) Dense layers and dropout", "b) Input layer and activation layer", "c) Convolutional layers and pooling layers", "d) Backpropagation and optimizers"],
+    "answer": "c) Convolutional layers and pooling layers"
+  },
+  {
+    "question": "What is the formula for zero-padding size P?",
+    "options": ["a) P=K/2", "b) P=(K-1)/2", "c) P=K-1", "d) P=K+1"],
+    "answer": "b) P=(K-1)/2"
+  },
+  {
+    "question": "What is the key behavior of the ReLU function?",
+    "options": ["a) Reverses negative values", "b) Outputs only 0 or 1", "c) Converts negatives to 0, keeps positives unchanged", "d) Maps inputs between -1 and 1"],
+    "answer": "c) Converts negatives to 0, keeps positives unchanged"
+  },
+  {
+    "question": "Which of the following explains why ReLU is commonly used in CNNs?",
+    "options": ["a) It generates random features", "b) It increases the number of filters", "c) It speeds up training by eliminating negative values", "d) It compresses input size"],
+    "answer": "c) It speeds up training by eliminating negative values"
+  },
+  {
+    "question": "What is the purpose of applying multiple filters on the same image in a CNN?",
+    "options": ["a) To reduce the image size", "b) To capture diverse features by stacking outputs", "c) To average all convolution results", "d) To remove redundant data"],
+    "answer": "b) To capture diverse features by stacking outputs"
+  },
+  {
+    "question": "Which of the following is NOT a pooling method mentioned?",
+    "options": ["a) Max pooling", "b) Sum pooling", "c) Average pooling", "d) Min pooling"],
+    "answer": "d) Min pooling"
+  },
+  {
+    "question": "What is the role of weights and bias in the fully connected layer formula: X = \u03a3 wiPi + b\u2032?",
+    "options": ["a) To perform pooling", "b) To remove redundant features", "c) To transform inputs for classification", "d) To resize the image"],
+    "answer": "c) To transform inputs for classification"
+  },
+  {
+    "question": "Why are multiple fully connected layers used in CNNs?",
+    "options": ["a) To apply filters at deeper levels", "b) To remove pooling", "c) To gradually refine features for final prediction", "d) To replace convolution"],
+    "answer": "c) To gradually refine features for final prediction"
+  },
+  {
+    "question": "In the SoftMax function, what does the denominator represent?",
+    "options": ["a) Maximum value of the input vector", "b) Number of hidden layers", "c) Sum of exponentials of all class scores", "d) Average pooling result"],
+    "answer": "c) Sum of exponentials of all class scores"
+  },
+  {
+    "question": "Which of the following is the correct order of operations in a CNN?",
+    "options": ["a) Input \u2192 Flattening \u2192 Convolution \u2192 Softmax", "b) Input \u2192 Fully Connected \u2192 Pooling \u2192 Classification", "c) Input \u2192 Convolution \u2192 ReLU \u2192 Pooling \u2192 Flatten \u2192 FC \u2192 Softmax", "d) Input \u2192 Max Pooling \u2192 Softmax \u2192 ReLU"],
+    "answer": "c) Input \u2192 Convolution \u2192 ReLU \u2192 Pooling \u2192 Flatten \u2192 FC \u2192 Softmax"
+  },
+  {
+    "question": "What is the role of the ReLU activation function in a CNN?",
+    "options": ["a) Resize images", "b) Add bias", "c) Introduce non-linearity by eliminating negative values", "d) Convert to grayscale"],
+    "answer": "c) Introduce non-linearity by eliminating negative values"
+  }
+]
