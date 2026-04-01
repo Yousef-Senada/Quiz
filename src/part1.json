@@ -1,452 +1,512 @@
 [
   {
-    "question": "Reinforcement learning is an area of .............. .",
-    "options": ["a) Deep Learning", "b) Machine Learning", "c) Supervised Learning", "d) Robotics"],
-    "answer": "b) Machine Learning"
-  },
-  {
-    "question": "In reinforcement learning, the model takes action to maximize .............. .",
-    "options": ["a) Reward", "b) Data", "c) Error", "d) Input"],
-    "answer": "a) Reward"
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of reinforcement learning?",
-    "options": ["a) It is about taking suitable action to maximize reward.", "b) It is employed to find the best possible behavior.", "c) The training data has the answer key.", "d) There is no answer key for the agent."],
-    "answer": "c) The training data has the answer key."
-  },
-  {
-    "question": "Reinforcement learning differs from supervised learning because in supervised learning ..............",
-    "options": ["a) the model is trained without an answer key", "b) the training data has the answer key", "c) there is no reward", "d) the agent decides what to do"],
-    "answer": "b) the training data has the answer key"
-  },
-  {
-    "question": "What is the science of decision making in the context of the material?",
-    "options": ["a) Supervised Learning", "b) Unsupervised Learning", "c) Reinforcement Learning", "d) Deep Learning"],
-    "answer": "c) Reinforcement Learning"
-  },
-  {
-    "question": "In reinforcement learning, algorithms learn from .............. .",
-    "options": ["a) Labeled data", "b) Unlabeled data", "c) Outcomes", "d) A teacher"],
-    "answer": "c) Outcomes"
-  },
-  {
-    "question": "The feedback an RL algorithm receives after each action helps it determine if the choice was .............. .",
-    "options": ["a) Correct, neutral, or incorrect", "b) Only correct or incorrect", "c) Only neutral", "d) None of them"],
-    "answer": "a) Correct, neutral, or incorrect"
-  },
-  {
-    "question": "In the training process for reinforcement learning, the user decides to .............. the model based on its output.",
-    "options": ["a) Reward or punish", "b) Supervise", "c) Label", "d) Ignore"],
-    "answer": "a) Reward or punish"
-  },
-  {
-    "question": "The best solution in reinforcement learning is decided based on ...........",
-    "options": ["a) The minimum error", "b) The maximum reward", "c) The first solution found", "d) The input data"],
-    "answer": "b) The maximum reward"
-  },
-  {
-    "question": "Which of the following is an application of Reinforcement Learning?",
-    "options": ["a) Housing pricing", "b) Robotics", "c) Image recognition", "d) Natural Language Processing"],
-    "answer": "b) Robotics"
-  },
-  {
-    "question": "A master chess player making a move is given as an example of ......... .",
-    "options": ["a) Unsupervised Learning", "b) An application of Reinforcement Learning", "c) A supervised learning problem", "d) A Convolutional Neural Network"],
-    "answer": "b) An application of Reinforcement Learning"
-  },
-  {
-    "question": "Which of the following is an advantage of Reinforcement Learning?",
-    "options": ["a) It is ideal for solving simple problems.", "b) It requires very little computation.", "c) It can be used to solve very complex problems.", "d) The reward function is easy to design."],
-    "answer": "c) It can be used to solve very complex problems."
-  },
-  {
-    "question": "One of the advantages of RL is that it can handle environments that are .............. .",
-    "options": ["a) Deterministic", "b) Non-deterministic", "c) Static", "d) Labeled"],
-    "answer": "b) Non-deterministic"
-  },
-  {
-    "question": "Which of the following is a disadvantage of Reinforcement Learning?",
-    "options": ["a) It cannot be combined with other techniques.", "b) It needs a lot of data and computation.", "c) It is preferable for simple problems.", "d) It is easy to debug."],
-    "answer": "b) It needs a lot of data and computation."
-  },
-  {
-    "question": "Reinforcement Learning is highly dependent on the quality of the .............. .",
-    "options": ["a) Input data", "b) Neural network", "c) Reward function", "d) Teacher"],
-    "answer": "c) Reward function"
-  },
-  {
-    "question": "Which of the following statements about Deep Learning is correct?",
-    "options": ["a) It is a subset of Reinforcement Learning.", "b) It is a separate field from Machine Learning.", "c) It is a type of Machine Learning.", "d) It is the same as Convolutional Neural Networks."],
-    "answer": "c) It is a type of Machine Learning."
-  },
-  {
-    "question": "The most widely used deep learning method for image processing is .............. .",
-    "options": ["a) Deep Belief Nets (DBN)", "b) Stacked Auto-encoders (SAE)", "c) Recurrent Neural Networks (RNN)", "d) Convolutional Neural Networks (CNNs)"],
-    "answer": "d) Convolutional Neural Networks (CNNs)"
-  },
-  {
-    "question": "CNN architectures make the explicit assumption that the inputs are .............. .",
-    "options": ["a) Text", "b) Audio", "c) Images", "d) Structured data"],
-    "answer": "c) Images"
-  },
-  {
-    "question": "What operation is applied in the convolutional layers of a CNN?",
-    "options": ["a) A pooling operation", "b) A flattening operation", "c) A convolution operation", "d) A classification operation"],
-    "answer": "c) A convolution operation"
-  },
-  {
-    "question": "Why is it not practical to apply a fully connected feed-forward network directly to images?",
-    "options": ["a) Because it requires a very high number of neurons.", "b) Because it cannot classify images.", "c) Because it cannot learn features.", "d) Because it does not use activation functions."],
-    "answer": "a) Because it requires a very high number of neurons."
-  },
-  {
-    "question": "The convolution operation reduces the number of .............. .",
-    "options": ["a) Filters", "b) Layers", "c) Free parameters (weights)", "d) Pooling operations"],
-    "answer": "c) Free parameters (weights)"
-  },
-  {
-    "question": "Which pooling layer uses the maximum value from each cluster of neurons?",
-    "options": ["a) Average pooling", "b) Sum pooling", "c) Max pooling", "d) Min pooling"],
-    "answer": "c) Max pooling"
-  },
-  {
-    "question": "Which of the following is a classic CNN model?",
-    "options": ["a) GoogleNet", "b) ResNet-101", "c) AlexNet", "d) Inception-V3"],
-    "answer": "c) AlexNet"
-  },
-  {
-    "question": "The frequently used CNN architectures mentioned are trained on which dataset?",
-    "options": ["a) CIFAR-10", "b) MNIST", "c) ImageNet", "d) Pascal VOC"],
-    "answer": "c) ImageNet"
-  },
-  {
-    "question": "The CNN model architecture consists of which two main parts?",
-    "options": ["a) Input and Output", "b) Feature Learning and Classification", "c) Convolution and Pooling", "d) Training and Testing"],
-    "answer": "b) Feature Learning and Classification"
-  },
-  {
-    "question": "In a CNN, what is the primary function of the convolutional layer?",
-    "options": ["a) To reduce dimensionality", "b) To perform classification", "c) To extract features", "d) To flatten the data"],
-    "answer": "c) To extract features"
-  },
-  {
-    "question": "The linear function used to extract features in the convolution operation is called a .............. .",
-    "options": ["a) Stride", "b) Padding", "c) Filter or Kernel", "d) Pool"],
-    "answer": "c) Filter or Kernel"
-  },
-  {
-    "question": "What does the term 'stride' refer to in the context of a convolutional layer?",
-    "options": ["a) The size of the filter", "b) The step size by which the filter moves", "c) The amount of padding added", "d) The type of activation function"],
-    "answer": "b) The step size by which the filter moves"
-  },
-  {
-    "question": "What is the purpose of 'padding' in a convolutional layer?",
-    "options": ["a) To increase the number of filters", "b) To decrease the stride", "c) To control the spatial size of the output", "d) To add an activation function"],
-    "answer": "c) To control the spatial size of the output"
-  },
-  {
-    "question": "The most commonly used activation function in CNNs which eliminates negative values is .............. .",
-    "options": ["a) Sigmoid", "b) Tanh", "c) Softmax", "d) ReLU"],
-    "answer": "d) ReLU"
-  },
-  {
-    "question": "It has been observed that a CNN with ReLU trains .............. than a network with hyperbolic tangent.",
-    "options": ["a) Much faster", "b) Much slower", "c) At the same speed", "d) None of them"],
-    "answer": "a) Much faster"
-  },
-  {
-    "question": "What is the primary purpose of a pooling layer?",
-    "options": ["a) To extract features", "b) To reduce the spatial size of the features", "c) To add non-linearity", "d) To perform the final classification"],
-    "answer": "b) To reduce the spatial size of the features"
-  },
-  {
-    "question": "Which of the following is a type of pooling?",
-    "options": ["a) Max pooling", "b) Convolution pooling", "c) ReLU pooling", "d) Softmax pooling"],
-    "answer": "a) Max pooling"
-  },
-  {
-    "question": "After feature extraction, the resultant is flattened into a single vector for what purpose?",
-    "options": ["a) To be used as input for the fully connected layer", "b) To perform another convolution", "c) To visualize the features", "d) To increase the number of parameters"],
-    "answer": "a) To be used as input for the fully connected layer"
-  },
-  {
-    "question": "The operation of a fully connected layer is to .............. .",
-    "options": ["a) Apply convolution", "b) Connect all input feature maps to a larger feature map", "c) Reduce dimensionality", "d) Extract low-level features"],
-    "answer": "b) Connect all input feature maps to a larger feature map"
-  },
-  {
-    "question": "The last fully connected layer inside a CNN provides a .............. for each object.",
-    "options": ["a) Score or probability", "b) Binary value", "c) Feature map", "d) Filter"],
-    "answer": "a) Score or probability"
-  },
-  {
-    "question": "The SoftMax layer translates the input one-dimensional array into a vector with .............. for each class.",
-    "options": ["a) A score", "b) A probability", "c) A label", "d) A filter"],
-    "answer": "b) A probability"
-  },
-  {
-    "question": "According to the mathematical definition, the sum of outputs from a SoftMax function for all classes is .............. .",
-    "options": ["a) 0", "b) 100", "c) 1", "d) -1"],
-    "answer": "c) 1"
-  },
-  {
-    "question": "Which of the following statements is true about the input and output of a Reinforcement Learning model?",
-    "options": ["a) The input is labeled data, and the output is a prediction.", "b) The input is an initial state, and there are many possible outputs.", "c) The input is unstructured data, and the output is a class.", "d) The input is an initial state, and the output is always a single solution."],
-    "answer": "b) The input is an initial state, and there are many possible outputs."
-  },
-  {
-    "question": "An adaptive controller adjusting parameters of a petroleum refinery is an example of .............. .",
-    "options": ["a) Supervised learning", "b) An application of Reinforcement Learning", "c) Unsupervised learning", "d) A limitation of deep learning"],
-    "answer": "b) An application of Reinforcement Learning"
-  },
-  {
-    "question": "One advantage of RL is that it can correct errors that occurred during the .............. .",
-    "options": ["a) Testing process", "b) Deployment process", "c) Training process", "d) Data collection process"],
-    "answer": "c) Training process"
-  },
-  {
-    "question": "Why is reinforcement learning difficult to debug and interpret?",
-    "options": ["a) Because the code is too complex.", "b) Because it is not always clear why the agent is behaving in a certain way.", "c) Because it does not use any algorithms.", "d) Because it requires a teacher."],
-    "answer": "b) Because it is not always clear why the agent is behaving in a certain way."
-  },
-  {
-    "question": "The fully connected layers in a CNN are in principle the same as a .............. .",
-    "options": ["a) Convolutional layer", "b) Pooling layer", "c) Traditional multi-layer perceptron neural network (MLP)", "d) Activation function"],
-    "answer": "c) Traditional multi-layer perceptron neural network (MLP)"
-  },
-  {
-    "question": "The CNN architectures can be categorized into which three strategies?",
-    "options": ["a) Simple, Complex, and Hybrid", "b) Classic, Inception, and Residual", "c) Supervised, Unsupervised, and Reinforcement", "d) Shallow, Medium, and Deep"],
-    "answer": "b) Classic, Inception, and Residual"
-  },
-  {
-    "question": "In the formula for a convolutional layer, what does the bias term 'b' represent?",
-    "options": ["a) A value added to the convoluted part", "b) The step size", "c) The filter size", "d) The number of filters"],
-    "answer": "a) A value added to the convoluted part"
-  },
-  {
-    "question": "The input of a CNN model for image processing can be as large as 100x100, but a fully connected layer would have .............. for each neuron in the second layer.",
-    "options": ["a) 100 weights", "b) 10,000 weights", "c) 1,000,000 weights", "d) 25 weights"],
-    "answer": "b) 10,000 weights"
-  },
-  {
-    "question": "In the equation for the dimension of a pooled part, what does mc represent?",
-    "options": ["a) The number of channels in the input image", "b) The number of classes", "c) The stride value", "d) The filter dimension"],
-    "answer": "a) The number of channels in the input image"
-  },
-  {
-    "question": "What is the function of the SoftMax layer in a CNN?",
-    "options": ["a) To extract features from the image.", "b) To reduce the dimensionality of the feature map.", "c) To provide a probability for each class.", "d) To apply a convolution operation."],
-    "answer": "c) To provide a probability for each class."
-  },
-  {
-    "question": "What is the role of the \"Fully Connected\" layer named fc_2 in the provided table?",
-    "options": ["a) To perform convolution with 64 filters.", "b) To produce 10 outputs, likely for 10 classes.", "c) To apply max pooling.", "d) To normalize the input image."],
-    "answer": "b) To produce 10 outputs, likely for 10 classes."
-  },
-  {
-    "question": "Which layer in the CNN architecture example is directly connected to the final Softmax layer?",
-    "options": ["a) conv_3", "b) fc_1", "c) avgpool2d_2", "d) fc_2"],
-    "answer": "d) fc_2"
-  },
-  {
-    "question": "Which type of learning uses labeled data with a teacher?",
-    "options": ["a) Unsupervised Learning", "b) Reinforcement Learning", "c) Supervised Learning", "d) Clustering"],
-    "answer": "c) Supervised Learning"
-  },
-  {
-    "question": "What type of data is typically used in supervised learning?",
-    "options": ["a) Unstructured data like images", "b) Random text", "c) Structured data with known labels", "d) Compressed audio"],
-    "answer": "c) Structured data with known labels"
-  },
-  {
-    "question": "Which of the following is an example of unstructured data?",
-    "options": ["a) House size and age", "b) Image of a cat", "c) Excel sheet with labeled prices", "d) Student grades in table"],
-    "answer": "b) Image of a cat"
-  },
-  {
-    "question": "Unsupervised learning typically works with:",
-    "options": ["a) Data with labeled outputs", "b) Structured tabular data", "c) Data without labeled outputs", "d) Only audio files"],
-    "answer": "c) Data without labeled outputs"
-  },
-  {
-    "question": "What is reinforcement learning primarily concerned with?",
-    "options": ["a) Memorizing training data", "b) Taking suitable actions to maximize reward in a situation", "c) Encrypting and storing large datasets", "d) Labeling datasets manually"],
-    "answer": "b) Taking suitable actions to maximize reward in a situation"
-  },
-  {
-    "question": "Which of the following best describes reinforcement learning?",
-    "options": ["a) Learning from labeled examples", "b) Learning without taking any actions", "c) Learning by interacting with the environment and receiving rewards or penalties", "d) Learning by repeating data multiple times"],
-    "answer": "c) Learning by interacting with the environment and receiving rewards or penalties"
-  },
-  {
-    "question": "How does reinforcement learning differ from supervised learning?",
-    "options": ["a) In reinforcement learning, data is unlabeled but feedback is available through rewards", "b) Reinforcement learning uses only static datasets", "c) Supervised learning doesn't need any training data", "d) Supervised learning only applies to audio tasks"],
-    "answer": "a) In reinforcement learning, data is unlabeled but feedback is available through rewards"
-  },
-  {
-    "question": "What role does the reinforcement agent play?",
-    "options": ["a) Provides labels for supervised models", "b) Observes without acting", "c) Decides what action to take to maximize reward", "d) Cleans noisy data"],
-    "answer": "c) Decides what action to take to maximize reward"
-  },
-  {
-    "question": "Which of the following is TRUE about reinforcement learning compared to supervised/unsupervised learning?",
-    "options": ["a) It uses labeled data like supervised learning", "b) It doesn't involve learning from outcomes", "c) Data is not part of the typical input as in supervised/unsupervised learning", "d) It stores all actions before choosing"],
-    "answer": "c) Data is not part of the typical input as in supervised/unsupervised learning"
-  },
-  {
-    "question": "Which of the following is a benefit of using reinforcement learning?",
-    "options": ["a) It's only used for sorting data", "b) It avoids decision-making", "c) It allows automated systems to make many small decisions without human input", "d) It requires constant human supervision"],
-    "answer": "c) It allows automated systems to make many small decisions without human input"
-  },
-  {
-    "question": "What makes reinforcement learning suitable for complex problems?",
-    "options": ["a) It requires no training", "b) It avoids decision making", "c) It learns through interaction and feedback", "d) It's based on fixed rules"],
-    "answer": "c) It learns through interaction and feedback"
-  },
-  {
-    "question": "How is training data obtained in reinforcement learning?",
-    "options": ["a) From static datasets", "b) Through predefined labels", "c) By agent interaction with the environment", "d) Using human-written scripts"],
-    "answer": "c) By agent interaction with the environment"
-  },
-  {
-    "question": "Which of the following is TRUE about reinforcement learning?",
-    "options": ["a) It cannot handle uncertainty", "b) It works only in deterministic environments", "c) It's flexible and works well with deep learning", "d) It doesn't require feedback"],
-    "answer": "c) It's flexible and works well with deep learning"
-  },
-  {
-    "question": "Why is reinforcement learning not ideal for simple problems?",
-    "options": ["a) It is too slow", "b) It overfits easily", "c) It's too complex and requires high resources", "d) It doesn't support binary classification"],
-    "answer": "c) It's too complex and requires high resources"
-  },
-  {
-    "question": "Which of the following statements is TRUE about reinforcement learning models?",
-    "options": ["a) They stop learning after first reward", "b) They continue learning through repeated training and feedback", "c) They need labeled data to train", "d) They don't require any feedback"],
-    "answer": "b) They continue learning through repeated training and feedback"
-  },
-  {
-    "question": "What are the three main components in a neural network?",
-    "options": ["a) Input, activation, weights", "b) Input, hidden neurons, output", "c) Data, output, filters", "d) Layers, cost, signal"],
-    "answer": "b) Input, hidden neurons, output"
-  },
-  {
-    "question": "What do hidden neurons do in a neural network?",
-    "options": ["a) Store data", "b) Perform intermediate processing of features", "c) Output labels", "d) Only visualize the input"],
-    "answer": "b) Perform intermediate processing of features"
-  },
-  {
-    "question": "Which neural network structure is best for sequential data like text or speech?",
-    "options": ["a) CNN", "b) Standard NN", "c) RNN", "d) GAN"],
-    "answer": "c) RNN"
-  },
-  {
-    "question": "Standard neural networks are best suited for:",
-    "options": ["a) Image segmentation", "b) Audio signal prediction", "c) Structured data like housing pricing", "d) Language translation"],
-    "answer": "c) Structured data like housing pricing"
-  },
-  {
-    "question": "According to the performance vs data chart, which model performs best with large data?",
-    "options": ["a) Small neural network", "b) Traditional learning algorithm", "c) Large neural network", "d) Linear regression"],
-    "answer": "c) Large neural network"
-  },
-  {
-    "question": "What does the graph suggest about deep learning and data?",
-    "options": ["a) Deep learning doesn't need data", "b) Deep learning gets worse with more data", "c) Deep learning improves more with larger datasets compared to older algorithms", "d) Deep learning plateaus early"],
-    "answer": "c) Deep learning improves more with larger datasets compared to older algorithms"
-  },
-  {
-    "question": "Why do older learning algorithms perform worse as data increases?",
-    "options": ["a) They're not optimized", "b) They can't generalize well on large, complex data", "c) They use image-based input", "d) They use deep networks"],
-    "answer": "b) They can't generalize well on large, complex data"
-  },
-  {
-    "question": "Which deep learning models are listed as examples along with CNNs?",
-    "options": ["a) DBN, DBM, SAE", "b) KNN, SVM, PCA", "c) RNN, LSTM, GPT", "d) GAN, BERT, LDA"],
-    "answer": "a) DBN, DBM, SAE"
-  },
-  {
-    "question": "Which of the following is not a layer type used in CNNs?",
-    "options": ["a) Convolutional", "b) Pooling", "c) Linear Regression", "d) Fully Connected"],
-    "answer": "c) Linear Regression"
-  },
-  {
-    "question": "Which of the following is a residual model?",
-    "options": ["a) AlexNet", "b) VGGNet", "c) ResNet-101", "d) Inception-V3"],
-    "answer": "c) ResNet-101"
-  },
-  {
-    "question": "How many categories are these CNN models typically used to classify in ImageNet?",
-    "options": ["a) 10", "b) 100", "c) 1000", "d) 10000"],
-    "answer": "c) 1000"
-  },
-  {
-    "question": "In a standard neural network, what connects the input layer to the output layer?",
-    "options": ["a) Convolution filters", "b) Max pooling", "c) Hidden layers", "d) Activation maps"],
-    "answer": "c) Hidden layers"
-  },
-  {
-    "question": "What is the main purpose of padding in CNNs?",
-    "options": ["a) Reduce the input size", "b) Increase the kernel size", "c) Prevent loss of edge information", "d) Add more filters"],
-    "answer": "c) Prevent loss of edge information"
-  },
-  {
-    "question": "Which of the following best describes what happens to the input data in a CNN?",
-    "options": ["a) It is stored in a database for analysis", "b) It is passed through layers that extract features and classify", "c) It is directly converted to labels", "d) It is compressed into one value"],
-    "answer": "b) It is passed through layers that extract features and classify"
-  },
-  {
-    "question": "Which of the following are the core building blocks of a CNN?",
-    "options": ["a) Dense layers and dropout", "b) Input layer and activation layer", "c) Convolutional layers and pooling layers", "d) Backpropagation and optimizers"],
-    "answer": "c) Convolutional layers and pooling layers"
-  },
-  {
-    "question": "What is the formula for zero-padding size P?",
-    "options": ["a) P=K/2", "b) P=(K-1)/2", "c) P=K-1", "d) P=K+1"],
-    "answer": "b) P=(K-1)/2"
-  },
-  {
-    "question": "What is the key behavior of the ReLU function?",
-    "options": ["a) Reverses negative values", "b) Outputs only 0 or 1", "c) Converts negatives to 0, keeps positives unchanged", "d) Maps inputs between -1 and 1"],
-    "answer": "c) Converts negatives to 0, keeps positives unchanged"
-  },
-  {
-    "question": "Which of the following explains why ReLU is commonly used in CNNs?",
-    "options": ["a) It generates random features", "b) It increases the number of filters", "c) It speeds up training by eliminating negative values", "d) It compresses input size"],
-    "answer": "c) It speeds up training by eliminating negative values"
-  },
-  {
-    "question": "What is the purpose of applying multiple filters on the same image in a CNN?",
-    "options": ["a) To reduce the image size", "b) To capture diverse features by stacking outputs", "c) To average all convolution results", "d) To remove redundant data"],
-    "answer": "b) To capture diverse features by stacking outputs"
-  },
-  {
-    "question": "Which of the following is NOT a pooling method mentioned?",
-    "options": ["a) Max pooling", "b) Sum pooling", "c) Average pooling", "d) Min pooling"],
-    "answer": "d) Min pooling"
-  },
-  {
-    "question": "What is the role of weights and bias in the fully connected layer formula: X = \u03a3 wiPi + b\u2032?",
-    "options": ["a) To perform pooling", "b) To remove redundant features", "c) To transform inputs for classification", "d) To resize the image"],
-    "answer": "c) To transform inputs for classification"
-  },
-  {
-    "question": "Why are multiple fully connected layers used in CNNs?",
-    "options": ["a) To apply filters at deeper levels", "b) To remove pooling", "c) To gradually refine features for final prediction", "d) To replace convolution"],
-    "answer": "c) To gradually refine features for final prediction"
-  },
-  {
-    "question": "In the SoftMax function, what does the denominator represent?",
-    "options": ["a) Maximum value of the input vector", "b) Number of hidden layers", "c) Sum of exponentials of all class scores", "d) Average pooling result"],
-    "answer": "c) Sum of exponentials of all class scores"
-  },
-  {
-    "question": "Which of the following is the correct order of operations in a CNN?",
-    "options": ["a) Input \u2192 Flattening \u2192 Convolution \u2192 Softmax", "b) Input \u2192 Fully Connected \u2192 Pooling \u2192 Classification", "c) Input \u2192 Convolution \u2192 ReLU \u2192 Pooling \u2192 Flatten \u2192 FC \u2192 Softmax", "d) Input \u2192 Max Pooling \u2192 Softmax \u2192 ReLU"],
-    "answer": "c) Input \u2192 Convolution \u2192 ReLU \u2192 Pooling \u2192 Flatten \u2192 FC \u2192 Softmax"
-  },
-  {
-    "question": "What is the role of the ReLU activation function in a CNN?",
-    "options": ["a) Resize images", "b) Add bias", "c) Introduce non-linearity by eliminating negative values", "d) Convert to grayscale"],
-    "answer": "c) Introduce non-linearity by eliminating negative values"
+    "question": "Which of the following statements regarding managers in today's world is accurate?",
+    "options": [
+      "Their age range is limited to between 30 and 65 years.",
+      "They are found only in large corporations.",
+      "They can be found exclusively in for-profit organizations.",
+      "The single most important variable in employee productivity and loyalty is the quality of the relationship between employees and their direct supervisors."
+    ],
+    "answer": "The single most important variable in employee productivity and loyalty is the quality of the relationship between employees and their direct supervisors."
+  },
+  {
+    "question": "An individual who works with and through other people by coordinating their work activities in order to accomplish organizational goals is ________.",
+    "options": [
+      "An assembly line worker",
+      "A laborer",
+      "A manager",
+      "A salesperson"
+    ],
+    "answer": "A manager"
+  },
+  {
+    "question": "Managers with titles such as regional manager, project leader, or division manager are ________.",
+    "options": [
+      "First-line managers",
+      "Top managers",
+      "Production managers",
+      "Middle managers"
+    ],
+    "answer": "Middle managers"
+  },
+  {
+    "question": "________ are responsible for making organization-wide decisions and establishing the plans and goals that affect the entire organization.",
+    "options": [
+      "First-line managers",
+      "Top managers",
+      "Production managers",
+      "Research managers"
+    ],
+    "answer": "Top managers"
+  },
+  {
+    "question": "A ________ is an example of a first-line manager.",
+    "options": [
+      "Division manager",
+      "Store manager",
+      "Regional manager",
+      "Shift manager"
+    ],
+    "answer": "Shift manager"
+  },
+  {
+    "question": "________ have titles such as executive vice president, chief operating officer, and chief executive officer.",
+    "options": [
+      "Team leaders",
+      "Middle managers",
+      "First-line managers",
+      "Top managers"
+    ],
+    "answer": "Top managers"
+  },
+  {
+    "question": "An automobile manufacturer increased the total number of cars produced keeping the production cost the same. The manufacturer ________.",
+    "options": [
+      "Increased its equity",
+      "Increased its efficiency",
+      "Increased its effectiveness",
+      "Increased its effability"
+    ],
+    "answer": "Increased its efficiency"
+  },
+  {
+    "question": "Effectiveness is associated with ________.",
+    "options": [
+      "Reducing inventory",
+      "Decreasing production time",
+      "Doing the right things",
+      "Doing things right"
+    ],
+    "answer": "Doing the right things"
+  },
+  {
+    "question": "Today, the basic management functions have been condensed to ________.",
+    "options": [
+      "Planning, organizing, commanding, and coordinating",
+      "Planning, organizing, coordinating, and controlling",
+      "Planning, organizing, commanding, and controlling",
+      "Planning, organizing, leading, and controlling"
+    ],
+    "answer": "Planning, organizing, leading, and controlling"
+  },
+  {
+    "question": "Establishing strategies for achieving organizational goals is a part of the ________ function.",
+    "options": [
+      "Leading",
+      "Coordinating",
+      "Planning",
+      "Organizing"
+    ],
+    "answer": "Planning"
+  },
+  {
+    "question": "Organizing includes ________.",
+    "options": [
+      "Setting organizational goals",
+      "Hiring organizational members",
+      "Motivating organizational members",
+      "Determining who does what tasks"
+    ],
+    "answer": "Determining who does what tasks"
+  },
+  {
+    "question": "A manager resolving conflict among organizational members is performing which of the following functions?",
+    "options": [
+      "Controlling",
+      "Planning",
+      "Organizing",
+      "Leading"
+    ],
+    "answer": "Leading"
+  },
+  {
+    "question": "The process of monitoring, comparing, and correcting is called ________.",
+    "options": [
+      "Controlling",
+      "Planning",
+      "Leading",
+      "Organizing"
+    ],
+    "answer": "Controlling"
+  },
+  {
+    "question": "According to Mintzberg's managerial roles, the ________ roles are ones that involve people and other duties that are ceremonial and symbolic in nature.",
+    "options": [
+      "Informational",
+      "Interpersonal",
+      "Technical",
+      "Decisional"
+    ],
+    "answer": "Interpersonal"
+  },
+  {
+    "question": "A deliberate arrangement of people to accomplish some specific purpose (that individuals independently could not accomplish alone) is called ________.",
+    "options": [
+      "Organization",
+      "Technical",
+      "Conceptual",
+      "Empirical"
+    ],
+    "answer": "Organization"
+  },
+  {
+    "question": "Common Characteristics of Organizations include ________.",
+    "options": [
+      "Have a distinct purpose (goal)",
+      "Composed of people",
+      "Have a deliberate structure",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following skills tend to be more important for first-line managers since they manage employees who produce the organization's product?",
+    "options": [
+      "Human",
+      "Technical",
+      "Conceptual",
+      "Empirical"
+    ],
+    "answer": "Technical"
+  },
+  {
+    "question": "Which of the following is true regarding a manager's job with respect to customers?",
+    "options": [
+      "Today, most employees in developed countries work in product sectors.",
+      "Managers have not yet recognized the importance of delivering consistent high-quality customer services.",
+      "Managers must create a customer-responsive organization in order to survive successfully in today's environment.",
+      "Employees play an insignificant role in delivering quality customer services."
+    ],
+    "answer": "Managers must create a customer-responsive organization in order to survive successfully in today's environment."
+  },
+  {
+    "question": "Which of the following is true regarding the changes that a manager's job is undergoing?",
+    "options": [
+      "Managers practicing sustainability integrate economic, environmental, and social opportunities into the business strategy.",
+      "Digitization hardly affects a manager's responsibilities.",
+      "According to managers, employees contribute the least to the success of a customer service organization.",
+      "Innovative efforts are exclusively important for managers serving in high-tech organizations."
+    ],
+    "answer": "Managers practicing sustainability integrate economic, environmental, and social opportunities into the business strategy."
+  },
+  {
+    "question": "Which of the following represents one of the challenges of management?",
+    "options": [
+      "Enjoy relatively easy work",
+      "Support, coach, and nurture others",
+      "Have little influence on organizational outcomes",
+      "Must deal with a variety of personalities"
+    ],
+    "answer": "Must deal with a variety of personalities"
+  },
+  {
+    "question": "The Value of Studying Management includes ________.",
+    "options": [
+      "The universality of management",
+      "Good management is needed in all organizations",
+      "The reality of work",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A series of eight steps that begins with identifying a problem and concludes with evaluating a decision's effectiveness is known as ________.",
+    "options": [
+      "The decision-making process",
+      "Decision support theory",
+      "A decision-tree analysis",
+      "A decision information system"
+    ],
+    "answer": "The decision-making process"
+  },
+  {
+    "question": "A(n) ________ is the existence of a discrepancy between an existing and a desired state of affairs.",
+    "options": [
+      "Hazard",
+      "Risk",
+      "Uncertainty",
+      "Problem"
+    ],
+    "answer": "Problem"
+  },
+  {
+    "question": "Amanda, a single parent, is looking for a new job. Considering that she has two school-going children, she is particularly keen on finding an employer who can provide her with alternative work arrangements such as flexible work hours and telecommuting. In terms of the decision-making process, these represent Amanda's ________.",
+    "options": [
+      "Decision criteria",
+      "Problems",
+      "Alternatives",
+      "Heuristics"
+    ],
+    "answer": "Decision criteria"
+  },
+  {
+    "question": "The final step in the decision-making process is to ________.",
+    "options": [
+      "Determine the criteria for the next decision",
+      "Analyze the process of allocating weights to the decision criteria",
+      "Evaluate the outcome of the decision",
+      "Implement the chosen alternative"
+    ],
+    "answer": "Evaluate the outcome of the decision"
+  },
+  {
+    "question": "A procedure ________.",
+    "options": [
+      "Is an explicit statement that tells a manager what can or cannot be done",
+      "Is a series of sequential steps a manager uses to respond to a structured problem",
+      "Is used mainly for unstructured, rather than structured, problems",
+      "Is subject to the interpretation of the decision maker"
+    ],
+    "answer": "Is a series of sequential steps a manager uses to respond to a structured problem"
+  },
+  {
+    "question": "________ involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities.",
+    "options": [
+      "Execution",
+      "Logistics",
+      "Planning",
+      "Operations"
+    ],
+    "answer": "Planning"
+  },
+  {
+    "question": "The effect of planning on managers is that it forces them to ________.",
+    "options": [
+      "Generate higher profits",
+      "Anticipate and respond to change",
+      "Eliminate uncertainty",
+      "Work at cross purposes"
+    ],
+    "answer": "Anticipate and respond to change"
+  },
+  {
+    "question": "Which one of the following is among the reasons why managers should plan?",
+    "options": [
+      "When work activities are coordinated around plans, inefficiencies become obvious.",
+      "Uncertainty can be eliminated, and the organization can be insulated from change with planning.",
+      "Planning eliminates the need to set goals.",
+      "Planning eliminates the need to measure work effort."
+    ],
+    "answer": "When work activities are coordinated around plans, inefficiencies become obvious."
+  },
+  {
+    "question": "Which one of the following is true of the impact of formal planning on organizational performance?",
+    "options": [
+      "Formal planning is associated with positive financial results.",
+      "Organizations that formally plan invariably outperform those that don't plan.",
+      "The amount of planning done is more important to high performance than the quality of planning and implementation.",
+      "Companies can start seeing the impact of formal planning on performance about a year after starting the planning process."
+    ],
+    "answer": "Formal planning is associated with positive financial results."
+  },
+  {
+    "question": "Most companies' plans can be classified as either ________ or ________.",
+    "options": [
+      "Strategic; financial",
+      "Operational; tactical",
+      "Social; economic",
+      "Strategic; operational"
+    ],
+    "answer": "Strategic; operational"
+  },
+  {
+    "question": "When formal planning fails to lead to higher performance, which one of the following is most likely to be the reason for the failure?",
+    "options": [
+      "A participative style of planning was used.",
+      "Managers were allowed too much autonomy.",
+      "The company emphasized the control function over other functions.",
+      "External forces constrain managers' options"
+    ],
+    "answer": "External forces constrain managers' options"
+  },
+  {
+    "question": "Goals are different from plans because ________.",
+    "options": [
+      "Goals identify specific steps that the organization needs to achieve, and plans identify the overall mission of the organization",
+      "Goals describe financial objectives, and plans describe objectives related to social responsibility",
+      "Goals are important only for small companies, and plans are important only for large companies",
+      "Goals are desired outcomes, and plans describe how those outcomes will be accomplished"
+    ],
+    "answer": "Goals are desired outcomes, and plans describe how those outcomes will be accomplished"
+  },
+  {
+    "question": "Which one of the following statements is true regarding an organization's plans?",
+    "options": [
+      "Plans can differ based on time frame.",
+      "Almost all plans are strategic plans.",
+      "Strategic plans may result in unethical behaviors by employees.",
+      "Long-term success is ensured if managers emphasize operational plans"
+    ],
+    "answer": "Plans can differ based on time frame."
+  },
+  {
+    "question": "Strategic plans are usually ________.",
+    "options": [
+      "Short term, directional, and standing",
+      "Short term, specific, and standing",
+      "Long term, directional, and single use",
+      "Long term, specific, and standing"
+    ],
+    "answer": "Long term, directional, and single use"
+  },
+  {
+    "question": "________ plans apply to the entire organization and establish the organization's overall goals.",
+    "options": [
+      "Departmental",
+      "Strategic",
+      "Operational",
+      "Long-term"
+    ],
+    "answer": "Strategic"
+  },
+  {
+    "question": "Operational plans are usually ________.",
+    "options": [
+      "Short term, directional, and standing",
+      "Short term, specific, and standing",
+      "Long term, directional, and single use",
+      "Long term, specific, and standing"
+    ],
+    "answer": "Short term, specific, and standing"
+  },
+  {
+    "question": "Mr. Slabaugh wants to formulate a plan that lays out general guidelines for his employees and leaves room for interpretation. Which one of the following types of plans would best suit his requirement?",
+    "options": [
+      "Informal",
+      "Specific",
+      "Directional",
+      "Standing"
+    ],
+    "answer": "Directional"
+  },
+  {
+    "question": "Long-term plans are defined as those with a time frame beyond ________.",
+    "options": [
+      "Seven years",
+      "One year",
+      "Five years",
+      "Three years"
+    ],
+    "answer": "Five years"
+  },
+  {
+    "question": "Short-term plans are those covering ________ or less.",
+    "options": [
+      "Three years",
+      "One year",
+      "Six months",
+      "Five years"
+    ],
+    "answer": "One year"
+  },
+  {
+    "question": "________ plans are clearly defined and leave no room for interpretation.",
+    "options": [
+      "Directional",
+      "Stated",
+      "Long-term",
+      "Specific"
+    ],
+    "answer": "Specific"
+  },
+  {
+    "question": "Todd Miller, CEO of Miller's Grocery, has determined that all stores should be well maintained both inside and out. This is an example of a ________.",
+    "options": [
+      "Directional plan",
+      "Specific plan",
+      "Financial goal",
+      "Social goal"
+    ],
+    "answer": "Directional plan"
+  },
+  {
+    "question": "A standing plan is ________.",
+    "options": [
+      "An ongoing plan that provides guidance for activities performed repeatedly",
+      "A plan that stands in place of a preferred plan in case of the failure of the latter",
+      "A one-time plan specifically designed to meet the needs of a unique situation",
+      "A flexible plan that sets out general guidelines for company strategy"
+    ],
+    "answer": "An ongoing plan that provides guidance for activities performed repeatedly"
+  },
+  {
+    "question": "Which one of the following is an example of a standing plan?",
+    "options": [
+      "A retail chain's plan to counter the entry of a new competitor",
+      "A plan developed to address a sudden, unanticipated surge in demand",
+      "A fire escape policy establishing practices to be followed in an emergency",
+      "A plan to cope with radical changes in the political environment"
+    ],
+    "answer": "A fire escape policy establishing practices to be followed in an emergency"
+  },
+  {
+    "question": "When uncertainty is high, plans should be ________ and ________.",
+    "options": [
+      "Specific; flexible",
+      "Directional; standing",
+      "Short-term; directional",
+      "General; informal"
+    ],
+    "answer": "Short-term; directional"
+  },
+  {
+    "question": "The commitment concept says that plans should ________.",
+    "options": [
+      "Extend far enough to meet those commitments made when the plans were developed",
+      "Be done for as long a time period as possible",
+      "Be done for as short a time period as possible",
+      "Not commit to specifically meeting the goals made when the plans were developed"
+    ],
+    "answer": "Extend far enough to meet those commitments made when the plans were developed"
+  },
+  {
+    "question": "In ________, goals set by top managers flow down through the organization and become subgoals for each organizational area.",
+    "options": [
+      "Management by objectives",
+      "Management by observation",
+      "Traditional goal setting",
+      "Traditional planning"
+    ],
+    "answer": "Traditional goal setting"
+  },
+  {
+    "question": "________ is a process of setting mutually-agreed upon goals and using those goals to evaluate employee performance.",
+    "options": [
+      "Management by objectives",
+      "Management by walking around",
+      "Management by observation",
+      "Management by exception"
+    ],
+    "answer": "Management by objectives"
+  },
+  {
+    "question": "Environmental scanning refers to an organization's ________.",
+    "options": [
+      "Social consciousness with regard to sustainability",
+      "Adoption of tools to measure its carbon footprint",
+      "Screening vast amounts of information to detect trends",
+      "Ability to focus solely on potential political change"
+    ],
+    "answer": "Screening vast amounts of information to detect trends"
+  },
+  {
+    "question": "The first step in the decision-making process is to ________.",
+    "options": [
+      "Implement the chosen alternative",
+      "Determine the criteria for the next decision",
+      "Determine what is the problem",
+      "Analyze the process of allocating weights to the decision criteria"
+    ],
+    "answer": "Determine what is the problem"
+  },
+  {
+    "question": "Managers with good ________ know how to communicate, motivate, and lead to get the best out of their people.",
+    "options": [
+      "Conceptual skills",
+      "Empirical skills",
+      "Human skills",
+      "Technical skills"
+    ],
+    "answer": "Human skills"
   }
 ]

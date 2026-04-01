@@ -256,7 +256,7 @@ function App() {
               </svg>
             </div>
           </div>
-          <h1 className="app-title">Selected labs in Artificial Intelligence</h1>
+          <h1 className="app-title">Fundamentals of Management</h1>
 
           <div className="category-grid">
             {Object.entries(CATEGORIES).map(([key, category]) => {

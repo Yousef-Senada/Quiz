@@ -1,101 +1,341 @@
 [
   {
-    "question": "Data is part of the input in reinforcement learning.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "In supervised learning, the model is trained with the correct answer.",
+    "question": "A great manager makes a job more enjoyable and productive.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "The best solution in reinforcement learning is decided based on the minimum reward.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "Reinforcement learning is a good technique for systems that need to make a lot of small decisions without human guidance.",
+    "question": "Managers play an important role in dealing with various challenges being faced by organizations today.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "One advantage of reinforcement learning is that it is easy to debug and interpret.",
+    "question": "A manager's job is all about personal achievement.",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "question": "Reinforcement learning can handle non-deterministic environments.",
+    "question": "A manager's job is all about organization achievement.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "CNN architectures assume the input is in the form of structured data.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "The convolution operation increases the number of free parameters in a neural network.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "A very high number of neurons is necessary if we apply a fully connected network to images.",
+    "question": "In traditionally structured organizations managers can be classified as first-line managers, middle managers, or top managers.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "Max pooling uses the average value from each of a cluster of neurons.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "All CNN models are trained on the ImageNet dataset.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "In a CNN, the activation function is applied before the convolution operation.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "The stride in a convolutional layer determines the step size of the filter.",
+    "question": "Efficiency is described as \"doing things right.\"",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "Zero padding is a common technique used to control the output size in a convolutional layer.",
+    "question": "According to Robert L. Katz, managers need to have technical, human, and conceptual skills.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "ReLU is an activation function that eliminates positive values.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "The purpose of the flattening operation is to convert the multi-dimensional feature maps into a single vector.",
+    "question": "Technical skills become less important as a manager moves into higher levels of management.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "The output of the SoftMax layer is a vector where the sum of its elements is 0.",
+    "question": "Conceptual skills are less important to top managers.",
     "options": ["True", "False"],
     "answer": "False"
   },
   {
-    "question": "Reinforcement learning is preferable for solving simple problems.",
-    "options": ["True", "False"],
-    "answer": "False"
-  },
-  {
-    "question": "The training data in reinforcement learning is obtained via the direct interaction of the agent with the environment.",
+    "question": "Conceptual skills are more important to top managers.",
     "options": ["True", "False"],
     "answer": "True"
   },
   {
-    "question": "The fully connected layer is responsible for feature extraction in a CNN.",
+    "question": "Innovation is confined to high-tech and other technologically sophisticated organizations.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Innovation is not confined to high-tech and other technologically sophisticated organizations.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "For organizations to survive successfully, managers must create a customer-responsive organization.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Management is universally needed in all organizations.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "A portion of a manager's job, especially at lower organizational levels, may entail duties that are often more clerical than managerial.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Management offers challenging, exciting and creative opportunities for misunderstanding and fulfilling work.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Management offers challenging, exciting and creative opportunities for meaningful and fulfilling work.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Challenges of Being A Manager include having opportunities to think creatively and use imagination.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Rewards of Being A Manager include having opportunities to think creatively and use imagination.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Rewards of Being A Manager include having duties that are more clerical than managerial.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Challenges of Being A Manager include having duties that are more clerical than managerial.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The decision-making process begins by identifying decision criteria.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The decision-making process begins by identifying the problem.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "A decision criterion defines what is important or relevant to resolving a problem.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "In the decision-making process, after allocating weights to the decision criteria, the decision maker lists viable alternatives that could resolve the problem.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Once the alternatives to solving a problem have been identified, the next step in the decision-making process is selecting one of these alternatives.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Once the alternatives to solving a problem have been identified, the next step in the decision-making process is analyzing alternatives.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Decision making is a part of the planning, organizing, leading, and controlling functions and thus, the essence of management.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Intuitive decision-making complements rational decision making but not bounded rational decision making.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Intuitive decision-making complements both rational and bounded rational decision making.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "A policy is an explicit statement that tells a manager what can or cannot be done.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "A rule is an explicit statement that tells a manager what can or cannot be done.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Managers need to understand cultural differences to make effective decisions in today's fast-moving world.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Nonprogrammed decision making relies on procedures, rules, and policies.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Programmed decision making relies on procedures, rules, and policies.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Planning is concerned with how objectives are to be accomplished, not what is to be accomplished.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Planning is concerned with both how objectives are to be accomplished and what is to be accomplished.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Planning provides direction to managers and non-managers alike.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The presence of planning inhibits the ability of departments and individuals to work together or organizations to move.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The presence of planning enhances the ability of departments and individuals to work together or organizations to move.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Planning helps managers eliminate uncertainty and insulates organizations from change.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Planning helps managers reduce uncertainty and insulates organizations from change.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Several research studies have conclusively proven that planning organizations always outperform non-planning organizations.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Several research studies have shown that planning organizations often outperform non-planning organizations.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Several research studies have shown that planning organizations outperform non-planning organizations.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Studies indicate that doing a good job planning and implementing those plans play a bigger part in high performance than does how much planning is done.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The number of years used to define short-term and long-term plans has increased considerably because of the greater environmental certainty businesses have today.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The number of years used to define short-term and long-term plans has increased considerably because of the greater environmental uncertainty businesses have today.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Long-term plans are those with a time frame beyond five years.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Short-term plans are those covering one year or less.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "When uncertainty is high and managers must be flexible in order to respond to unexpected changes, directional plans are preferable.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Directional plans are clearly defined and leave no room for interpretation.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Specific plans are clearly defined and leave no room for interpretation.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The standard procedure to be followed by the human resources department of a company when initiating disciplinary action against an employee is an example of a standing plan.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "As managers plan, they develop both goals and plans.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Most businesses have only the single goal of making profits.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Most businesses have multiple goals beyond just making profits.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Strategic goals focus exclusively on the financial performance of the organization.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Strategic goals do not focus only on the financial performance of the organization.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Stated goals are those that an organization pursues.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Real goals are those that an organization pursues.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Firms can monitor, and potentially influence, proposed legislative and political changes using lobbyists.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Figurehead, leader, and liaison are all decisional managerial roles according to Mintzberg.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Implementing an alternative refers to the process of choosing the best alternative.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "A programmed decision is a repetitive decision that can be handled by a routine approach.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "A great manager can inspire employees professionally and personally.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Short-term plans are those with a time frame beyond five years.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Effectiveness is described as \"doing things right.\"",
     "options": ["True", "False"],
     "answer": "False"
   }
