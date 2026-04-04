@@ -1,0 +1,372 @@
+[
+  {
+    "question": "What is an antenna?",
+    "options": ["A device that converts sound into electrical signals", "A device that converts electrical signals into electromagnetic waves", "A device that stores electrical energy", "A device that measures electromagnetic waves"],
+    "answer": "A device that converts electrical signals into electromagnetic waves"
+  },
+  {
+    "question": "Which of the following is an example of a wire antenna?",
+    "options": ["Horn antenna", "Reflector antenna", "Patch antenna", "Dipole antenna"],
+    "answer": "Dipole antenna"
+  },
+  {
+    "question": "The ideal antenna that radiates equally in all directions is:",
+    "options": ["Omni-directional", "Directional", "Isotropic", "Parabolic"],
+    "answer": "Isotropic"
+  },
+  {
+    "question": "Half of a signal power is equivalent to adding:",
+    "options": ["-3 dB", "3 dB", "-4 dB", "-1 dB"],
+    "answer": "-3 dB"
+  },
+  {
+    "question": "Which term describes how energy is emitted from an antenna?",
+    "options": ["Antenna Radiation", "Wave Propagation", "Antenna Gain", "All of the above"],
+    "answer": "Antenna Radiation"
+  },
+  {
+    "question": "Which propagation phenomenon allows signals to pass around obstacles like buildings?",
+    "options": ["Reflection", "Diffraction", "Refraction", "All of the above"],
+    "answer": "Diffraction"
+  },
+  {
+    "question": "Which phenomenon can cause signals to bounce off surfaces and interfere with the intended signal path?",
+    "options": ["Reflection", "Diffraction", "Refraction", "All of the above"],
+    "answer": "Reflection"
+  },
+  {
+    "question": "Which phenomenon, particularly in the ionosphere, is used in long-distance communication because it can bend radio waves?",
+    "options": ["Reflection", "Diffraction", "Refraction", "All of the above"],
+    "answer": "Refraction"
+  },
+  {
+    "question": "Satellite communication uses which type of polarization to avoid orientation issues?",
+    "options": ["Linear polarization", "Circular Polarization", "Elliptical Polarization", "All of the above"],
+    "answer": "Circular Polarization"
+  },
+  {
+    "question": "What is the main advantage of a microstrip (patch) antenna?",
+    "options": ["High gain", "Circular polarization", "Compact size", "High power handling"],
+    "answer": "Compact size"
+  },
+  {
+    "question": "Which antenna type is used in satellite communications?",
+    "options": ["Dipole", "Patch", "Yagi-Uda", "Helical"],
+    "answer": "Helical"
+  },
+  {
+    "question": "Which antenna type is used in vehicle-mounted antennas and radio towers?",
+    "options": ["Dipole", "Patch", "Yagi-Uda", "Monopole"],
+    "answer": "Monopole"
+  },
+  {
+    "question": "What is the main lobe of an antenna?",
+    "options": ["The unwanted radiation in all directions", "The maximum radiation in a desired direction", "The back radiation", "The side radiation"],
+    "answer": "The maximum radiation in a desired direction"
+  },
+  {
+    "question": "What is the minor lobe of an antenna?",
+    "options": ["The unwanted radiation in all directions", "The maximum radiation in a desired direction", "The back radiation", "The side radiation"],
+    "answer": "The unwanted radiation in all directions"
+  },
+  {
+    "question": "Which lobe represents radiation in the opposite direction to the main lobe?",
+    "options": ["The unwanted radiation in all directions", "The maximum radiation in a desired direction", "The back radiation", "The side radiation"],
+    "answer": "The back radiation"
+  },
+  {
+    "question": "Which type of radiation should be minimized for antenna efficiency?",
+    "options": ["The unwanted radiation in all directions", "The maximum radiation in a desired direction", "The back radiation", "The side radiation"],
+    "answer": "The side radiation"
+  },
+  {
+    "question": "What is the typical fade margin for Point-to-Point Microwave Links?",
+    "options": ["10–15 dB", "20–30 dB", "10–20 dB", "20–40 dB"],
+    "answer": "20–40 dB"
+  },
+  {
+    "question": "Which of the following is a valid solution to Fresnel Zone Obstructions?",
+    "options": ["Decrease antenna height", "Use relay stations to bypass obstructions", "Choose a higher frequency", "All of the above"],
+    "answer": "Use relay stations to bypass obstructions"
+  },
+  {
+    "question": "What are the major categories of fading?",
+    "options": ["Large-scale and Small-scale fading", "Flat and Frequency-selective fading", "Fast and Slow fading", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which type of fading occurs over large distances due to obstacles and terrain variations? (e.g., weak 4G signal behind tall buildings)",
+    "options": ["Large-scale fading", "Small-scale fading", "Slow fading", "Fast fading"],
+    "answer": "Large-scale fading"
+  },
+  {
+    "question": "Which type of fading occurs due to rapid fluctuations over short distances? (e.g., signal distortion in a moving car)",
+    "options": ["Large-scale fading", "Small-scale fading", "Slow fading", "Fast fading"],
+    "answer": "Small-scale fading"
+  },
+  {
+    "question": "Which of the following is NOT a type of satellite orbit?",
+    "options": ["GEO", "LEO", "MEO", "REO"],
+    "answer": "REO"
+  },
+  {
+    "question": "What is the approximate altitude of a Geostationary Orbit (GEO)?",
+    "options": ["36,000 km", "2,000 km", "500 km", "10,000 km"],
+    "answer": "36,000 km"
+  },
+  {
+    "question": "What is the approximate altitude range of Medium Earth Orbit (MEO)?",
+    "options": ["36,000 km", "2,000 km", "500 km", "10,000 km"],
+    "answer": "2,000 km"
+  },
+  {
+    "question": "What is the approximate altitude of Low Earth Orbit (LEO)?",
+    "options": ["36,000 km", "500 km", "10,000 km", "160 km"],
+    "answer": "500 km"
+  },
+  {
+    "question": "Which of the following is NOT a Navigation Satellite System?",
+    "options": ["GPS", "Galileo", "ISS", "GLONASS"],
+    "answer": "ISS"
+  },
+  {
+    "question": "Which of the following provides worldwide coverage in Navigation Satellite Systems?",
+    "options": ["GPS", "Regional Navigation Satellite Systems (RNSS)", "Global Navigation Satellite Systems (GNSS)", "GLONASS"],
+    "answer": "Global Navigation Satellite Systems (GNSS)"
+  },
+  {
+    "question": "Which of the following provides coverage for specific regions in Navigation Satellite Systems?",
+    "options": ["GPS", "Regional Navigation Satellite Systems (RNSS)", "Global Navigation Satellite Systems (GNSS)", "GLONASS"],
+    "answer": "Regional Navigation Satellite Systems (RNSS)"
+  },
+  {
+    "question": "What is the main advantage of a Geostationary Orbit (GEO)?",
+    "options": ["Low latency", "High data transfer rates", "Low cost of deployment", "Fixed position relative to Earth"],
+    "answer": "Fixed position relative to Earth"
+  },
+  {
+    "question": "What is the main disadvantage of Low Earth Orbit (LEO) satellites?",
+    "options": ["High latency", "Limited coverage area", "High cost of deployment", "Short orbital lifetime"],
+    "answer": "Limited coverage area"
+  },
+  {
+    "question": "What is the term for the time delay in signal transmission between Earth and a satellite?",
+    "options": ["Latency", "Bandwidth", "Attenuation", "Noise"],
+    "answer": "Latency"
+  },
+  {
+    "question": "What is the primary reason for using multiple satellites in a constellation?",
+    "options": ["To reduce costs", "To provide global coverage", "To increase signal strength", "To simplify satellite design"],
+    "answer": "To provide global coverage"
+  },
+  {
+    "question": "Which antenna type is commonly used in mobile phones?",
+    "options": ["Dipole", "Microstrip (Patch)", "Parabolic reflector", "Horn"],
+    "answer": "Microstrip (Patch)"
+  },
+  {
+    "question": "An omnidirectional antenna radiates equally in:",
+    "options": ["All azimuth directions", "Only one direction", "Opposite directions", "All directions in 3D space"],
+    "answer": "All azimuth directions"
+  },
+  {
+    "question": "What is the purpose of minimizing side lobes?",
+    "options": ["Increase frequency range", "Lower antenna cost", "Enhance polarization", "Reduce interference"],
+    "answer": "Reduce interference"
+  },
+  {
+    "question": "MIMO systems improve signal reliability by:",
+    "options": ["Increasing transmit power", "Reducing frequency bandwidth", "Using multiple antennas", "Avoiding GEO satellites"],
+    "answer": "Using multiple antennas"
+  },
+  {
+    "question": "Destructive interference in multipath propagation causes:",
+    "options": ["Signal cancellation", "Signal strength increases", "Lower frequency", "Reduced latency"],
+    "answer": "Signal cancellation"
+  },
+  {
+    "question": "Constructive interference in multipath propagation causes:",
+    "options": ["Signal cancellation", "Signal strength increases", "Lower frequency", "Reduced latency"],
+    "answer": "Signal strength increases"
+  },
+  {
+    "question": "Shadowing is a type of:",
+    "options": ["Small-scale fading", "Large-scale fading", "Frequency-selective fading", "Fast fading"],
+    "answer": "Large-scale fading"
+  },
+  {
+    "question": "Path loss is a type of:",
+    "options": ["Small-scale fading", "Large-scale fading", "Frequency-selective fading", "Fast fading"],
+    "answer": "Large-scale fading"
+  },
+  {
+    "question": "Multipath fading is a type of:",
+    "options": ["Small-scale fading", "Large-scale fading", "Frequency-selective fading", "Fast fading"],
+    "answer": "Small-scale fading"
+  },
+  {
+    "question": "Flat, Fast, Slow, and Frequency Diversity fading are all types of:",
+    "options": ["Small-scale fading", "Large-scale fading", "Frequency-selective fading", "Fast fading"],
+    "answer": "Small-scale fading"
+  },
+  {
+    "question": "Flat fading occurs when:",
+    "options": ["Signal bandwidth > coherence bandwidth", "Only high frequencies are affected", "Signal bandwidth < coherence bandwidth", "The antenna is directional"],
+    "answer": "Signal bandwidth < coherence bandwidth"
+  },
+  {
+    "question": "Fade margin compensates for:",
+    "options": ["Antenna misalignment", "Satellite orbit decay", "Signal attenuation due to fading", "Earth's curvature"],
+    "answer": "Signal attenuation due to fading"
+  },
+  {
+    "question": "Which application typically requires the highest fade margin?",
+    "options": ["Wi-Fi (Indoor)", "Military Networks", "Satellite Communication", "Urban Cellular Networks"],
+    "answer": "Military Networks"
+  },
+  {
+    "question": "Free-Space Path Loss (FSPL) increases with:",
+    "options": ["Lower frequency and shorter distance", "Larger antenna gain", "Reduced transmitter power", "Higher frequency and longer distance"],
+    "answer": "Higher frequency and longer distance"
+  },
+  {
+    "question": "Obstructions in the Fresnel zone cause:",
+    "options": ["Signal diffraction and loss", "Increased antenna gain", "Higher frequency stability", "Reduced latency"],
+    "answer": "Signal diffraction and loss"
+  },
+  {
+    "question": "The Hubble Space Telescope is an example of a:",
+    "options": ["Natural satellite", "Artificial satellite", "Geostationary satellite", "None of the above"],
+    "answer": "Artificial satellite"
+  },
+  {
+    "question": "A transponder's function includes:",
+    "options": ["Amplifying and frequency conversion", "Generating solar power", "Controlling satellite orbit", "Monitoring Earth's weather"],
+    "answer": "Amplifying and frequency conversion"
+  },
+  {
+    "question": "A GEO satellite's orbital period is:",
+    "options": ["90 minutes", "12 hours", "48 hours", "24 hours"],
+    "answer": "24 hours"
+  },
+  {
+    "question": "A Low Earth Orbit (LEO) satellite's orbital period is:",
+    "options": ["90–120 minutes", "12 hours", "48 hours", "24 hours"],
+    "answer": "90–120 minutes"
+  },
+  {
+    "question": "A Medium Earth Orbit (MEO) satellite's orbital period is:",
+    "options": ["90 minutes", "2–12 hours", "48 hours", "24 hours"],
+    "answer": "2–12 hours"
+  },
+  {
+    "question": "Differential GPS improves accuracy by:",
+    "options": ["Correcting atmospheric errors", "Increasing satellite power", "Using lower frequencies", "Reducing antenna size"],
+    "answer": "Correcting atmospheric errors"
+  },
+  {
+    "question": "Which unit is used when antenna gain is measured relative to an ideal isotropic radiator?",
+    "options": ["dBd", "dBi", "dBW", "dBm"],
+    "answer": "dBi"
+  },
+  {
+    "question": "Which of the following is considered 'unwanted radiation' that should be minimized?",
+    "options": ["Major Lobe", "Main Lobe", "Side Effects", "Side Lobes"],
+    "answer": "Side Lobes"
+  },
+  {
+    "question": "A larger physical aperture in an antenna generally leads to:",
+    "options": ["Lower gain", "Medium gain", "Higher gain", "No effect"],
+    "answer": "Higher gain"
+  },
+  {
+    "question": "What phenomenon allows wireless signals to reach areas obstructed by large structures like buildings or hills?",
+    "options": ["Diffraction", "Reflection", "Refraction", "Absorption"],
+    "answer": "Diffraction"
+  },
+  {
+    "question": "Which antenna type is commonly used in Wi-Fi and mobile phones?",
+    "options": ["Horn antenna", "Dipole antenna", "Microstrip (Patch) antenna", "Reflector antenna"],
+    "answer": "Microstrip (Patch) antenna"
+  },
+  {
+    "question": "The main purpose of a propagation model is:",
+    "options": ["To physically build an antenna", "To increase the frequency of a signal", "To replace the need for a receiver", "To predict signal strength at a given distance"],
+    "answer": "To predict signal strength at a given distance"
+  },
+  {
+    "question": "What is the primary function of an antenna?",
+    "options": ["Amplify electrical signals", "Convert electrical signals into EM waves and vice versa", "Filter noise from signals", "Store electromagnetic energy"],
+    "answer": "Convert electrical signals into EM waves and vice versa"
+  },
+  {
+    "question": "Electromagnetic radiation occurs when:",
+    "options": ["Direct current flows through a conductor", "Alternating current produces a time-varying EM field", "Voltage is constant", "Resistance is high"],
+    "answer": "Alternating current produces a time-varying EM field"
+  },
+  {
+    "question": "A monopole antenna can be considered as:",
+    "options": ["Two dipoles combined", "Half of a dipole with a ground plane", "A circular loop", "An aperture antenna"],
+    "answer": "Half of a dipole with a ground plane"
+  },
+  {
+    "question": "The radiation pattern of a dipole antenna is typically:",
+    "options": ["Circular", "Doughnut-shaped", "Linear beam", "Random"],
+    "answer": "Doughnut-shaped"
+  },
+  {
+    "question": "The Friis Transmission Equation applies under which condition?",
+    "options": ["Multipath fading environment", "Free-space line-of-sight (LOS)", "Indoor propagation", "Obstructed links"],
+    "answer": "Free-space line-of-sight (LOS)"
+  },
+  {
+    "question": "Free-Space Path Loss (FSPL) increases when:",
+    "options": ["Frequency decreases", "Distance decreases", "Frequency increases", "Antenna gain increases"],
+    "answer": "Frequency increases"
+  },
+  {
+    "question": "Which factor does FSPL NOT depend on?",
+    "options": ["Distance", "Frequency", "Transmitted power", "Wavelength"],
+    "answer": "Transmitted power"
+  },
+  {
+    "question": "If distance doubles, FSPL (in dB) increases by approximately:",
+    "options": ["3 dB", "6 dB", "10 dB", "20 dB"],
+    "answer": "6 dB"
+  },
+  {
+    "question": "Which equation accounts for practical gains and losses in a communication link?",
+    "options": ["Friis Transmission Equation", "Maxwell's Equation", "Link Budget Formula", "Ohm's Law"],
+    "answer": "Link Budget Formula"
+  },
+  {
+    "question": "What is the standard conversion from EIRP to ERP?",
+    "options": ["ERP = EIRP + 2.15 dB", "ERP = EIRP × 2.15", "ERP = EIRP / 2.15", "ERP = EIRP − 2.15 dB"],
+    "answer": "ERP = EIRP − 2.15 dB"
+  },
+  {
+    "question": "Which type of antenna radiates power equally in all directions (theoretical)?",
+    "options": ["Isotropic Radiator", "Omni-directional antenna", "Directional antenna", "Dipole antenna"],
+    "answer": "Isotropic Radiator"
+  },
+  {
+    "question": "For antennas with a physical aperture, smaller wavelengths (higher frequencies) result in higher gain.",
+    "options": ["True", "False", "May be", "None of the above"],
+    "answer": "True"
+  },
+  {
+    "question": "Multipath propagation can lead to signal cancellation, known as:",
+    "options": ["Constructive interference", "Diversity", "Destructive interference", "Refraction"],
+    "answer": "Destructive interference"
+  },
+  {
+    "question": "Rain fade is a phenomenon primarily caused by:",
+    "options": ["Reflection", "Diffraction", "Absorption", "Doppler effect"],
+    "answer": "Absorption"
+  },
+  {
+    "question": "To ensure signals remain unaffected by changes in the orientation of a satellite receiver, which polarization is used?",
+    "options": ["Linear", "Circular", "Horizontal", "Vertical"],
+    "answer": "Circular"
+  }
+]

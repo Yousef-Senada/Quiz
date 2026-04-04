@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import part1Questions from './part1.json'
 import part2Questions from './part2.json'
+import part3Questions from './part3.json'
 
 const CATEGORIES = {
   PART1: {
@@ -15,6 +16,12 @@ const CATEGORIES = {
     name: 'Part 2 — True / False',
     questions: part2Questions,
     icon: '📶',
+  },
+  PART3: {
+    id: 'part3',
+    name: 'Part 3 — MCQ (Midterm)',
+    questions: part3Questions,
+    icon: '🛰️',
   },
 }
 
