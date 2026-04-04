@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" shape-rendering="geometricPrecision">
+  <!-- Background -->
+  <rect width="32" height="32" rx="7.5" fill="#1c1c22"/>
+
+  <!-- Border -->
+  <rect x="0.5" y="0.5" width="31" height="31" rx="7" stroke="#32323c" stroke-width="1"/>
+
+  <!-- Top glint -->
+  <rect x="5" y="1" width="22" height="1" rx="0.5" fill="rgba(255,255,255,0.09)"/>
+
+  <!-- Question mark arc -->
+  <path
+    d="M11.5 13.2C11.5 10.2 13.5 8 16 8C18.5 8 20.5 10.1 20.5 12.4C20.5 14.6 18.9 15.7 17.1 16.9C16.4 17.4 16 18 16 18.8V20"
+    stroke="#c8c8d4"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Dot -->
+  <circle cx="16" cy="23.5" r="1.6" fill="#c8c8d4"/>
+</svg>

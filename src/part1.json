@@ -1,512 +1,1917 @@
 [
   {
-    "question": "Which of the following statements regarding managers in today's world is accurate?",
-    "options": [
-      "Their age range is limited to between 30 and 65 years.",
-      "They are found only in large corporations.",
-      "They can be found exclusively in for-profit organizations.",
-      "The single most important variable in employee productivity and loyalty is the quality of the relationship between employees and their direct supervisors."
-    ],
-    "answer": "The single most important variable in employee productivity and loyalty is the quality of the relationship between employees and their direct supervisors."
+    "question": "What is the primary function of an antenna?",
+    "options": ["Store electrical energy", "Convert electrical signals to EM waves (and vice versa)", "Generate sound waves", "Measure voltage"],
+    "answer": "Convert electrical signals to EM waves (and vice versa)"
   },
   {
-    "question": "An individual who works with and through other people by coordinating their work activities in order to accomplish organizational goals is ________.",
-    "options": [
-      "An assembly line worker",
-      "A laborer",
-      "A manager",
-      "A salesperson"
-    ],
-    "answer": "A manager"
+    "question": "Antennas are used in all EXCEPT:",
+    "options": ["Wireless communication", "Satellite systems", "Wired Ethernet networks", "Radar"],
+    "answer": "Wired Ethernet networks"
   },
   {
-    "question": "Managers with titles such as regional manager, project leader, or division manager are ________.",
-    "options": [
-      "First-line managers",
-      "Top managers",
-      "Production managers",
-      "Middle managers"
-    ],
-    "answer": "Middle managers"
+    "question": "The purpose of an antenna is to:",
+    "options": ["Link guided waves and free-space waves", "Increase electrical resistance", "Block electromagnetic interference", "Store data"],
+    "answer": "Link guided waves and free-space waves"
   },
   {
-    "question": "________ are responsible for making organization-wide decisions and establishing the plans and goals that affect the entire organization.",
-    "options": [
-      "First-line managers",
-      "Top managers",
-      "Production managers",
-      "Research managers"
-    ],
-    "answer": "Top managers"
+    "question": "Which system does NOT typically use antennas?",
+    "options": ["Broadcasting", "Fiber-optic cables", "Mobile networks", "Radar"],
+    "answer": "Fiber-optic cables"
   },
   {
-    "question": "A ________ is an example of a first-line manager.",
-    "options": [
-      "Division manager",
-      "Store manager",
-      "Regional manager",
-      "Shift manager"
-    ],
-    "answer": "Shift manager"
+    "question": "Antennas primarily deal with:",
+    "options": ["Electromagnetic waves", "Sound waves", "Mechanical vibrations", "Thermal energy"],
+    "answer": "Electromagnetic waves"
   },
   {
-    "question": "________ have titles such as executive vice president, chief operating officer, and chief executive officer.",
-    "options": [
-      "Team leaders",
-      "Middle managers",
-      "First-line managers",
-      "Top managers"
-    ],
-    "answer": "Top managers"
+    "question": "The term \"guided waves\" refers to:",
+    "options": ["Waves inside a transmission line", "Ocean waves", "Light in a vacuum", "Sound in air"],
+    "answer": "Waves inside a transmission line"
   },
   {
-    "question": "An automobile manufacturer increased the total number of cars produced keeping the production cost the same. The manufacturer ________.",
-    "options": [
-      "Increased its equity",
-      "Increased its efficiency",
-      "Increased its effectiveness",
-      "Increased its effability"
-    ],
-    "answer": "Increased its efficiency"
+    "question": "Antennas are essential for:",
+    "options": ["Wireless signal transmission", "Power generation", "Chemical reactions", "Magnetic storage"],
+    "answer": "Wireless signal transmission"
   },
   {
-    "question": "Effectiveness is associated with ________.",
-    "options": [
-      "Reducing inventory",
-      "Decreasing production time",
-      "Doing the right things",
-      "Doing things right"
-    ],
-    "answer": "Doing the right things"
+    "question": "What produces a time-varying electromagnetic field?",
+    "options": ["Direct current (DC)", "Alternating current (AC)", "Static charge", "Insulators"],
+    "answer": "Alternating current (AC)"
   },
   {
-    "question": "Today, the basic management functions have been condensed to ________.",
-    "options": [
-      "Planning, organizing, commanding, and coordinating",
-      "Planning, organizing, coordinating, and controlling",
-      "Planning, organizing, commanding, and controlling",
-      "Planning, organizing, leading, and controlling"
-    ],
-    "answer": "Planning, organizing, leading, and controlling"
+    "question": "Electromagnetic waves propagate through:",
+    "options": ["Free space", "Only solids", "Vacuum tubes", "Water exclusively"],
+    "answer": "Free space"
   },
   {
-    "question": "Establishing strategies for achieving organizational goals is a part of the ________ function.",
-    "options": [
-      "Leading",
-      "Coordinating",
-      "Planning",
-      "Organizing"
-    ],
-    "answer": "Planning"
+    "question": "Visible light is an example of:",
+    "options": ["Electromagnetic radiation", "Mechanical waves", "Sound waves", "Static electricity"],
+    "answer": "Electromagnetic radiation"
   },
   {
-    "question": "Organizing includes ________.",
-    "options": [
-      "Setting organizational goals",
-      "Hiring organizational members",
-      "Motivating organizational members",
-      "Determining who does what tasks"
-    ],
-    "answer": "Determining who does what tasks"
+    "question": "Which is NOT part of the EM spectrum?",
+    "options": ["Radio waves", "Xeon Waves", "Gamma rays", "Infrared"],
+    "answer": "Xeon Waves"
   },
   {
-    "question": "A manager resolving conflict among organizational members is performing which of the following functions?",
-    "options": [
-      "Controlling",
-      "Planning",
-      "Organizing",
-      "Leading"
-    ],
-    "answer": "Leading"
+    "question": "The EM spectrum includes:",
+    "options": ["Radio waves, X-rays, and visible light", "Only ultraviolet light", "Sound frequencies", "Ocean waves"],
+    "answer": "Radio waves, X-rays, and visible light"
   },
   {
-    "question": "The process of monitoring, comparing, and correcting is called ________.",
-    "options": [
-      "Controlling",
-      "Planning",
-      "Leading",
-      "Organizing"
-    ],
-    "answer": "Controlling"
+    "question": "AC current in a conductor generates:",
+    "options": ["Time-varying EM fields", "Static charge", "Thermal noise only", "Magnetic monopoles"],
+    "answer": "Time-varying EM fields"
   },
   {
-    "question": "According to Mintzberg's managerial roles, the ________ roles are ones that involve people and other duties that are ceremonial and symbolic in nature.",
-    "options": [
-      "Informational",
-      "Interpersonal",
-      "Technical",
-      "Decisional"
-    ],
-    "answer": "Interpersonal"
+    "question": "Radio waves are used for:",
+    "options": ["Broadcasting and communication", "Illuminating rooms", "Heating food", "Generating sound"],
+    "answer": "Broadcasting and communication"
   },
   {
-    "question": "A deliberate arrangement of people to accomplish some specific purpose (that individuals independently could not accomplish alone) is called ________.",
-    "options": [
-      "Organization",
-      "Technical",
-      "Conceptual",
-      "Empirical"
-    ],
-    "answer": "Organization"
+    "question": "Yagi-Uda antennas are commonly used in:",
+    "options": ["TV broadcasting", "Underwater cables", "Fiber optics", "Power grids"],
+    "answer": "TV broadcasting"
   },
   {
-    "question": "Common Characteristics of Organizations include ________.",
-    "options": [
-      "Have a distinct purpose (goal)",
-      "Composed of people",
-      "Have a deliberate structure",
-      "All of the above"
-    ],
-    "answer": "All of the above"
+    "question": "Satellite communications use:",
+    "options": ["Dish antennas", "Monopole antennas", "Loop antennas", "Coaxial cables"],
+    "answer": "Dish antennas"
   },
   {
-    "question": "Which of the following skills tend to be more important for first-line managers since they manage employees who produce the organization's product?",
-    "options": [
-      "Human",
-      "Technical",
-      "Conceptual",
-      "Empirical"
-    ],
-    "answer": "Technical"
+    "question": "Radar systems apply antennas for:",
+    "options": ["Military and weather tracking", "Audio amplification", "Groundwater detection", "Magnetic levitation"],
+    "answer": "Military and weather tracking"
   },
   {
-    "question": "Which of the following is true regarding a manager's job with respect to customers?",
-    "options": [
-      "Today, most employees in developed countries work in product sectors.",
-      "Managers have not yet recognized the importance of delivering consistent high-quality customer services.",
-      "Managers must create a customer-responsive organization in order to survive successfully in today's environment.",
-      "Employees play an insignificant role in delivering quality customer services."
-    ],
-    "answer": "Managers must create a customer-responsive organization in order to survive successfully in today's environment."
+    "question": "Mobile networks rely on:",
+    "options": ["Cellular base station antennas", "Copper wires", "Optical fibers", "Batteries"],
+    "answer": "Cellular base station antennas"
   },
   {
-    "question": "Which of the following is true regarding the changes that a manager's job is undergoing?",
-    "options": [
-      "Managers practicing sustainability integrate economic, environmental, and social opportunities into the business strategy.",
-      "Digitization hardly affects a manager's responsibilities.",
-      "According to managers, employees contribute the least to the success of a customer service organization.",
-      "Innovative efforts are exclusively important for managers serving in high-tech organizations."
-    ],
-    "answer": "Managers practicing sustainability integrate economic, environmental, and social opportunities into the business strategy."
+    "question": "GPS signals are received via:",
+    "options": ["Satellite antennas", "Loudspeakers", "Thermocouples", "Barometers"],
+    "answer": "Satellite antennas"
   },
   {
-    "question": "Which of the following represents one of the challenges of management?",
-    "options": [
-      "Enjoy relatively easy work",
-      "Support, coach, and nurture others",
-      "Have little influence on organizational outcomes",
-      "Must deal with a variety of personalities"
-    ],
-    "answer": "Must deal with a variety of personalities"
+    "question": "AM/FM broadcasting uses:",
+    "options": ["Radio antennas", "Laser diodes", "Ultrasound transducers", "Capacitors"],
+    "answer": "Radio antennas"
   },
   {
-    "question": "The Value of Studying Management includes ________.",
-    "options": [
-      "The universality of management",
-      "Good management is needed in all organizations",
-      "The reality of work",
-      "All of the above"
-    ],
-    "answer": "All of the above"
+    "question": "Over-the-air TV transmission requires:",
+    "options": ["Antennas", "Ethernet cables", "Hydraulic systems", "Steam turbines"],
+    "answer": "Antennas"
   },
   {
-    "question": "A series of eight steps that begins with identifying a problem and concludes with evaluating a decision's effectiveness is known as ________.",
-    "options": [
-      "The decision-making process",
-      "Decision support theory",
-      "A decision-tree analysis",
-      "A decision information system"
-    ],
-    "answer": "The decision-making process"
+    "question": "Array antennas are defined as:",
+    "options": ["A single antenna with high gain", "Multiple antennas combined to achieve a desired radiation pattern", "Antennas used only for reception", "Antennas made of optical fibers"],
+    "answer": "Multiple antennas combined to achieve a desired radiation pattern"
   },
   {
-    "question": "A(n) ________ is the existence of a discrepancy between an existing and a desired state of affairs.",
-    "options": [
-      "Hazard",
-      "Risk",
-      "Uncertainty",
-      "Problem"
-    ],
-    "answer": "Problem"
+    "question": "The primary purpose of array antennas is to:",
+    "options": ["Reduce antenna size", "Control radiation patterns (e.g., beamforming)", "Generate electrical power", "Block electromagnetic waves"],
+    "answer": "Control radiation patterns (e.g., beamforming)"
   },
   {
-    "question": "Amanda, a single parent, is looking for a new job. Considering that she has two school-going children, she is particularly keen on finding an employer who can provide her with alternative work arrangements such as flexible work hours and telecommuting. In terms of the decision-making process, these represent Amanda's ________.",
-    "options": [
-      "Decision criteria",
-      "Problems",
-      "Alternatives",
-      "Heuristics"
-    ],
-    "answer": "Decision criteria"
+    "question": "A dipole antenna consists of:",
+    "options": ["Two λ/4 conducting elements", "A single λ/2 wire", "A spiral conductor", "A parabolic dish"],
+    "answer": "Two λ/4 conducting elements"
   },
   {
-    "question": "The final step in the decision-making process is to ________.",
-    "options": [
-      "Determine the criteria for the next decision",
-      "Analyze the process of allocating weights to the decision criteria",
-      "Evaluate the outcome of the decision",
-      "Implement the chosen alternative"
-    ],
-    "answer": "Evaluate the outcome of the decision"
+    "question": "The radiation pattern of a dipole is:",
+    "options": ["Doughnut-shaped", "Unidirectional", "Spherical", "Null in all directions"],
+    "answer": "Doughnut-shaped"
   },
   {
-    "question": "A procedure ________.",
-    "options": [
-      "Is an explicit statement that tells a manager what can or cannot be done",
-      "Is a series of sequential steps a manager uses to respond to a structured problem",
-      "Is used mainly for unstructured, rather than structured, problems",
-      "Is subject to the interpretation of the decision maker"
-    ],
-    "answer": "Is a series of sequential steps a manager uses to respond to a structured problem"
+    "question": "A monopole antenna requires:",
+    "options": ["A ground plane", "No conductor", "A dielectric substrate", "Circular polarization"],
+    "answer": "A ground plane"
   },
   {
-    "question": "________ involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities.",
-    "options": [
-      "Execution",
-      "Logistics",
-      "Planning",
-      "Operations"
-    ],
-    "answer": "Planning"
+    "question": "Helical antennas generate:",
+    "options": ["Circular polarization", "Only linear polarization", "No polarization", "Random polarization"],
+    "answer": "Circular polarization"
   },
   {
-    "question": "The effect of planning on managers is that it forces them to ________.",
-    "options": [
-      "Generate higher profits",
-      "Anticipate and respond to change",
-      "Eliminate uncertainty",
-      "Work at cross purposes"
-    ],
-    "answer": "Anticipate and respond to change"
+    "question": "Monopole antennas are commonly used in:",
+    "options": ["Vehicle-mounted systems", "Optical fibers", "Power grids", "Audio amplifiers"],
+    "answer": "Vehicle-mounted systems"
   },
   {
-    "question": "Which one of the following is among the reasons why managers should plan?",
-    "options": [
-      "When work activities are coordinated around plans, inefficiencies become obvious.",
-      "Uncertainty can be eliminated, and the organization can be insulated from change with planning.",
-      "Planning eliminates the need to set goals.",
-      "Planning eliminates the need to measure work effort."
-    ],
-    "answer": "When work activities are coordinated around plans, inefficiencies become obvious."
+    "question": "The length of each dipole element is:",
+    "options": ["λ/4", "λ/2", "λ", "2λ"],
+    "answer": "λ/4"
   },
   {
-    "question": "Which one of the following is true of the impact of formal planning on organizational performance?",
-    "options": [
-      "Formal planning is associated with positive financial results.",
-      "Organizations that formally plan invariably outperform those that don't plan.",
-      "The amount of planning done is more important to high performance than the quality of planning and implementation.",
-      "Companies can start seeing the impact of formal planning on performance about a year after starting the planning process."
-    ],
-    "answer": "Formal planning is associated with positive financial results."
+    "question": "Helical antennas are ideal for:",
+    "options": ["Satellite communications", "Underwater sonar", "DC power transmission", "Lighting systems"],
+    "answer": "Satellite communications"
   },
   {
-    "question": "Most companies' plans can be classified as either ________ or ________.",
-    "options": [
-      "Strategic; financial",
-      "Operational; tactical",
-      "Social; economic",
-      "Strategic; operational"
-    ],
-    "answer": "Strategic; operational"
+    "question": "Horn antennas are primarily used in:",
+    "options": ["Microwave frequencies", "Audio ranges", "Power lines", "Optical fibers"],
+    "answer": "Microwave frequencies"
   },
   {
-    "question": "When formal planning fails to lead to higher performance, which one of the following is most likely to be the reason for the failure?",
-    "options": [
-      "A participative style of planning was used.",
-      "Managers were allowed too much autonomy.",
-      "The company emphasized the control function over other functions.",
-      "External forces constrain managers' options"
-    ],
-    "answer": "External forces constrain managers' options"
+    "question": "Parabolic reflector antennas are essential for:",
+    "options": ["High-gain satellite communications", "Omnidirectional broadcasting", "Blocking interference", "Underwater signaling"],
+    "answer": "High-gain satellite communications"
   },
   {
-    "question": "Goals are different from plans because ________.",
-    "options": [
-      "Goals identify specific steps that the organization needs to achieve, and plans identify the overall mission of the organization",
-      "Goals describe financial objectives, and plans describe objectives related to social responsibility",
-      "Goals are important only for small companies, and plans are important only for large companies",
-      "Goals are desired outcomes, and plans describe how those outcomes will be accomplished"
-    ],
-    "answer": "Goals are desired outcomes, and plans describe how those outcomes will be accomplished"
+    "question": "Slot antennas are integrated into:",
+    "options": ["Aircraft radars", "Mobile phone screens", "Copper wires", "Batteries"],
+    "answer": "Aircraft radars"
   },
   {
-    "question": "Which one of the following statements is true regarding an organization's plans?",
-    "options": [
-      "Plans can differ based on time frame.",
-      "Almost all plans are strategic plans.",
-      "Strategic plans may result in unethical behaviors by employees.",
-      "Long-term success is ensured if managers emphasize operational plans"
-    ],
-    "answer": "Plans can differ based on time frame."
+    "question": "The gain of a reflector antenna depends on:",
+    "options": ["Dish diameter and surface accuracy", "Cable color", "Transmitter weight", "Humidity"],
+    "answer": "Dish diameter and surface accuracy"
   },
   {
-    "question": "Strategic plans are usually ________.",
-    "options": [
-      "Short term, directional, and standing",
-      "Short term, specific, and standing",
-      "Long term, directional, and single use",
-      "Long term, specific, and standing"
-    ],
-    "answer": "Long term, directional, and single use"
+    "question": "Aperture antennas radiate through:",
+    "options": ["An opening or aperture", "Magnetic induction", "Electrical conduction", "Thermal effects"],
+    "answer": "An opening or aperture"
   },
   {
-    "question": "________ plans apply to the entire organization and establish the organization's overall goals.",
-    "options": [
-      "Departmental",
-      "Strategic",
-      "Operational",
-      "Long-term"
-    ],
-    "answer": "Strategic"
+    "question": "Which is NOT an aperture antenna?",
+    "options": ["Dipole", "Cassegrain reflector", "Pyramidal horn", "Waveguide slot"],
+    "answer": "Dipole"
   },
   {
-    "question": "Operational plans are usually ________.",
-    "options": [
-      "Short term, directional, and standing",
-      "Short term, specific, and standing",
-      "Long term, directional, and single use",
-      "Long term, specific, and standing"
-    ],
-    "answer": "Short term, specific, and standing"
+    "question": "Horn antennas are favored for:",
+    "options": ["Precision beam shaping", "Zero gain", "Omnidirectional coverage", "Low-frequency AM radio"],
+    "answer": "Precision beam shaping"
   },
   {
-    "question": "Mr. Slabaugh wants to formulate a plan that lays out general guidelines for his employees and leaves room for interpretation. Which one of the following types of plans would best suit his requirement?",
-    "options": [
-      "Informal",
-      "Specific",
-      "Directional",
-      "Standing"
-    ],
-    "answer": "Directional"
+    "question": "Patch antennas are printed on:",
+    "options": ["Dielectric substrates", "Water surfaces", "Copper pipes", "Glass panels"],
+    "answer": "Dielectric substrates"
   },
   {
-    "question": "Long-term plans are defined as those with a time frame beyond ________.",
-    "options": [
-      "Seven years",
-      "One year",
-      "Five years",
-      "Three years"
-    ],
-    "answer": "Five years"
+    "question": "A key advantage of patch antennas is:",
+    "options": ["Low profile and lightweight", "Infinite bandwidth", "Highest gain among antennas", "No need for grounding"],
+    "answer": "Low profile and lightweight"
   },
   {
-    "question": "Short-term plans are those covering ________ or less.",
-    "options": [
-      "Three years",
-      "One year",
-      "Six months",
-      "Five years"
-    ],
-    "answer": "One year"
+    "question": "Patch antennas are commonly used in:",
+    "options": ["Wi-Fi routers and GPS devices", "Power plants", "Audio speakers", "Optical fibers"],
+    "answer": "Wi-Fi routers and GPS devices"
   },
   {
-    "question": "________ plans are clearly defined and leave no room for interpretation.",
-    "options": [
-      "Directional",
-      "Stated",
-      "Long-term",
-      "Specific"
-    ],
-    "answer": "Specific"
+    "question": "The resonant frequency of a patch depends on:",
+    "options": ["Patch length and substrate permittivity", "Transmitter power", "Atmospheric pressure", "Cable thickness"],
+    "answer": "Patch length and substrate permittivity"
   },
   {
-    "question": "Todd Miller, CEO of Miller's Grocery, has determined that all stores should be well maintained both inside and out. This is an example of a ________.",
-    "options": [
-      "Directional plan",
-      "Specific plan",
-      "Financial goal",
-      "Social goal"
-    ],
-    "answer": "Directional plan"
+    "question": "Which application does NOT use patch antennas?",
+    "options": ["Fiber-optic repeaters", "5G smartphones", "Aircraft altimeters", "Satellite phones"],
+    "answer": "Fiber-optic repeaters"
   },
   {
-    "question": "A standing plan is ________.",
-    "options": [
-      "An ongoing plan that provides guidance for activities performed repeatedly",
-      "A plan that stands in place of a preferred plan in case of the failure of the latter",
-      "A one-time plan specifically designed to meet the needs of a unique situation",
-      "A flexible plan that sets out general guidelines for company strategy"
-    ],
-    "answer": "An ongoing plan that provides guidance for activities performed repeatedly"
+    "question": "Array antennas combine multiple elements to:",
+    "options": ["Control radiation patterns (beamforming)", "Reduce all signal strength", "Block interference", "Generate electricity"],
+    "answer": "Control radiation patterns (beamforming)"
   },
   {
-    "question": "Which one of the following is an example of a standing plan?",
-    "options": [
-      "A retail chain's plan to counter the entry of a new competitor",
-      "A plan developed to address a sudden, unanticipated surge in demand",
-      "A fire escape policy establishing practices to be followed in an emergency",
-      "A plan to cope with radical changes in the political environment"
-    ],
-    "answer": "A fire escape policy establishing practices to be followed in an emergency"
+    "question": "Phased arrays dynamically steer beams by:",
+    "options": ["Adjusting phase shifts between elements", "Changing cable lengths", "Reducing frequency", "Turning off elements"],
+    "answer": "Adjusting phase shifts between elements"
   },
   {
-    "question": "When uncertainty is high, plans should be ________ and ________.",
-    "options": [
-      "Specific; flexible",
-      "Directional; standing",
-      "Short-term; directional",
-      "General; informal"
-    ],
-    "answer": "Short-term; directional"
+    "question": "MIMO systems use array antennas to:",
+    "options": ["Improve capacity and reliability", "Increase cable loss", "Block all signals", "Reduce antenna count"],
+    "answer": "Improve capacity and reliability"
   },
   {
-    "question": "The commitment concept says that plans should ________.",
-    "options": [
-      "Extend far enough to meet those commitments made when the plans were developed",
-      "Be done for as long a time period as possible",
-      "Be done for as short a time period as possible",
-      "Not commit to specifically meeting the goals made when the plans were developed"
-    ],
-    "answer": "Extend far enough to meet those commitments made when the plans were developed"
+    "question": "The Yagi-Uda antenna is a type of:",
+    "options": ["Driven array", "Aperture antenna", "Patch antenna", "Loop antenna"],
+    "answer": "Driven array"
   },
   {
-    "question": "In ________, goals set by top managers flow down through the organization and become subgoals for each organizational area.",
-    "options": [
-      "Management by objectives",
-      "Management by observation",
-      "Traditional goal setting",
-      "Traditional planning"
-    ],
-    "answer": "Traditional goal setting"
+    "question": "Which is NOT an array antenna?",
+    "options": ["Monopole", "Linear phased array", "Conformal array", "Planar array"],
+    "answer": "Monopole"
   },
   {
-    "question": "________ is a process of setting mutually-agreed upon goals and using those goals to evaluate employee performance.",
-    "options": [
-      "Management by objectives",
-      "Management by walking around",
-      "Management by observation",
-      "Management by exception"
-    ],
-    "answer": "Management by objectives"
+    "question": "Array antennas are critical for:",
+    "options": ["5G and radar systems", "Power transmission", "Audio amplification", "Battery charging"],
+    "answer": "5G and radar systems"
   },
   {
-    "question": "Environmental scanning refers to an organization's ________.",
-    "options": [
-      "Social consciousness with regard to sustainability",
-      "Adoption of tools to measure its carbon footprint",
-      "Screening vast amounts of information to detect trends",
-      "Ability to focus solely on potential political change"
-    ],
-    "answer": "Screening vast amounts of information to detect trends"
+    "question": "The Friis equation calculates:",
+    "options": ["Power received by an antenna in free space", "Power lost in transmission lines", "Antenna manufacturing cost", "Signal frequency"],
+    "answer": "Power received by an antenna in free space"
   },
   {
-    "question": "The first step in the decision-making process is to ________.",
-    "options": [
-      "Implement the chosen alternative",
-      "Determine the criteria for the next decision",
-      "Determine what is the problem",
-      "Analyze the process of allocating weights to the decision criteria"
-    ],
-    "answer": "Determine what is the problem"
+    "question": "In the Friis equation, Gt represents:",
+    "options": ["Transmitting antenna gain", "Ground resistance", "Receiver sensitivity", "Wavelength in feet"],
+    "answer": "Transmitting antenna gain"
   },
   {
-    "question": "Managers with good ________ know how to communicate, motivate, and lead to get the best out of their people.",
-    "options": [
-      "Conceptual skills",
-      "Empirical skills",
-      "Human skills",
-      "Technical skills"
-    ],
-    "answer": "Human skills"
+    "question": "Effective aperture (Ae) of an antenna depends on:",
+    "options": ["Wavelength (λ) and gain (Gr)", "Transmitter power only", "Cable length", "Solar radiation"],
+    "answer": "Wavelength (λ) and gain (Gr)"
+  },
+  {
+    "question": "The link budget formula includes all EXCEPT:",
+    "options": ["Lp (path loss)", "Gt (transmitter gain)", "Battery voltage", "Lm (miscellaneous losses)"],
+    "answer": "Battery voltage"
+  },
+  {
+    "question": "Ls in the link budget stands for:",
+    "options": ["System-specific losses (e.g., cables)", "Satellite altitude", "Signal frequency", "Solar radiation"],
+    "answer": "System-specific losses (e.g., cables)"
+  },
+  {
+    "question": "A key difference between the Friis equation and link budget is:",
+    "options": ["Link budget includes real-world losses", "Friis equation uses dB units", "Link budget ignores frequency", "Friis equation requires GPS data"],
+    "answer": "Link budget includes real-world losses"
+  },
+  {
+    "question": "To design a real wireless communication system we use:",
+    "options": ["Link budget formula", "Friis equation", "None of them", "All of the above"],
+    "answer": "Link budget formula"
+  },
+  {
+    "question": "The Friis Transmission Equation is used for:",
+    "options": ["Idealized free-space line-of-sight links", "Analyzing cable losses", "Calculating battery life", "Measuring audio frequency response"],
+    "answer": "Idealized free-space line-of-sight links"
+  },
+  {
+    "question": "Which loss component is included in the Link Budget but NOT in the Friis equation?",
+    "options": ["System losses (Lₛ)", "Free-space path loss (Lₚ)", "Wavelength (λ)", "Transmitter power"],
+    "answer": "System losses (Lₛ)"
+  },
+  {
+    "question": "The Link Budget Formula is preferred for:",
+    "options": ["Real-world system design and troubleshooting", "Theoretical physics experiments", "DC circuit analysis", "Optical fiber splicing"],
+    "answer": "Real-world system design and troubleshooting"
+  },
+  {
+    "question": "Both the Friis equation and Link Budget depend explicitly on:",
+    "options": ["Frequency/wavelength", "Cable color", "Antenna weight", "Solar radiation"],
+    "answer": "Frequency/wavelength"
+  },
+  {
+    "question": "Which application would use the Friis equation?",
+    "options": ["Estimating satellite link power in vacuum", "Designing urban 5G networks with obstructions", "Calculating fiber-optic attenuation", "Measuring speaker impedance"],
+    "answer": "Estimating satellite link power in vacuum"
+  },
+  {
+    "question": "The Link Budget accounts for:",
+    "options": ["All gains and losses in a communication link", "Only transmitter power", "Ideal conditions only", "Earth's magnetic field"],
+    "answer": "All gains and losses in a communication link"
+  },
+  {
+    "question": "A key limitation of the Friis equation is:",
+    "options": ["Ignoring real-world losses like rain fade", "Overestimating antenna gain", "Requiring exact cable lengths", "Being incompatible with RF systems"],
+    "answer": "Ignoring real-world losses like rain fade"
+  },
+  {
+    "question": "To evaluate a microwave link with rain fade, you would use:",
+    "options": ["Link Budget Formula", "Friis equation", "Ohm's Law", "Doppler shift formula"],
+    "answer": "Link Budget Formula"
+  },
+  {
+    "question": "The term Lm in the Link Budget represents:",
+    "options": ["Miscellaneous losses (e.g., fading, polarization mismatch)", "Minimum antenna gain", "Moon's gravitational effect", "Magnetic field strength"],
+    "answer": "Miscellaneous losses (e.g., fading, polarization mismatch)"
+  },
+  {
+    "question": "Friis assumes:",
+    "options": ["No environmental or system losses", "Perfect antenna alignment always", "Infinite transmitter power", "Zero frequency dependence"],
+    "answer": "No environmental or system losses"
+  },
+  {
+    "question": "For a satellite link design, engineers transition from Friis to Link Budget to:",
+    "options": ["Account for real-world impairments", "Reduce calculation complexity", "Ignore antenna gains", "Eliminate frequency considerations"],
+    "answer": "Account for real-world impairments"
+  },
+  {
+    "question": "The Link Budget's Ls term covers:",
+    "options": ["System-specific losses (e.g., cable, connectors)", "Solar radiation pressure", "Signal reflection gains", "Ideal free-space conditions"],
+    "answer": "System-specific losses (e.g., cable, connectors)"
+  },
+  {
+    "question": "Which is a frequency-dependent term in both the Friis and Link Budget equations?",
+    "options": ["Free-space path loss (Lₚ)", "Transmitter weight", "Receiver sensitivity", "Humidity level"],
+    "answer": "Free-space path loss (Lₚ)"
+  },
+  {
+    "question": "An antenna radiation pattern is:",
+    "options": ["A measure of antenna material conductivity", "A graphical representation of radiation properties in space", "The weight distribution of an antenna", "The voltage input to an antenna"],
+    "answer": "A graphical representation of radiation properties in space"
+  },
+  {
+    "question": "Directional antennas are most commonly used in:",
+    "options": ["Fiber-optic networks", "Satellite communications", "Power transmission lines", "Audio speakers"],
+    "answer": "Satellite communications"
+  },
+  {
+    "question": "A polar plot represents radiation patterns in:",
+    "options": ["2D space", "3D space", "Frequency domain", "Time domain"],
+    "answer": "2D space"
+  },
+  {
+    "question": "The primary purpose of studying radiation patterns is to:",
+    "options": ["Calculate antenna cost", "Determine antenna performance in different directions", "Measure antenna weight", "Test antenna material durability"],
+    "answer": "Determine antenna performance in different directions"
+  },
+  {
+    "question": "Which antenna type typically has the narrowest radiation pattern?",
+    "options": ["Dipole", "Parabolic reflector", "Omnidirectional", "Isotropic radiator"],
+    "answer": "Parabolic reflector"
+  },
+  {
+    "question": "An isotropic radiator is:",
+    "options": ["A common commercial antenna", "A theoretical antenna that radiates equally in all directions", "Used in most Wi-Fi routers", "A type of transmission line"],
+    "answer": "A theoretical antenna that radiates equally in all directions"
+  },
+  {
+    "question": "Omnidirectional antennas radiate:",
+    "options": ["Only vertically", "Equally in all azimuth directions", "In a single narrow beam", "No radiation"],
+    "answer": "Equally in all azimuth directions"
+  },
+  {
+    "question": "A directional antenna's key feature is:",
+    "options": ["A high-gain main lobe", "Equal radiation in all directions", "Zero side lobes", "No back lobe"],
+    "answer": "A high-gain main lobe"
+  },
+  {
+    "question": "Wi-Fi routers typically use:",
+    "options": ["Omnidirectional antennas", "Parabolic reflectors", "Helical antennas", "Loop antennas"],
+    "answer": "Omnidirectional antennas"
+  },
+  {
+    "question": "The radiation pattern of a dipole antenna is:",
+    "options": ["Isotropic", "Omnidirectional in the azimuth plane", "Unidirectional", "Spherical"],
+    "answer": "Omnidirectional in the azimuth plane"
+  },
+  {
+    "question": "An ideal point radiator:",
+    "options": ["Has infinite gain", "Is a theoretical concept", "Is used in mobile phones", "Blocks all radiation"],
+    "answer": "Is a theoretical concept"
+  },
+  {
+    "question": "Which antenna has the simplest radiation pattern?",
+    "options": ["Yagi-Uda", "Isotropic radiator", "Horn antenna", "Patch antenna"],
+    "answer": "Isotropic radiator"
+  },
+  {
+    "question": "The main lobe represents:",
+    "options": ["The direction of maximum radiation", "Unwanted radiation", "Antenna material defects", "Input power"],
+    "answer": "The direction of maximum radiation"
+  },
+  {
+    "question": "Side lobes are:",
+    "options": ["Unwanted radiation directions", "The primary radiation focus", "Only in isotropic antennas", "A measure of gain"],
+    "answer": "Unwanted radiation directions"
+  },
+  {
+    "question": "Radar systems minimize side lobes to:",
+    "options": ["Reduce interference and improve efficiency", "Increase antenna size", "Lower manufacturing cost", "Enhance back lobe radiation"],
+    "answer": "Reduce interference and improve efficiency"
+  },
+  {
+    "question": "The back lobe radiates:",
+    "options": ["Opposite to the main lobe", "Only vertically", "With higher gain than the main lobe", "No energy"],
+    "answer": "Opposite to the main lobe"
+  },
+  {
+    "question": "First Null Beamwidth (FNBW) measures:",
+    "options": ["The angle between first nulls", "Antenna weight", "Side lobe intensity", "Cable loss"],
+    "answer": "The angle between first nulls"
+  },
+  {
+    "question": "Half-Power Beamwidth (HPBW) is defined at:",
+    "options": ["-3 dB points", "-10 dB points", "0 dB level", "Maximum gain point"],
+    "answer": "-3 dB points"
+  },
+  {
+    "question": "Minor lobes include:",
+    "options": ["Side lobes and back lobes", "Only the main lobe", "Isotropic radiation", "No actual radiation"],
+    "answer": "Side lobes and back lobes"
+  },
+  {
+    "question": "Antenna gain accounts for:",
+    "options": ["Only radiation efficiency", "Both directivity and efficiency", "Only input power", "Cable losses"],
+    "answer": "Both directivity and efficiency"
+  },
+  {
+    "question": "The formula G=ηD shows that gain depends on:",
+    "options": ["Directivity (D) and efficiency (η)", "Wavelength only", "Antenna size only", "Temperature"],
+    "answer": "Directivity (D) and efficiency (η)"
+  },
+  {
+    "question": "Total efficiency (η) includes:",
+    "options": ["Conductor, dielectric, and mismatch efficiencies", "Only radiation efficiency", "Cable length", "Signal frequency"],
+    "answer": "Conductor, dielectric, and mismatch efficiencies"
+  },
+  {
+    "question": "Higher aperture efficiency means:",
+    "options": ["More effective use of physical aperture", "Larger antenna size", "Lower gain", "Increased side lobes"],
+    "answer": "More effective use of physical aperture"
+  },
+  {
+    "question": "If an antenna has 80% total efficiency and directivity of 5, its gain is:",
+    "options": ["0.8", "4.0", "5.0", "6.25"],
+    "answer": "4.0"
+  },
+  {
+    "question": "Mismatch efficiency accounts for:",
+    "options": ["Impedance mismatches", "Radiation pattern shape", "Cable color", "Atmospheric losses"],
+    "answer": "Impedance mismatches"
+  },
+  {
+    "question": "EIRP stands for:",
+    "options": ["Effective Isotropic Radiated Power", "Effective Isotropic Radiated Power", "Equivalent Isotropic Radiated Power", "Efficient Isotropic Radiated Power"],
+    "answer": "Equivalent Isotropic Radiated Power"
+  },
+  {
+    "question": "EIRP formula includes:",
+    "options": ["Transmitter power, antenna gain, and cable loss", "Only antenna gain", "Receiver sensitivity", "Atmospheric pressure"],
+    "answer": "Transmitter power, antenna gain, and cable loss"
+  },
+  {
+    "question": "EIRP assumes radiation is:",
+    "options": ["Isotropic (equal in all directions)", "Directional", "Only vertical", "Absent"],
+    "answer": "Isotropic (equal in all directions)"
+  },
+  {
+    "question": "The unit of EIRP can be:",
+    "options": ["dBm or dBW", "Ohms", "Hertz", "Volts"],
+    "answer": "dBm or dBW"
+  },
+  {
+    "question": "Cable loss (Lcable) in the EIRP formula:",
+    "options": ["Reduces the effective radiated power", "Increases gain", "Is negligible", "Only affects frequency"],
+    "answer": "Reduces the effective radiated power"
+  },
+  {
+    "question": "Regulatory limits on EIRP are set to:",
+    "options": ["Prevent interference", "Increase antenna size", "Reduce efficiency", "Block all signals"],
+    "answer": "Prevent interference"
+  },
+  {
+    "question": "EIRP helps determine:",
+    "options": ["Signal coverage range", "Antenna color", "Cable length", "Power supply voltage"],
+    "answer": "Signal coverage range"
+  },
+  {
+    "question": "ERP compares antenna gain to:",
+    "options": ["A half-wave dipole", "An isotropic radiator", "A parabolic dish", "A loop antenna"],
+    "answer": "A half-wave dipole"
+  },
+  {
+    "question": "The conversion factor between dBi and dBd is:",
+    "options": ["2.15 dB", "3.0 dB", "1.0 dB", "10 dB"],
+    "answer": "2.15 dB"
+  },
+  {
+    "question": "ERP is commonly used in:",
+    "options": ["Broadcast systems", "Optical fibers", "Battery design", "Audio equipment"],
+    "answer": "Broadcast systems"
+  },
+  {
+    "question": "ERP formula in logarithmic scale:",
+    "options": ["ERP = Transmitter power + Antenna gain (dBd) - Cable loss", "ERP = Transmitter power - Antenna gain", "ERP = Cable loss + Antenna gain", "ERP = Frequency × Wavelength"],
+    "answer": "ERP = Transmitter power + Antenna gain (dBd) - Cable loss"
+  },
+  {
+    "question": "To convert EIRP to ERP:",
+    "options": ["Subtract 2.15 dB", "Add 2.15 dB", "Multiply by 2.15", "Divide by 2.15"],
+    "answer": "Subtract 2.15 dB"
+  },
+  {
+    "question": "Propagation models are used to:",
+    "options": ["Predict signal strength and coverage areas", "Measure antenna weight", "Calculate power supply requirements", "Determine cable color codes"],
+    "answer": "Predict signal strength and coverage areas"
+  },
+  {
+    "question": "A key purpose of propagation models is to:",
+    "options": ["Identify interference and fading issues", "Reduce antenna size", "Increase signal frequency", "Block all environmental effects"],
+    "answer": "Identify interference and fading issues"
+  },
+  {
+    "question": "Propagation models are essential for planning:",
+    "options": ["4G/5G networks and satellite systems", "Optical fiber installation", "Battery capacity", "Audio speaker placement"],
+    "answer": "4G/5G networks and satellite systems"
+  },
+  {
+    "question": "Environmental factors affecting propagation include:",
+    "options": ["Buildings, trees, and terrain", "Cable length", "Transmitter color", "Antenna material conductivity"],
+    "answer": "Buildings, trees, and terrain"
+  },
+  {
+    "question": "Optimal frequency selection helps:",
+    "options": ["Minimize signal loss", "Increase antenna weight", "Reduce regulatory compliance", "Eliminate all interference"],
+    "answer": "Minimize signal loss"
+  },
+  {
+    "question": "Propagation models aid in:",
+    "options": ["Designing efficient antenna placements", "Measuring sound waves", "Calculating electrical resistance", "Testing material durability"],
+    "answer": "Designing efficient antenna placements"
+  },
+  {
+    "question": "Wireless communication planning relies on propagation models to:",
+    "options": ["Maximize coverage and efficiency", "Shorten cable lengths", "Reduce antenna gain", "Increase atmospheric disturbances"],
+    "answer": "Maximize coverage and efficiency"
+  },
+  {
+    "question": "Empirical models are based on:",
+    "options": ["Real-world measurements and statistical data", "Pure mathematical theory", "Antenna material properties", "Cable resistance"],
+    "answer": "Real-world measurements and statistical data"
+  },
+  {
+    "question": "The Hata Model is an example of:",
+    "options": ["An empirical model", "A theoretical model", "A hybrid model", "A deterministic model"],
+    "answer": "An empirical model"
+  },
+  {
+    "question": "The Free-Space Path Loss Model is:",
+    "options": ["A theoretical model", "An empirical model", "Used only for indoor propagation", "Based on urban measurements"],
+    "answer": "A theoretical model"
+  },
+  {
+    "question": "Hybrid models combine:",
+    "options": ["Empirical and theoretical approaches", "Only empirical data", "Only theoretical equations", "Antenna gain and cable loss"],
+    "answer": "Empirical and theoretical approaches"
+  },
+  {
+    "question": "The COST-231 Model is used for:",
+    "options": ["Modern cellular planning", "Satellite orbit calculations", "Audio signal processing", "Battery efficiency testing"],
+    "answer": "Modern cellular planning"
+  },
+  {
+    "question": "Theoretical models are derived from:",
+    "options": ["Physics-based equations", "Field measurements only", "Antenna color", "Regulatory guidelines"],
+    "answer": "Physics-based equations"
+  },
+  {
+    "question": "Empirical models are most accurate for:",
+    "options": ["Specific environments they were measured in", "All possible scenarios", "Deep space communications", "Optical fiber networks"],
+    "answer": "Specific environments they were measured in"
+  },
+  {
+    "question": "LOS propagation requires:",
+    "options": ["No obstructions between transmitter and receiver", "Reflective surfaces", "Diffraction around obstacles", "Scattering effects"],
+    "answer": "No obstructions between transmitter and receiver"
+  },
+  {
+    "question": "Applications of LOS propagation include:",
+    "options": ["Satellite communications and microwave links", "Indoor Wi-Fi networks", "Underground tunnels", "Dense urban areas"],
+    "answer": "Satellite communications and microwave links"
+  },
+  {
+    "question": "A challenge for LOS propagation is:",
+    "options": ["Blockages by buildings or mountains", "Lack of signal reflections", "Too many multipath signals", "Low antenna gain"],
+    "answer": "Blockages by buildings or mountains"
+  },
+  {
+    "question": "Atmospheric conditions affecting LOS include:",
+    "options": ["Rain and fog", "Cable length", "Transmitter power", "Antenna color"],
+    "answer": "Rain and fog"
+  },
+  {
+    "question": "LOS is ideal for:",
+    "options": ["Point-to-point microwave links", "Urban canyons", "Indoor office spaces", "Subway tunnels"],
+    "answer": "Point-to-point microwave links"
+  },
+  {
+    "question": "GPS signals rely on:",
+    "options": ["LOS propagation", "NLOS propagation", "Only ground reflections", "Ionospheric scattering"],
+    "answer": "LOS propagation"
+  },
+  {
+    "question": "A key advantage of LOS is:",
+    "options": ["Minimal signal distortion", "Better penetration through walls", "Lower frequency requirements", "No need for antennas"],
+    "answer": "Minimal signal distortion"
+  },
+  {
+    "question": "NLOS propagation occurs when:",
+    "options": ["Signals are blocked but reach via reflections/diffraction", "There is a direct unobstructed path", "Only ground waves are present", "No signal reaches the receiver"],
+    "answer": "Signals are blocked but reach via reflections/diffraction"
+  },
+  {
+    "question": "NLOS is common in:",
+    "options": ["Urban areas with high-rise buildings", "Open deserts", "Satellite links", "Deep space"],
+    "answer": "Urban areas with high-rise buildings"
+  },
+  {
+    "question": "A key effect of NLOS is:",
+    "options": ["Multipath propagation", "Zero interference", "No signal attenuation", "Perfect signal clarity"],
+    "answer": "Multipath propagation"
+  },
+  {
+    "question": "Indoor Wi-Fi networks typically use:",
+    "options": ["NLOS propagation", "Pure LOS propagation", "Only ground waves", "Ionospheric reflection"],
+    "answer": "NLOS propagation"
+  },
+  {
+    "question": "Multipath propagation can cause:",
+    "options": ["Signal fading due to destructive interference", "Increased LOS efficiency", "Reduced antenna gain", "Elimination of all interference"],
+    "answer": "Signal fading due to destructive interference"
+  },
+  {
+    "question": "NLOS signals may arrive via:",
+    "options": ["Reflections and scattering", "Only direct paths", "Space waves exclusively", "Cable transmission"],
+    "answer": "Reflections and scattering"
+  },
+  {
+    "question": "A disadvantage of NLOS is:",
+    "options": ["Higher likelihood of signal degradation", "Limited to outdoor use", "Incompatibility with cellular networks", "Requires no antennas"],
+    "answer": "Higher likelihood of signal degradation"
+  },
+  {
+    "question": "Reflection is most significant in:",
+    "options": ["Urban areas with buildings", "Deep space", "Vacuum environments", "Underground tunnels"],
+    "answer": "Urban areas with buildings"
+  },
+  {
+    "question": "Radar systems utilize reflection to:",
+    "options": ["Detect object information", "Increase antenna size", "Block all signals", "Reduce frequency"],
+    "answer": "Detect object information"
+  },
+  {
+    "question": "Diffraction allows signals to:",
+    "options": ["Bend around obstacles", "Travel only in straight lines", "Ignore all interference", "Increase cable loss"],
+    "answer": "Bend around obstacles"
+  },
+  {
+    "question": "A \"shaded region\" in diffraction refers to:",
+    "options": ["An area obstructed by obstacles", "A high-gain antenna", "A reflection-free zone", "A frequency band"],
+    "answer": "An area obstructed by obstacles"
+  },
+  {
+    "question": "Which propagation phenomenon is critical for NLOS communication?",
+    "options": ["Diffraction", "Absorption", "Polarization", "Doppler shift"],
+    "answer": "Diffraction"
+  },
+  {
+    "question": "Diffraction points are typically found near:",
+    "options": ["Obstacles like buildings/hills", "Free space", "Optical fibers", "Battery units"],
+    "answer": "Obstacles like buildings/hills"
+  },
+  {
+    "question": "Reflection can cause:",
+    "options": ["Multipath interference", "Perfect signal clarity", "Zero attenuation", "Elimination of all noise"],
+    "answer": "Multipath interference"
+  },
+  {
+    "question": "Scattering primarily affects:",
+    "options": ["High-frequency signals (e.g., 5G mWave)", "DC currents", "Audio frequencies", "Optical fibers"],
+    "answer": "High-frequency signals (e.g., 5G mWave)"
+  },
+  {
+    "question": "Rain and dust particles scatter:",
+    "options": ["Millimeter waves", "Only visible light", "Low-frequency radio waves", "Electrical cables"],
+    "answer": "Millimeter waves"
+  },
+  {
+    "question": "Refraction in the ionosphere enables:",
+    "options": ["Long-distance shortwave communication", "Underwater Wi-Fi", "Fiber-optic signal boosting", "Zero signal loss"],
+    "answer": "Long-distance shortwave communication"
+  },
+  {
+    "question": "Ionospheric refraction is critical for:",
+    "options": ["Shortwave radio", "LAN networks", "Power grids", "Audio systems"],
+    "answer": "Shortwave radio"
+  },
+  {
+    "question": "Scattering requires careful planning for:",
+    "options": ["Signal strength and infrastructure", "Antenna color", "Cable length", "Battery capacity"],
+    "answer": "Signal strength and infrastructure"
+  },
+  {
+    "question": "Refraction bends signals due to changes in:",
+    "options": ["Medium density (e.g., ionosphere)", "Antenna gain", "Transmitter power", "Cable resistance"],
+    "answer": "Medium density (e.g., ionosphere)"
+  },
+  {
+    "question": "5G mWave signals are more susceptible to:",
+    "options": ["Scattering by small particles", "Complete blockage by air", "Zero interference", "Ignoring all obstacles"],
+    "answer": "Scattering by small particles"
+  },
+  {
+    "question": "Rain fade occurs due to:",
+    "options": ["Absorption by atmospheric water", "Reflection off buildings", "Cable losses", "Antenna misalignment"],
+    "answer": "Absorption by atmospheric water"
+  },
+  {
+    "question": "Multipath fading is common in:",
+    "options": ["Urban environments", "Free space", "Optical fibers", "Vacuum chambers"],
+    "answer": "Urban environments"
+  },
+  {
+    "question": "Doppler shift is caused by:",
+    "options": ["Relative motion between transmitter/receiver", "Static antennas", "Constant frequency signals", "Cable length changes"],
+    "answer": "Relative motion between transmitter/receiver"
+  },
+  {
+    "question": "Absorption by oxygen molecules affects:",
+    "options": ["Satellite communication", "DC power lines", "Audio speakers", "Battery efficiency"],
+    "answer": "Satellite communication"
+  },
+  {
+    "question": "Doppler effect is critical for:",
+    "options": ["Mobile communication", "Underground cables", "Fiber optics", "Power grids"],
+    "answer": "Mobile communication"
+  },
+  {
+    "question": "Rain fade is most problematic for:",
+    "options": ["Satellite links", "Wired networks", "Low-frequency radio", "Optical fibers"],
+    "answer": "Satellite links"
+  },
+  {
+    "question": "Mitigating multipath fading involves:",
+    "options": ["Diversity techniques", "Increasing cable length", "Reducing antenna gain", "Ignoring reflections"],
+    "answer": "Diversity techniques"
+  },
+  {
+    "question": "Polarization mismatch causes:",
+    "options": ["Reduced signal strength", "Increased gain", "Zero interference", "Perfect alignment"],
+    "answer": "Reduced signal strength"
+  },
+  {
+    "question": "Circular polarization is used in satellites to:",
+    "options": ["Avoid orientation issues", "Block all signals", "Reduce antenna size", "Increase cable loss"],
+    "answer": "Avoid orientation issues"
+  },
+  {
+    "question": "Atmospheric effects include:",
+    "options": ["Humidity and temperature variations", "Only cable resistance", "Antenna color", "Battery voltage"],
+    "answer": "Humidity and temperature variations"
+  },
+  {
+    "question": "Fog primarily affects:",
+    "options": ["Wi-Fi and satellite signals", "Power grids", "Audio frequencies", "Optical fibers"],
+    "answer": "Wi-Fi and satellite signals"
+  },
+  {
+    "question": "Linear polarization is prone to:",
+    "options": ["Orientation-based signal loss", "Zero attenuation", "Ignoring weather effects", "Eliminating all noise"],
+    "answer": "Orientation-based signal loss"
+  },
+  {
+    "question": "Signal propagation polarization types include:",
+    "options": ["Linear, circular, elliptical", "Only horizontal", "Only vertical", "Random"],
+    "answer": "Linear, circular, elliptical"
+  },
+  {
+    "question": "Humidity can cause:",
+    "options": ["Signal absorption/scattering", "Increased antenna gain", "Reduced cable length", "Perfect signal clarity"],
+    "answer": "Signal absorption/scattering"
+  },
+  {
+    "question": "Fading refers to:",
+    "options": ["Fluctuations in signal strength at the receiver", "Constant signal power", "Increased antenna gain", "Perfect signal clarity"],
+    "answer": "Fluctuations in signal strength at the receiver"
+  },
+  {
+    "question": "Fading is caused by:",
+    "options": ["Reflections, diffraction, and scattering", "Only cable losses", "Fixed transmitter power", "Battery capacity"],
+    "answer": "Reflections, diffraction, and scattering"
+  },
+  {
+    "question": "An example of fading is:",
+    "options": ["Mobile call drops in tunnels", "Clear satellite TV reception", "Stable fiber-optic connection", "Unchanging Wi-Fi signal"],
+    "answer": "Mobile call drops in tunnels"
+  },
+  {
+    "question": "Environmental factors causing fading include:",
+    "options": ["Obstructions and atmospheric changes", "Only antenna color", "Cable length", "Transmitter weight"],
+    "answer": "Obstructions and atmospheric changes"
+  },
+  {
+    "question": "Wireless signals may not reach the receiver directly due to:",
+    "options": ["Multipath propagation", "Zero interference", "Perfect alignment", "Isotropic radiation"],
+    "answer": "Multipath propagation"
+  },
+  {
+    "question": "Fading affects:",
+    "options": ["Signal reliability in mobile networks", "Optical fiber latency", "Power grid stability", "Audio speaker volume"],
+    "answer": "Signal reliability in mobile networks"
+  },
+  {
+    "question": "A weak Wi-Fi signal when moving away from the router demonstrates:",
+    "options": ["Distance-related fading", "Perfect transmission", "Cable attenuation", "Zero path loss"],
+    "answer": "Distance-related fading"
+  },
+  {
+    "question": "Large-scale fading occurs over:",
+    "options": ["Long distances", "Short distances", "Only in vacuum", "Underground cables"],
+    "answer": "Long distances"
+  },
+  {
+    "question": "Small-scale fading involves:",
+    "options": ["Rapid signal fluctuations", "Constant power loss", "Only path loss", "Zero interference"],
+    "answer": "Rapid signal fluctuations"
+  },
+  {
+    "question": "An example of large-scale fading is:",
+    "options": ["Weak 4G signal behind tall buildings", "FM radio static in a car", "Stable satellite link", "Fiber-optic signal loss"],
+    "answer": "Weak 4G signal behind tall buildings"
+  },
+  {
+    "question": "Small-scale fading is observed in:",
+    "options": ["Moving vehicles", "Fixed wireless towers", "Optical fibers", "Power lines"],
+    "answer": "Moving vehicles"
+  },
+  {
+    "question": "Large-scale fading is primarily caused by:",
+    "options": ["Terrain and obstacles", "Cable resistance", "Antenna gain", "Transmitter color"],
+    "answer": "Terrain and obstacles"
+  },
+  {
+    "question": "A key difference between large- and small-scale fading is:",
+    "options": ["Distance/Time of fluctuation", "Cable type", "Battery voltage", "Signal frequency"],
+    "answer": "Distance/Time of fluctuation"
+  },
+  {
+    "question": "Signal distortion in a moving car exemplifies:",
+    "options": ["Small-scale fading", "Path loss", "Shadowing", "Perfect reception"],
+    "answer": "Small-scale fading"
+  },
+  {
+    "question": "Path loss is a type of:",
+    "options": ["Large-scale fading", "Small-scale fading", "Only cable loss", "Transmitter defect"],
+    "answer": "Large-scale fading"
+  },
+  {
+    "question": "Shadowing occurs due to:",
+    "options": ["Obstructions like buildings", "High antenna gain", "Low frequency", "Perfect alignment"],
+    "answer": "Obstructions like buildings"
+  },
+  {
+    "question": "Multipath fading involves signals arriving via:",
+    "options": ["Multiple reflected paths", "Only direct LOS", "Optical fibers", "Power grids"],
+    "answer": "Multiple reflected paths"
+  },
+  {
+    "question": "Frequency-selective fading affects:",
+    "options": ["Specific frequency components", "All frequencies equally", "Only DC signals", "Cable length"],
+    "answer": "Specific frequency components"
+  },
+  {
+    "question": "Flat fading impacts:",
+    "options": ["All frequencies uniformly", "Only high frequencies", "Only low frequencies", "No frequencies"],
+    "answer": "All frequencies uniformly"
+  },
+  {
+    "question": "Fast fading occurs when:",
+    "options": ["Channel changes rapidly (e.g., moving vehicles)", "Transmitter is static", "Using fiber optics", "Zero reflections"],
+    "answer": "Channel changes rapidly (e.g., moving vehicles)"
+  },
+  {
+    "question": "Slow fading is characterized by:",
+    "options": ["Gradual signal strength changes", "Instantaneous drops", "No obstructions", "Perfect reception"],
+    "answer": "Gradual signal strength changes"
+  },
+  {
+    "question": "Path loss is caused by:",
+    "options": ["Distance and medium of propagation", "Only antenna gain", "Cable color", "Transmitter power"],
+    "answer": "Distance and medium of propagation"
+  },
+  {
+    "question": "Wi-Fi signal weakening in a large house demonstrates:",
+    "options": ["Path loss", "Shadowing", "Multipath fading", "Doppler shift"],
+    "answer": "Path loss"
+  },
+  {
+    "question": "Path loss formula accounts for:",
+    "options": ["Distance and frequency", "Only cable length", "Battery capacity", "Antenna material"],
+    "answer": "Distance and frequency"
+  },
+  {
+    "question": "A key factor in path loss is:",
+    "options": ["Signal frequency", "Transmitter weight", "Receiver color", "Cable flexibility"],
+    "answer": "Signal frequency"
+  },
+  {
+    "question": "Higher frequencies experience:",
+    "options": ["Greater path loss", "Lower path loss", "No path loss", "Perfect transmission"],
+    "answer": "Greater path loss"
+  },
+  {
+    "question": "Path loss models are used to:",
+    "options": ["Predict signal coverage", "Measure battery life", "Test cable durability", "Adjust speaker volume"],
+    "answer": "Predict signal coverage"
+  },
+  {
+    "question": "Flat fading occurs when:",
+    "options": ["The entire signal bandwidth fades equally", "Only high frequencies are affected", "The signal bandwidth exceeds coherence bandwidth", "There is zero interference"],
+    "answer": "The entire signal bandwidth fades equally"
+  },
+  {
+    "question": "Frequency-selective fading is characterized by:",
+    "options": ["Uneven fading across signal frequencies", "Uniform signal strength", "No multipath effects", "Perfect alignment"],
+    "answer": "Uneven fading across signal frequencies"
+  },
+  {
+    "question": "An example of flat fading is:",
+    "options": ["Bluetooth signal drop behind a wall", "HF radio voice distortion", "Satellite signal loss in space", "Fiber-optic cable attenuation"],
+    "answer": "Bluetooth signal drop behind a wall"
+  },
+  {
+    "question": "Coherence bandwidth in flat fading is:",
+    "options": ["Larger than signal bandwidth", "Smaller than signal bandwidth", "Equal to cable length", "Unrelated to fading"],
+    "answer": "Larger than signal bandwidth"
+  },
+  {
+    "question": "Frequency-selective fading is common in:",
+    "options": ["HF radio communications", "DC power lines", "Optical fibers", "Audio systems"],
+    "answer": "HF radio communications"
+  },
+  {
+    "question": "The signal bandwidth in frequency-selective fading is:",
+    "options": ["Larger than coherence bandwidth", "Smaller than coherence bandwidth", "Identical to path loss", "Zero"],
+    "answer": "Larger than coherence bandwidth"
+  },
+  {
+    "question": "Flat fading primarily affects:",
+    "options": ["Narrowband signals", "Only millimeter waves", "Underground cables", "Battery life"],
+    "answer": "Narrowband signals"
+  },
+  {
+    "question": "The Doppler Effect causes:",
+    "options": ["Frequency shift due to motion", "Constant signal strength", "Reduced antenna size", "Cable attenuation"],
+    "answer": "Frequency shift due to motion"
+  },
+  {
+    "question": "An example of Doppler shift is:",
+    "options": ["Mobile signal fluctuations in a fast train", "Stable Wi-Fi at home", "Fiber-optic signal loss", "Power grid fluctuations"],
+    "answer": "Mobile signal fluctuations in a fast train"
+  },
+  {
+    "question": "Higher carrier frequencies result in:",
+    "options": ["Larger Doppler shifts", "No frequency change", "Reduced velocity impact", "Zero fading"],
+    "answer": "Larger Doppler shifts"
+  },
+  {
+    "question": "The variable v in the Doppler formula represents:",
+    "options": ["Relative velocity", "Cable length", "Antenna gain", "Signal bandwidth"],
+    "answer": "Relative velocity"
+  },
+  {
+    "question": "Doppler shift is negligible in:",
+    "options": ["Static communication systems", "High-speed trains", "Satellite motion", "Urban environments"],
+    "answer": "Static communication systems"
+  },
+  {
+    "question": "Fast fading occurs in:",
+    "options": ["High-mobility environments", "Static conditions", "Optical fibers", "Power lines"],
+    "answer": "High-mobility environments"
+  },
+  {
+    "question": "Slow fading is caused by:",
+    "options": ["Gradual environmental changes", "Rapid antenna movement", "Cable resistance", "Zero obstructions"],
+    "answer": "Gradual environmental changes"
+  },
+  {
+    "question": "An example of fast fading is:",
+    "options": ["Call drops in a high-speed train", "Wi-Fi signal in a basement", "Satellite link in space", "Fiber-optic latency"],
+    "answer": "Call drops in a high-speed train"
+  },
+  {
+    "question": "Slow fading is observed when:",
+    "options": ["Walking into a basement", "Using a static desktop PC", "Transmitting via vacuum", "Ignoring reflections"],
+    "answer": "Walking into a basement"
+  },
+  {
+    "question": "Fast fading involves:",
+    "options": ["Rapid signal strength changes", "Constant power levels", "No multipath effects", "Perfect alignment"],
+    "answer": "Rapid signal strength changes"
+  },
+  {
+    "question": "Slow fading is mitigated by:",
+    "options": ["Antenna height adjustment", "Reducing carrier frequency", "Shorter cables", "Ignoring terrain"],
+    "answer": "Antenna height adjustment"
+  },
+  {
+    "question": "Time-variance fading is irrelevant for:",
+    "options": ["Wired communications", "Mobile networks", "Satellite links", "Urban Wi-Fi"],
+    "answer": "Wired communications"
+  },
+  {
+    "question": "Time diversity involves:",
+    "options": ["Repeating transmissions at different times", "Using multiple frequencies", "Increasing antenna gain", "Reducing signal power"],
+    "answer": "Repeating transmissions at different times"
+  },
+  {
+    "question": "An example of time diversity is:",
+    "options": ["Mars Rover data transmission", "FM radio broadcasting", "MIMO systems", "Fiber-optic repeaters"],
+    "answer": "Mars Rover data transmission"
+  },
+  {
+    "question": "Time diversity combats:",
+    "options": ["Temporary signal fades", "Permanent obstructions", "Cable losses", "Battery drain"],
+    "answer": "Temporary signal fades"
+  },
+  {
+    "question": "Redundant transmission paths improve:",
+    "options": ["Signal reliability", "Antenna size", "Transmitter weight", "Cable color"],
+    "answer": "Signal reliability"
+  },
+  {
+    "question": "Time diversity is least effective against:",
+    "options": ["Persistent shadowing", "Short-term fading", "Multipath effects", "Doppler shift"],
+    "answer": "Persistent shadowing"
+  },
+  {
+    "question": "NASA uses time diversity for:",
+    "options": ["Deep-space communication", "Earth-based fiber optics", "Power grid stability", "Audio systems"],
+    "answer": "Deep-space communication"
+  },
+  {
+    "question": "Time intervals in time diversity are chosen to:",
+    "options": ["Exceed coherence time", "Match cable length", "Reduce frequency", "Ignore fading"],
+    "answer": "Exceed coherence time"
+  },
+  {
+    "question": "Fade margin is defined as:",
+    "options": ["Extra signal power to ensure reliable reception", "The minimum signal strength required", "Cable loss in decibels", "Antenna gain reduction"],
+    "answer": "Extra signal power to ensure reliable reception"
+  },
+  {
+    "question": "Fade margin is measured in:",
+    "options": ["Decibels (dB)", "Watts", "Ohms", "Hertz"],
+    "answer": "Decibels (dB)"
+  },
+  {
+    "question": "The purpose of fade margin is to:",
+    "options": ["Counteract signal degradation during adverse conditions", "Increase battery consumption", "Reduce antenna size", "Block all interference"],
+    "answer": "Counteract signal degradation during adverse conditions"
+  },
+  {
+    "question": "Which component is NOT directly involved in fade margin calculation?",
+    "options": ["Received signal strength", "Cable color", "Minimum required signal", "Transmitter power"],
+    "answer": "Cable color"
+  },
+  {
+    "question": "A system with insufficient fade margin may experience:",
+    "options": ["Signal drops during fading", "Perfect reception always", "Reduced antenna gain", "Increased cable length"],
+    "answer": "Signal drops during fading"
+  },
+  {
+    "question": "Fade margin accounts for:",
+    "options": ["Environmental and interference effects", "Only transmitter power", "Optical fiber latency", "Audio frequency range"],
+    "answer": "Environmental and interference effects"
+  },
+  {
+    "question": "The fade margin formula is:",
+    "options": ["Received Signal Strength - Minimum Required Signal", "Transmitter power + Cable loss", "Antenna gain × Frequency", "Path loss + Shadowing"],
+    "answer": "Received Signal Strength - Minimum Required Signal"
+  },
+  {
+    "question": "Received Signal Strength (RSS) refers to:",
+    "options": ["Actual power at the receiver", "Minimum power needed", "Transmitter output", "Cable resistance"],
+    "answer": "Actual power at the receiver"
+  },
+  {
+    "question": "If fade margin is too low:",
+    "options": ["Signal may drop during interference", "No impact on performance", "Antenna gain increases", "Battery life improves"],
+    "answer": "Signal may drop during interference"
+  },
+  {
+    "question": "Excessive fade margin can cause:",
+    "options": ["Interference with other networks", "Zero signal propagation", "Reduced antenna size", "Perfect alignment"],
+    "answer": "Interference with other networks"
+  },
+  {
+    "question": "The minimum required signal is also called:",
+    "options": ["Rx Threshold", "Tx Power", "Path loss", "Doppler shift"],
+    "answer": "Rx Threshold"
+  },
+  {
+    "question": "Fade margin directly affects:",
+    "options": ["System reliability", "Cable color", "Transmitter weight", "Audio quality"],
+    "answer": "System reliability"
+  },
+  {
+    "question": "Which factor is NOT part of fade margin calculation?",
+    "options": ["Atmospheric pressure", "Received signal strength", "Rx threshold", "Transmitter power"],
+    "answer": "Atmospheric pressure"
+  },
+  {
+    "question": "Higher frequencies require:",
+    "options": ["Higher fade margins", "Lower fade margins", "No fade margin", "Constant power"],
+    "answer": "Higher fade margins"
+  },
+  {
+    "question": "Urban environments typically need:",
+    "options": ["More fade margin than rural areas", "Less fade margin", "Identical fade margin", "Zero fade margin"],
+    "answer": "More fade margin than rural areas"
+  },
+  {
+    "question": "Mission-critical systems use:",
+    "options": ["Higher fade margins (e.g., 30-50 dB)", "Lower fade margins", "No fade margin", "Only time diversity"],
+    "answer": "Higher fade margins (e.g., 30-50 dB)"
+  },
+  {
+    "question": "Millimeter-wave systems need large fade margins due to:",
+    "options": ["High atmospheric attenuation", "Low path loss", "Small antenna size", "Cable flexibility"],
+    "answer": "High atmospheric attenuation"
+  },
+  {
+    "question": "Wi-Fi indoors typically uses a fade margin of:",
+    "options": ["10-15 dB", "30-50 dB", "0 dB", "100 dB"],
+    "answer": "10-15 dB"
+  },
+  {
+    "question": "Satellite communications often require a fade margin of:",
+    "options": ["10-15 dB", "Negative fade margin", "No margin", "60 dB"],
+    "answer": "10-15 dB"
+  },
+  {
+    "question": "Rural cellular networks use higher fade margins because:",
+    "options": ["Longer distances and fewer base stations", "Shorter cables", "Lower frequencies", "No obstructions"],
+    "answer": "Longer distances and fewer base stations"
+  },
+  {
+    "question": "Point-to-point microwave links typically use a fade margin of:",
+    "options": ["20-40 dB", "5 dB", "0 dB", "100 dB"],
+    "answer": "20-40 dB"
+  },
+  {
+    "question": "Military networks may require up to:",
+    "options": ["50 dB fade margin", "10 dB", "No margin", "-10 dB"],
+    "answer": "50 dB fade margin"
+  },
+  {
+    "question": "Which application has the lowest typical fade margin?",
+    "options": ["Wi-Fi (Indoor)", "Rural cellular", "Emergency networks", "Satellite"],
+    "answer": "Wi-Fi (Indoor)"
+  },
+  {
+    "question": "Urban cellular networks typically use a fade margin of:",
+    "options": ["10-20 dB", "30-50 dB", "0 dB", "60 dB"],
+    "answer": "10-20 dB"
+  },
+  {
+    "question": "Higher fade margins correlate with:",
+    "options": ["Stricter reliability needs", "Reduced antenna gain", "Shorter distances", "Lower frequencies"],
+    "answer": "Stricter reliability needs"
+  },
+  {
+    "question": "Satellite communication fade margins are similar to:",
+    "options": ["Indoor Wi-Fi", "Military networks", "Rural cellular", "Microwave links"],
+    "answer": "Indoor Wi-Fi"
+  },
+  {
+    "question": "Fade margin values are standardized for:",
+    "options": ["Specific applications", "All systems uniformly", "Only wired networks", "Audio equipment"],
+    "answer": "Specific applications"
+  },
+  {
+    "question": "The Fresnel Zone concept helps engineers understand:",
+    "options": ["Signal diffraction, interference, and loss", "Battery life in wireless devices", "Optical fiber latency", "Audio signal processing"],
+    "answer": "Signal diffraction, interference, and loss"
+  },
+  {
+    "question": "The Fresnel Zone is critical for:",
+    "options": ["Optimal wireless system design", "Reducing antenna weight", "Cable color coding", "Power grid stability"],
+    "answer": "Optimal wireless system design"
+  },
+  {
+    "question": "How many Fresnel zones are typically considered significant?",
+    "options": ["First three", "All infinite zones", "Only the first zone", "Zones beyond the tenth"],
+    "answer": "First three"
+  },
+  {
+    "question": "Fresnel Zone analysis ensures:",
+    "options": ["Clear signal propagation paths", "Higher battery consumption", "Reduced transmitter power", "Zero interference"],
+    "answer": "Clear signal propagation paths"
+  },
+  {
+    "question": "Fresnel zones are most relevant to:",
+    "options": ["RF signal propagation", "Wired Ethernet networks", "Battery voltage", "Speaker impedance"],
+    "answer": "RF signal propagation"
+  },
+  {
+    "question": "Fresnel zone clearance ensures:",
+    "options": ["Unobstructed signal propagation", "Higher cable resistance", "Reduced antenna gain", "Perfect polarization"],
+    "answer": "Unobstructed signal propagation"
+  },
+  {
+    "question": "Even with LOS, obstructions in the Fresnel zone can cause:",
+    "options": ["Diffraction and phase shifts", "Zero signal loss", "Increased battery life", "Lower frequency"],
+    "answer": "Diffraction and phase shifts"
+  },
+  {
+    "question": "Applications requiring Fresnel zone analysis include:",
+    "options": ["Microwave links and Wi-Fi", "Power lines", "Fiber-optic cables", "Audio amplifiers"],
+    "answer": "Microwave links and Wi-Fi"
+  },
+  {
+    "question": "The primary purpose of Fresnel zone analysis is to:",
+    "options": ["Improve link reliability", "Reduce transmitter size", "Block all interference", "Eliminate fading"],
+    "answer": "Improve link reliability"
+  },
+  {
+    "question": "A clear Fresnel zone prevents:",
+    "options": ["Signal attenuation", "Higher antenna cost", "Cable color changes", "Doppler shift"],
+    "answer": "Signal attenuation"
+  },
+  {
+    "question": "Which statement about Fresnel zones is true?",
+    "options": ["They affect signal quality even with LOS", "They only matter in vacuum", "They are irrelevant for 5G", "They increase cable loss"],
+    "answer": "They affect signal quality even with LOS"
+  },
+  {
+    "question": "Fresnel zone obstructions primarily cause:",
+    "options": ["Signal degradation", "Perfect alignment", "Zero path loss", "Reduced frequency"],
+    "answer": "Signal degradation"
+  },
+  {
+    "question": "The first Fresnel zone carries:",
+    "options": ["Most transmitted energy", "Only noise", "Weakest signals", "Zero energy"],
+    "answer": "Most transmitted energy"
+  },
+  {
+    "question": "Significant signal degradation occurs if:",
+    "options": [">40% of the first zone is obstructed", "<10% is obstructed", "Zones beyond third are blocked", "No zones are clear"],
+    "answer": ">40% of the first zone is obstructed"
+  },
+  {
+    "question": "The recommended clearance for the first Fresnel zone is:",
+    "options": ["≥60%", "≤20%", "100%", "0%"],
+    "answer": "≥60%"
+  },
+  {
+    "question": "Higher-order Fresnel zones:",
+    "options": ["Have negligible practical impact", "Carry strongest signals", "Require 100% clearance", "Cause total signal loss"],
+    "answer": "Have negligible practical impact"
+  },
+  {
+    "question": "The second Fresnel zone contributes:",
+    "options": ["Minor interference when obstructed", "Most signal power", "No measurable effects", "Perfect alignment"],
+    "answer": "Minor interference when obstructed"
+  },
+  {
+    "question": "Which Fresnel zone is most critical for link design?",
+    "options": ["First", "Second", "Fifth", "Tenth"],
+    "answer": "First"
+  },
+  {
+    "question": "An obstructed first Fresnel zone causes:",
+    "options": ["Severe signal loss", "Improved gain", "Zero fading", "Lower frequency"],
+    "answer": "Severe signal loss"
+  },
+  {
+    "question": "The first Fresnel zone radius depends on:",
+    "options": ["Frequency and distance", "Cable length", "Transmitter color", "Battery voltage"],
+    "answer": "Frequency and distance"
+  },
+  {
+    "question": "A higher frequency results in a:",
+    "options": ["Smaller Fresnel zone", "Larger zone", "Constant zone size", "Zero zone"],
+    "answer": "Smaller Fresnel zone"
+  },
+  {
+    "question": "To clear Fresnel zone obstructions, engineers may:",
+    "options": ["Raise antenna height", "Reduce frequency", "Use shorter cables", "Ignore the zone"],
+    "answer": "Raise antenna height"
+  },
+  {
+    "question": "Microwave links require a Fresnel zone clearance of:",
+    "options": ["≥60%", "No clearance", "Only 20%", "100% obstruction"],
+    "answer": "≥60%"
+  },
+  {
+    "question": "Choosing a lower frequency for Fresnel zone management:",
+    "options": ["Increases Fresnel zone size", "Reduces diffraction", "Requires higher antennas", "Eliminates fading"],
+    "answer": "Increases Fresnel zone size"
+  },
+  {
+    "question": "Relay stations help with Fresnel zones by:",
+    "options": ["Bypassing obstructions", "Increasing cable loss", "Reducing transmitter power", "Blocking signals"],
+    "answer": "Bypassing obstructions"
+  },
+  {
+    "question": "Wi-Fi bridge setups must ensure:",
+    "options": ["No trees/buildings block the Fresnel zone", "Higher frequency use", "Zero antenna gain", "Unlimited fade margin"],
+    "answer": "No trees/buildings block the Fresnel zone"
+  },
+  {
+    "question": "Link budget calculations incorporate Fresnel zones to:",
+    "options": ["Compensate for obstructions", "Reduce antenna count", "Ignore path loss", "Increase interference"],
+    "answer": "Compensate for obstructions"
+  },
+  {
+    "question": "The most effective solution for Fresnel zone clearance is:",
+    "options": ["Higher antenna placement", "Lowering frequency", "Reducing power", "Using thicker cables"],
+    "answer": "Higher antenna placement"
+  },
+  {
+    "question": "A satellite is defined as:",
+    "options": ["An object orbiting a larger body due to gravity", "A ground-based communication tower", "A type of submarine", "An atmospheric weather balloon"],
+    "answer": "An object orbiting a larger body due to gravity"
+  },
+  {
+    "question": "The Moon is an example of a:",
+    "options": ["Natural satellite", "Artificial satellite", "Space station", "Asteroid"],
+    "answer": "Natural satellite"
+  },
+  {
+    "question": "The Hubble Space Telescope is a:",
+    "options": ["Artificial satellite for space observation", "Natural satellite of Earth", "Weather monitoring balloon", "Deep-sea exploration device"],
+    "answer": "Artificial satellite for space observation"
+  },
+  {
+    "question": "Satellites are important because they:",
+    "options": ["Enable global communication and Earth monitoring", "Replace all ground-based antennas", "Block solar radiation", "Generate Earth's gravity"],
+    "answer": "Enable global communication and Earth monitoring"
+  },
+  {
+    "question": "Which statement about satellites is true?",
+    "options": ["They can be natural or man-made", "They only orbit planets", "They cannot be used for navigation", "All are launched by NASA"],
+    "answer": "They can be natural or man-made"
+  },
+  {
+    "question": "Artificial satellites are primarily used for:",
+    "options": ["Human-designed purposes like communication", "Creating new moons", "Altering Earth's orbit", "Replacing natural satellites"],
+    "answer": "Human-designed purposes like communication"
+  },
+  {
+    "question": "The gravitational force keeps satellites:",
+    "options": ["In stable orbits", "Stationary in space", "Moving in straight lines", "Falling to Earth immediately"],
+    "answer": "In stable orbits"
+  },
+  {
+    "question": "Which is NOT a satellite application?",
+    "options": ["Underwater cable repair", "Earth observation", "Weather forecasting", "Military surveillance"],
+    "answer": "Underwater cable repair"
+  },
+  {
+    "question": "Satellites support navigation through systems like:",
+    "options": ["GPS and Galileo", "Fiber-optic networks", "Power grids", "Audio amplifiers"],
+    "answer": "GPS and Galileo"
+  },
+  {
+    "question": "Real-time Earth monitoring is enabled by:",
+    "options": ["Remote sensing satellites", "Submarine cables", "Radio towers", "Battery storage"],
+    "answer": "Remote sensing satellites"
+  },
+  {
+    "question": "Military surveillance satellites can:",
+    "options": ["Detect missile launches", "Control traffic lights", "Replace internet routers", "Generate electricity"],
+    "answer": "Detect missile launches"
+  },
+  {
+    "question": "GEO satellites are preferred for communication because they:",
+    "options": ["Cover large fixed areas", "Orbit closest to Earth", "Require no antennas", "Use underwater cables"],
+    "answer": "Cover large fixed areas"
+  },
+  {
+    "question": "Starlink provides:",
+    "options": ["Global broadband internet", "Weather balloons", "Deep-sea exploration", "Urban power grids"],
+    "answer": "Global broadband internet"
+  },
+  {
+    "question": "The Landsat program monitors:",
+    "options": ["Deforestation and urban growth", "Ocean salinity", "Solar flares", "Animal migrations"],
+    "answer": "Deforestation and urban growth"
+  },
+  {
+    "question": "Intelsat is an example of a:",
+    "options": ["Communication satellite operator", "Lunar rover", "Submarine cable", "Weather radar"],
+    "answer": "Communication satellite operator"
+  },
+  {
+    "question": "Earth observation satellites help farmers by:",
+    "options": ["Monitoring crop health", "Predicting stock markets", "Repairing tractors", "Generating rainfall"],
+    "answer": "Monitoring crop health"
+  },
+  {
+    "question": "High-resolution satellite images are used for:",
+    "options": ["Mapping and disaster response", "Audio recording", "Cable insulation", "Battery charging"],
+    "answer": "Mapping and disaster response"
+  },
+  {
+    "question": "GEO stands for:",
+    "options": ["Geostationary Earth Orbit", "Global Energy Organization", "Gravitational Equilibrium Orbit", "Ground Emission Observer"],
+    "answer": "Geostationary Earth Orbit"
+  },
+  {
+    "question": "LEO satellites orbit at altitudes between:",
+    "options": ["160 – 2,000 km", "2,000 – 35,786 km", "35,786 – 100,000 km", "500 – 1,000 km"],
+    "answer": "160 – 2,000 km"
+  },
+  {
+    "question": "A key advantage of LEO satellites is:",
+    "options": ["Shorter communication delays", "Global coverage with one satellite", "Zero atmospheric drag", "24-hour orbital period"],
+    "answer": "Shorter communication delays"
+  },
+  {
+    "question": "The International Space Station (ISS) operates in:",
+    "options": ["LEO", "GEO", "MEO", "HEO"],
+    "answer": "LEO"
+  },
+  {
+    "question": "Starlink uses LEO satellites primarily for:",
+    "options": ["Broadband internet", "Weather forecasting", "Deep-space exploration", "Military reconnaissance"],
+    "answer": "Broadband internet"
+  },
+  {
+    "question": "A major challenge for LEO satellites is:",
+    "options": ["Atmospheric drag causing orbit decay", "Excessive signal latency", "Inability to observe Earth", "Fixed position over the equator"],
+    "answer": "Atmospheric drag causing orbit decay"
+  },
+  {
+    "question": "KH-11 Keyhole satellites are examples of:",
+    "options": ["Military reconnaissance in LEO", "Weather monitoring in GEO", "Navigation in MEO", "Scientific research in HEO"],
+    "answer": "Military reconnaissance in LEO"
+  },
+  {
+    "question": "LEO satellites require constellations because:",
+    "options": ["Single satellites cannot provide continuous coverage", "They orbit too slowly", "They are invisible from Earth", "They cannot carry antennas"],
+    "answer": "Single satellites cannot provide continuous coverage"
+  },
+  {
+    "question": "MEO satellites orbit at altitudes between:",
+    "options": ["2,000 – 35,786 km", "160 – 2,000 km", "35,786 – 100,000 km", "500 – 1,500 km"],
+    "answer": "2,000 – 35,786 km"
+  },
+  {
+    "question": "GPS satellites operate in:",
+    "options": ["MEO", "LEO", "GEO", "HEO"],
+    "answer": "MEO"
+  },
+  {
+    "question": "Compared to LEO, MEO satellites offer:",
+    "options": ["Longer visibility per orbit", "Shorter signal delays than GEO", "Higher atmospheric drag", "Faster orbital decay"],
+    "answer": "Longer visibility per orbit"
+  },
+  {
+    "question": "Galileo is Europe's equivalent of:",
+    "options": ["GPS", "Starlink", "Hubble Telescope", "ISS"],
+    "answer": "GPS"
+  },
+  {
+    "question": "A key advantage of MEO over GEO is:",
+    "options": ["Lower signal latency", "Stationary positioning", "No need for multiple satellites", "Zero inclination"],
+    "answer": "Lower signal latency"
+  },
+  {
+    "question": "MEO is primarily used for:",
+    "options": ["Navigation systems", "TV broadcasting", "Deep-space research", "Underwater communication"],
+    "answer": "Navigation systems"
+  },
+  {
+    "question": "How many MEO satellites typically provide global coverage?",
+    "options": ["24–30", "3", "500+", "1"],
+    "answer": "24–30"
+  },
+  {
+    "question": "GEO satellites orbit at:",
+    "options": ["35,786 km", "2,000 km", "800 km", "50,000 km"],
+    "answer": "35,786 km"
+  },
+  {
+    "question": "GEO satellites appear stationary because they:",
+    "options": ["Match Earth's rotational period", "Orbit at light speed", "Use thrusters to hover", "Are invisible to ground stations"],
+    "answer": "Match Earth's rotational period"
+  },
+  {
+    "question": "How many GEO satellites provide near-global coverage?",
+    "options": ["3", "24", "100", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "A major drawback of GEO is:",
+    "options": ["High signal latency (~240ms)", "Inability to communicate", "Rapid orbital decay", "No coverage over oceans"],
+    "answer": "High signal latency (~240ms)"
+  },
+  {
+    "question": "GOES satellites are used for:",
+    "options": ["Weather monitoring", "Internet broadband", "Military reconnaissance", "Lunar exploration"],
+    "answer": "Weather monitoring"
+  },
+  {
+    "question": "GEO is ideal for TV broadcasting because:",
+    "options": ["Satellites cover fixed regions continuously", "They orbit every 90 minutes", "They have zero latency", "They require no ground stations"],
+    "answer": "Satellites cover fixed regions continuously"
+  },
+  {
+    "question": "Military communications use GEO for:",
+    "options": ["Global secure links", "High-resolution imaging", "Underwater operations", "Space tourism"],
+    "answer": "Global secure links"
+  },
+  {
+    "question": "What are the three major segments of a satellite system?",
+    "options": ["Space segment, Ground segment, User segment", "Orbital segment, Control segment, Receiver segment", "Transmitter segment, Satellite segment, Antenna segment", "Power segment, Signal segment, Monitor segment"],
+    "answer": "Space segment, Ground segment, User segment"
+  },
+  {
+    "question": "Which of the following is part of the Space Segment in a satellite system?",
+    "options": ["Ground Antenna", "Satellite", "User Terminal", "Master Control Station"],
+    "answer": "Satellite"
+  },
+  {
+    "question": "The User Segment primarily includes:",
+    "options": ["Control Centers", "Tracking Systems", "End-users and their devices", "Payload equipment"],
+    "answer": "End-users and their devices"
+  },
+  {
+    "question": "The primary function of the Space Segment is to:",
+    "options": ["Manufacture satellites", "Receive, amplify, and retransmit signals", "Monitor ground stations", "Control user devices"],
+    "answer": "Receive, amplify, and retransmit signals"
+  },
+  {
+    "question": "Which component is NOT part of the satellite's space segment?",
+    "options": ["Payload", "Antennas", "Master Control Station", "Bus"],
+    "answer": "Master Control Station"
+  },
+  {
+    "question": "The Bus in a satellite refers to:",
+    "options": ["Communication equipment", "Support subsystems (e.g., power, propulsion)", "Ground antennas", "User terminals"],
+    "answer": "Support subsystems (e.g., power, propulsion)"
+  },
+  {
+    "question": "The Ground Segment is responsible for:",
+    "options": ["Monitoring and controlling satellites", "Launching satellites into orbit", "Manufacturing user devices", "Designing satellite antennas"],
+    "answer": "Monitoring and controlling satellites"
+  },
+  {
+    "question": "Which of the following is part of the Ground Segment?",
+    "options": ["Control Centers", "Satellite Bus", "Payload", "User Antennas"],
+    "answer": "Control Centers"
+  },
+  {
+    "question": "Earth Stations are used for:",
+    "options": ["Communicating with satellites", "Building satellite buses", "Launching payloads", "Monitoring end-users"],
+    "answer": "Communicating with satellites"
+  },
+  {
+    "question": "Which device is an example of a User Segment component?",
+    "options": ["Master Control Station", "VSAT (Very Small Aperture Terminal)", "Satellite Bus", "Earth Station"],
+    "answer": "VSAT (Very Small Aperture Terminal)"
+  },
+  {
+    "question": "The main function of the User Segment is to:",
+    "options": ["Launch satellites into orbit", "Receive satellite signals for communication services", "Monitor space weather", "Design payloads"],
+    "answer": "Receive satellite signals for communication services"
+  },
+  {
+    "question": "Which segment includes transponders and antennas?",
+    "options": ["Ground Segment", "Space Segment", "User Segment", "Control Segment"],
+    "answer": "Space Segment"
+  },
+  {
+    "question": "TT&C centers are part of which segment?",
+    "options": ["Ground Segment", "Space Segment", "User Segment", "Payload Segment"],
+    "answer": "Ground Segment"
+  },
+  {
+    "question": "What is an example of a Space Segment system?",
+    "options": ["VSAT stations", "GPS satellites", "Satellite phones", "Broadband terminals"],
+    "answer": "GPS satellites"
+  },
+  {
+    "question": "The first step in satellite signal transmission is:",
+    "options": ["Downlink", "Uplink", "Transponder amplification", "End-user reception"],
+    "answer": "Uplink"
+  },
+  {
+    "question": "Which component amplifies and retransmits signals in a satellite?",
+    "options": ["Uplink", "Transponder", "Downlink", "Earth Station"],
+    "answer": "Transponder"
+  },
+  {
+    "question": "The final step in satellite communication is:",
+    "options": ["Uplink", "Transponder processing", "End-user reception", "Signal modulation"],
+    "answer": "End-user reception"
+  },
+  {
+    "question": "What is the direction of signal transmission in an uplink?",
+    "options": ["Satellite to Earth", "Earth to Satellite", "User to Ground Station", "Satellite to Satellite"],
+    "answer": "Earth to Satellite"
+  },
+  {
+    "question": "Which frequency range is used for C-band uplink?",
+    "options": ["3.7 – 4.2 GHz", "5.925 – 6.425 GHz", "10.7 – 12.75 GHz", "14.0 – 14.5 GHz"],
+    "answer": "5.925 – 6.425 GHz"
+  },
+  {
+    "question": "What captures the uplinked signal on the satellite?",
+    "options": ["Transponder", "Receiving antenna", "Ground station", "User terminal"],
+    "answer": "Receiving antenna"
+  },
+  {
+    "question": "What is the primary function of a transponder?",
+    "options": ["Launch satellites", "Amplify and retransmit signals", "Monitor Earth weather", "Control user devices"],
+    "answer": "Amplify and retransmit signals"
+  },
+  {
+    "question": "Which transponder type processes and improves the signal before retransmission?",
+    "options": ["Regenerative transponder", "Bent-pipe transponder", "Transparent transponder", "Frequency modulator"],
+    "answer": "Regenerative transponder"
+  },
+  {
+    "question": "Which transponder type simply amplifies and shifts frequency without modification?",
+    "options": ["Regenerative transponder", "Bent-pipe transponder", "Transparent transponder", "Frequency modulator"],
+    "answer": "Bent-pipe transponder"
+  },
+  {
+    "question": "Why does a transponder convert the frequency of the signal?",
+    "options": ["To reduce satellite power", "To prevent interference with the uplink", "To increase signal delay", "To align with user terminals"],
+    "answer": "To prevent interference with the uplink"
+  },
+  {
+    "question": "The downlink transmits signals from:",
+    "options": ["Earth to Satellite", "Satellite to Earth", "User to Transponder", "Ground Station to Satellite"],
+    "answer": "Satellite to Earth"
+  },
+  {
+    "question": "Why is the downlink frequency lower than the uplink?",
+    "options": ["To increase signal strength", "To minimize interference", "To reduce satellite cost", "To comply with international laws"],
+    "answer": "To minimize interference"
+  },
+  {
+    "question": "Which frequency range is used for Ku-band downlink?",
+    "options": ["3.7 – 4.2 GHz", "5.925 – 6.425 GHz", "10.7 – 12.75 GHz", "14.0 – 14.5 GHz"],
+    "answer": "10.7 – 12.75 GHz"
+  },
+  {
+    "question": "What devices are used for end-user reception of satellite signals?",
+    "options": ["Transponders", "VSAT terminals, satellite dishes, or mobile devices", "Ground control stations", "Satellite buses"],
+    "answer": "VSAT terminals, satellite dishes, or mobile devices"
+  },
+  {
+    "question": "The processed signal from the satellite is used for all of the following EXCEPT:",
+    "options": ["TV broadcasts", "Internet access", "Satellite launch control", "GPS navigation"],
+    "answer": "Satellite launch control"
+  },
+  {
+    "question": "Which of the following is NOT part of the end-user reception process?",
+    "options": ["Decoding the signal", "Launching the satellite", "Processing the signal for applications", "Receiving the signal"],
+    "answer": "Launching the satellite"
+  },
+  {
+    "question": "Which frequency band is used for GPS and mobile satellite services?",
+    "options": ["S-band", "L-band", "C-band", "Ka-band"],
+    "answer": "L-band"
+  },
+  {
+    "question": "What is the downlink frequency range for C-band?",
+    "options": ["5.925 – 6.425 GHz", "3.7 – 4.2 GHz", "10.7 – 12.75 GHz", "14.0 – 14.5 GHz"],
+    "answer": "3.7 – 4.2 GHz"
+  },
+  {
+    "question": "Which band is primarily used for military and deep space missions?",
+    "options": ["Ku-band", "X-band", "V-band", "E-band"],
+    "answer": "X-band"
+  },
+  {
+    "question": "Which band has the shortest wavelength?",
+    "options": ["L-band", "C-band", "E-band", "S-band"],
+    "answer": "E-band"
+  },
+  {
+    "question": "V-band frequencies are being explored for:",
+    "options": ["Future 5G satellites", "GPS navigation", "Weather forecasting", "Maritime communications"],
+    "answer": "Future 5G satellites"
+  },
+  {
+    "question": "S-band is commonly used for:",
+    "options": ["Satellite telephony and NASA space communications", "Military radar systems", "Rural internet services", "High-speed broadband"],
+    "answer": "Satellite telephony and NASA space communications"
+  },
+  {
+    "question": "Ku-band is commonly used for:",
+    "options": ["Direct-to-Home (DTH) TV, VSAT, Enterprise Networks, Aviation WiFi", "Military radar systems", "Rural internet services", "High-speed broadband"],
+    "answer": "Direct-to-Home (DTH) TV, VSAT, Enterprise Networks, Aviation WiFi"
+  },
+  {
+    "question": "Which GNSS system has the highest orbital altitude?",
+    "options": ["GPS", "GLONASS", "Galileo (23,222 km)", "BeiDou"],
+    "answer": "Galileo (23,222 km)"
+  },
+  {
+    "question": "IGSO satellites are uniquely used by:",
+    "options": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+    "answer": "BeiDou"
+  },
+  {
+    "question": "What is the primary purpose of Satellite Navigation Systems?",
+    "options": ["Weather forecasting", "Geolocation and time data provision", "Satellite communication", "Space exploration"],
+    "answer": "Geolocation and time data provision"
+  },
+  {
+    "question": "Which of the following is a Regional Navigation Satellite System (RNSS)?",
+    "options": ["GPS", "IRNSS (India)", "Galileo", "GLONASS"],
+    "answer": "IRNSS (India)"
+  },
+  {
+    "question": "Which systems provide worldwide coverage?",
+    "options": ["GPS", "Global Navigation Satellite Systems (GNSS)", "Regional Navigation Satellite Systems (RNSS)", "GLONASS"],
+    "answer": "Global Navigation Satellite Systems (GNSS)"
+  },
+  {
+    "question": "Which systems provide coverage for specific regions?",
+    "options": ["GPS", "Global Navigation Satellite Systems (GNSS)", "Regional Navigation Satellite Systems (RNSS)", "GLONASS"],
+    "answer": "Regional Navigation Satellite Systems (RNSS)"
+  },
+  {
+    "question": "Satellite Navigation Systems are NOT typically used for:",
+    "options": ["Aviation", "Disaster response", "Solar energy collection", "Agriculture"],
+    "answer": "Solar energy collection"
+  },
+  {
+    "question": "Which country operates the GLONASS system?",
+    "options": ["USA", "Russia", "China", "European Union"],
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the minimum number of satellites required for trilateration?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "Which system is operated by the European Union?",
+    "options": ["GPS", "BeiDou", "Galileo", "IRNSS"],
+    "answer": "Galileo"
+  },
+  {
+    "question": "What is the altitude of GPS satellites?",
+    "options": ["10,000 km", "~20,200 km", "36,000 km", "500 km"],
+    "answer": "~20,200 km"
+  },
+  {
+    "question": "What critical component ensures timing accuracy in GPS satellites?",
+    "options": ["Solar panels", "Atomic clocks", "Transponders", "Antennas"],
+    "answer": "Atomic clocks"
+  },
+  {
+    "question": "Why are at least four satellites needed for GPS positioning?",
+    "options": ["To increase signal strength", "To compensate for atmospheric errors and calculate 3D position", "To reduce cost", "To avoid satellite collisions"],
+    "answer": "To compensate for atmospheric errors and calculate 3D position"
+  },
+  {
+    "question": "Trilateration in GPS requires signals from at least how many satellites?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "question": "What does trilateration calculate using GPS satellite signals?",
+    "options": ["Signal frequency", "Precise 3D location (latitude, longitude, altitude)", "Atmospheric pressure", "Satellite battery life"],
+    "answer": "Precise 3D location (latitude, longitude, altitude)"
+  },
+  {
+    "question": "Which of the following is NOT a step in GPS trilateration?",
+    "options": ["Measuring time delays from satellites", "Decrypting satellite communication content", "Compensating for atmospheric errors", "Using atomic clock data"],
+    "answer": "Decrypting satellite communication content"
+  },
+  {
+    "question": "What is the primary purpose of the atomic clock in GPS satellites?",
+    "options": ["To power the satellite", "To ensure precise timing for signal transmission", "To track satellite orbit decay", "To communicate with ground stations"],
+    "answer": "To ensure precise timing for signal transmission"
+  },
+  {
+    "question": "Which error source is NOT corrected by GPS receivers?",
+    "options": ["Ionospheric delay", "Satellite hardware failures", "Tropospheric delay", "Multipath interference"],
+    "answer": "Satellite hardware failures"
+  },
+  {
+    "question": "The GPS constellation orbits at approximately:",
+    "options": ["500 km altitude", "20,200 km altitude", "36,000 km altitude", "1,000 km altitude"],
+    "answer": "20,200 km altitude"
+  },
+  {
+    "question": "The primary purpose of trilateration is to:",
+    "options": ["Measure signal frequency", "Calculate precise 3D location (latitude, longitude, altitude)", "Predict weather patterns", "Monitor satellite health"],
+    "answer": "Calculate precise 3D location (latitude, longitude, altitude)"
+  },
+  {
+    "question": "Which factor is NOT accounted for during trilateration?",
+    "options": ["Signal time delay", "Satellite manufacturing cost", "Atmospheric interference", "Atomic clock accuracy"],
+    "answer": "Satellite manufacturing cost"
+  },
+  {
+    "question": "DGPS (Differential GPS) is:",
+    "options": ["GPS", "BeiDou", "A technique to improve GPS accuracy using correction data from fixed reference stations", "IRNSS"],
+    "answer": "A technique to improve GPS accuracy using correction data from fixed reference stations"
+  },
+  {
+    "question": "DGPS improves GPS accuracy by:",
+    "options": ["Increasing satellite transmission power", "Using correction data from fixed ground stations", "Reducing the number of required satellites", "Eliminating the need for atomic clocks"],
+    "answer": "Using correction data from fixed ground stations"
+  },
+  {
+    "question": "What does a DGPS reference station directly correct?",
+    "options": ["Satellite orbits", "Atmospheric and clock errors in GPS signals", "Receiver hardware failures", "Solar radiation levels"],
+    "answer": "Atmospheric and clock errors in GPS signals"
+  },
+  {
+    "question": "How are DGPS corrections typically transmitted to receivers?",
+    "options": ["Via radio signals or the internet", "Through satellite telepathy", "Using underwater cables", "By manual entry"],
+    "answer": "Via radio signals or the internet"
+  },
+  {
+    "question": "Which application benefits most from DGPS?",
+    "options": ["Weather forecasting", "Precision agriculture (e.g., automated tractor guidance)", "Deep-space communication", "Social media geotagging"],
+    "answer": "Precision agriculture (e.g., automated tractor guidance)"
+  },
+  {
+    "question": "The main limitation of DGPS is:",
+    "options": ["Limited range from reference stations", "Inability to work outdoors", "Dependence on smartphone apps", "Excessive power consumption"],
+    "answer": "Limited range from reference stations"
+  },
+  {
+    "question": "DGPS improves standard GPS accuracy from 3-5 meters to:",
+    "options": ["10-15 meters", "Sub-meter or centimeter-level", "Millimeter-level", "No significant improvement"],
+    "answer": "Sub-meter or centimeter-level"
+  },
+  {
+    "question": "What is the primary source of DGPS correction data?",
+    "options": ["Satellite telemetry", "Fixed ground reference stations", "User smartphone signals", "Weather satellites"],
+    "answer": "Fixed ground reference stations"
+  },
+  {
+    "question": "Which error does DGPS NOT typically correct?",
+    "options": ["Ionospheric delay", "Satellite manufacturing defects", "Tropospheric delay", "Clock inaccuracies"],
+    "answer": "Satellite manufacturing defects"
+  },
+  {
+    "question": "Which GNSS system is operated by the Russian Aerospace Forces?",
+    "options": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+    "answer": "GLONASS"
+  },
+  {
+    "question": "Which system uses a combination of MEO, IGSO, and GEO orbits?",
+    "options": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+    "answer": "BeiDou"
+  },
+  {
+    "question": "Which GNSS system uses FDMA for its legacy signals?",
+    "options": ["GPS", "GLONASS", "Galileo", "BeiDou"],
+    "answer": "GLONASS"
+  },
+  {
+    "question": "The L1 frequency (1575.42 MHz) is shared by which systems?",
+    "options": ["GPS and GLONASS", "GPS, Galileo, and BeiDou (B1C)", "GLONASS and BeiDou", "Galileo only"],
+    "answer": "GPS, Galileo, and BeiDou (B1C)"
+  },
+  {
+    "question": "Which signal modulation is NOT used by modern GNSS systems?",
+    "options": ["CDMA", "AM (Amplitude Modulation)", "FDMA", "All are used"],
+    "answer": "AM (Amplitude Modulation)"
+  },
+  {
+    "question": "Which system offers <1 meter civilian accuracy with its High Accuracy Service (HAS)?",
+    "options": ["GPS", "GLONASS", "Galileo", "BeiDou (regional only)"],
+    "answer": "Galileo"
+  },
+  {
+    "question": "Dual-frequency support is available in:",
+    "options": ["GPS only", "All GNSS systems listed", "Galileo and BeiDou only", "Military systems only"],
+    "answer": "All GNSS systems listed"
+  },
+  {
+    "question": "Which service enables sub-meter accuracy in BeiDou?",
+    "options": ["WAAS", "PPP (Precise Point Positioning)", "FDMA", "IGSO orbits"],
+    "answer": "PPP (Precise Point Positioning)"
   }
 ]

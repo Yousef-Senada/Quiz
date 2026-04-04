@@ -1,342 +1,1850 @@
 [
   {
-    "question": "A great manager makes a job more enjoyable and productive.",
+    "question": "Antennas can both transmit and receive signals.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Managers play an important role in dealing with various challenges being faced by organizations today.",
+    "question": "Antennas require physical cables to function.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Antennas enable wireless communication without physical cables."
   },
   {
-    "question": "A manager's job is all about personal achievement.",
+    "question": "Antennas act as a bridge between guided waves and free-space waves.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "A manager's job is all about organization achievement.",
+    "question": "Antennas are only used for audio signals.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Antennas handle electromagnetic signals (radio, TV, satellite, etc.)."
   },
   {
-    "question": "In traditionally structured organizations managers can be classified as first-line managers, middle managers, or top managers.",
+    "question": "Broadcasting relies on antennas for over-the-air transmission.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Efficiency is described as \"doing things right.\"",
+    "question": "AC current through a conductor creates electromagnetic waves.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "According to Robert L. Katz, managers need to have technical, human, and conceptual skills.",
+    "question": "EM waves cannot travel through a vacuum.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "EM waves propagate perfectly through a vacuum."
   },
   {
-    "question": "Technical skills become less important as a manager moves into higher levels of management.",
+    "question": "Visible light has specific wavelength ranges.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Conceptual skills are less important to top managers.",
+    "question": "\"Xeon Waves\" are a valid part of the EM spectrum.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "The term is incorrect; the correct term is \"X-rays.\""
   },
   {
-    "question": "Conceptual skills are more important to top managers.",
+    "question": "Radio waves have longer wavelengths than visible light.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Innovation is confined to high-tech and other technologically sophisticated organizations.",
+    "question": "Yagi-Uda antennas are directional and used for TV.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Innovation is not confined to high-tech and other technologically sophisticated organizations.",
+    "question": "Radar antennas are only for civilian weather tracking.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They are also used in military applications."
   },
   {
-    "question": "For organizations to survive successfully, managers must create a customer-responsive organization.",
+    "question": "Mobile phones have built-in antennas.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Management is universally needed in all organizations.",
+    "question": "GPS antennas transmit signals to satellites.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They receive signals from satellites."
   },
   {
-    "question": "A portion of a manager's job, especially at lower organizational levels, may entail duties that are often more clerical than managerial.",
+    "question": "Satellite TV uses dish antennas.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Management offers challenging, exciting and creative opportunities for misunderstanding and fulfilling work.",
+    "question": "Array antennas consist of a single radiating element.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They combine multiple antennas to shape radiation patterns."
   },
   {
-    "question": "Management offers challenging, exciting and creative opportunities for meaningful and fulfilling work.",
+    "question": "Array antennas can improve signal directionality.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Challenges of Being A Manager include having opportunities to think creatively and use imagination.",
+    "question": "A monopole is half the length of a dipole.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Rewards of Being A Manager include having opportunities to think creatively and use imagination.",
+    "question": "Dipoles radiate equally in all directions.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They have a doughnut-shaped radiation pattern."
   },
   {
-    "question": "Rewards of Being A Manager include having duties that are more clerical than managerial.",
+    "question": "Helical antennas cannot be used for space applications.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They are widely used in satellites."
   },
   {
-    "question": "Challenges of Being A Manager include having duties that are more clerical than managerial.",
+    "question": "Monopoles outperform dipoles in free space.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Monopoles require a ground plane; dipoles do not."
   },
   {
-    "question": "The decision-making process begins by identifying decision criteria.",
+    "question": "A λ/4 monopole is electrically equivalent to a λ/2 dipole.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "The decision-making process begins by identifying the problem.",
+    "question": "Horn antennas are inefficient at microwave frequencies.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They are highly efficient at microwave frequencies."
   },
   {
-    "question": "A decision criterion defines what is important or relevant to resolving a problem.",
+    "question": "Larger reflector dishes reduce antenna gain.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Gain increases with dish size."
   },
   {
-    "question": "In the decision-making process, after allocating weights to the decision criteria, the decision maker lists viable alternatives that could resolve the problem.",
+    "question": "Aperture antennas are unsuitable for radar.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They are widely used in radar systems."
   },
   {
-    "question": "Once the alternatives to solving a problem have been identified, the next step in the decision-making process is selecting one of these alternatives.",
+    "question": "Reflector antennas use parabolic shapes to focus signals.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Once the alternatives to solving a problem have been identified, the next step in the decision-making process is analyzing alternatives.",
+    "question": "Slot antennas radiate through narrow openings in metal.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Decision making is a part of the planning, organizing, leading, and controlling functions and thus, the essence of management.",
+    "question": "Patch antennas are compact and easy to fabricate.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Intuitive decision-making complements rational decision making but not bounded rational decision making.",
+    "question": "Patch arrays can enhance gain and directivity.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Intuitive decision-making complements both rational and bounded rational decision making.",
+    "question": "Patch antennas cannot be integrated with ICs.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They are often integrated with RF circuits."
   },
   {
-    "question": "A policy is an explicit statement that tells a manager what can or cannot be done.",
+    "question": "Patch antennas are unsuitable for mobile devices.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They are ideal for mobile/Wi-Fi applications."
   },
   {
-    "question": "A rule is an explicit statement that tells a manager what can or cannot be done.",
+    "question": "Beamforming improves signal directionality.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Managers need to understand cultural differences to make effective decisions in today's fast-moving world.",
+    "question": "All array elements must operate at different frequencies.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They typically operate at the same frequency."
   },
   {
-    "question": "Nonprogrammed decision making relies on procedures, rules, and policies.",
+    "question": "MIMO requires only one antenna.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "It uses multiple Tx/Rx antennas."
   },
   {
-    "question": "Programmed decision making relies on procedures, rules, and policies.",
+    "question": "Yagi-Uda arrays are omnidirectional.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They are highly directional."
   },
   {
-    "question": "Planning is concerned with how objectives are to be accomplished, not what is to be accomplished.",
+    "question": "Arrays can mitigate multipath fading.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Planning is concerned with both how objectives are to be accomplished and what is to be accomplished.",
+    "question": "The Friis equation assumes idealized line-of-sight conditions.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Planning provides direction to managers and non-managers alike.",
+    "question": "Wavelength (λ) is inversely proportional to frequency.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "The presence of planning inhibits the ability of departments and individuals to work together or organizations to move.",
+    "question": "The Friis equation includes losses from atmospheric interference.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "It ignores environmental losses; only free-space path loss is considered."
   },
   {
-    "question": "The presence of planning enhances the ability of departments and individuals to work together or organizations to move.",
+    "question": "Power received (Pr) is the product of power density and effective aperture.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Planning helps managers eliminate uncertainty and insulates organizations from change.",
+    "question": "Effective aperture is unrelated to antenna gain.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "Antenna gain directly affects effective aperture."
   },
   {
-    "question": "Planning helps managers reduce uncertainty and insulates organizations from change.",
+    "question": "Path loss increases with distance and frequency.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Several research studies have conclusively proven that planning organizations always outperform non-planning organizations.",
+    "question": "The Friis equation in dB includes system losses like cable attenuation.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "The basic Friis equation ignores such losses; the link budget formula includes them."
   },
   {
-    "question": "Several research studies have shown that planning organizations often outperform non-planning organizations.",
+    "question": "The link budget formula is used for real-world system design.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Several research studies have shown that planning organizations outperform non-planning organizations.",
+    "question": "Lm accounts only for free-space path loss.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Lm includes fading, atmospheric effects, etc., beyond free-space loss."
   },
   {
-    "question": "Studies indicate that doing a good job planning and implementing those plans play a bigger part in high performance than does how much planning is done.",
+    "question": "The Friis equation is more comprehensive than the link budget.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "The link budget is more comprehensive, including practical losses."
   },
   {
-    "question": "The number of years used to define short-term and long-term plans has increased considerably because of the greater environmental certainty businesses have today.",
+    "question": "Both the Friis equation and Link Budget formulas depend on frequency/wavelength.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "The number of years used to define short-term and long-term plans has increased considerably because of the greater environmental uncertainty businesses have today.",
+    "question": "The Friis equation includes atmospheric absorption losses.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "It only considers free-space path loss."
   },
   {
-    "question": "Long-term plans are those with a time frame beyond five years.",
+    "question": "Link Budget analysis is essential for cellular network planning.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Short-term plans are those covering one year or less.",
+    "question": "Both the Link Budget and Friis equation are frequency-independent.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Both depend on frequency/wavelength."
   },
   {
-    "question": "When uncertainty is high and managers must be flexible in order to respond to unexpected changes, directional plans are preferable.",
+    "question": "The Link Budget can include fading margin and interference.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Directional plans are clearly defined and leave no room for interpretation.",
+    "question": "Friis is sufficient for modeling urban multipath environments.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "Link Budget is needed for such scenarios."
   },
   {
-    "question": "Specific plans are clearly defined and leave no room for interpretation.",
+    "question": "Link Budget analysis includes connector losses.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "The standard procedure to be followed by the human resources department of a company when initiating disciplinary action against an employee is an example of a standing plan.",
+    "question": "Friis equation predicts performance in dense urban areas accurately.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "It ignores multipath and obstructions."
   },
   {
-    "question": "As managers plan, they develop both goals and plans.",
+    "question": "Pr = Pt + Gt + Gr − Lp is the Friis equation in dB.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Most businesses have only the single goal of making profits.",
+    "question": "Military systems rely on Link Budget for jamming resistance.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Most businesses have multiple goals beyond just making profits.",
+    "question": "Friis is used to calculate interference between networks.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Link Budget analyzes interference margins."
   },
   {
-    "question": "Strategic goals focus exclusively on the financial performance of the organization.",
+    "question": "Radiation patterns are irrelevant for antenna design.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They are critical for determining antenna performance."
   },
   {
-    "question": "Strategic goals do not focus only on the financial performance of the organization.",
+    "question": "Directional antennas have wider coverage than omnidirectional antennas.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Directional antennas have focused, narrow coverage."
   },
   {
-    "question": "Stated goals are those that an organization pursues.",
+    "question": "Polar plots can display both main and side lobes.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "Real goals are those that an organization pursues.",
+    "question": "All antennas have identical radiation patterns.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "Patterns vary by antenna type and design."
   },
   {
-    "question": "Firms can monitor, and potentially influence, proposed legislative and political changes using lobbyists.",
+    "question": "3D radiation patterns are easier to analyze than 2D plots.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "3D patterns are more complex to analyze."
   },
   {
-    "question": "Figurehead, leader, and liaison are all decisional managerial roles according to Mintzberg.",
+    "question": "Isotropic radiators are commonly found in commercial devices.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They are theoretical and do not exist practically."
   },
   {
-    "question": "Implementing an alternative refers to the process of choosing the best alternative.",
+    "question": "Omnidirectional antennas are used in broadcast radio towers.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "True",
+    "correction": null
   },
   {
-    "question": "A programmed decision is a repetitive decision that can be handled by a routine approach.",
+    "question": "Directional antennas have no side lobes.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "They typically have minor side lobes."
   },
   {
-    "question": "A great manager can inspire employees professionally and personally.",
+    "question": "A dipole's radiation pattern is identical in all planes.",
     "options": ["True", "False"],
-    "answer": "True"
+    "answer": "False",
+    "correction": "It is omnidirectional only in the azimuth plane."
   },
   {
-    "question": "Short-term plans are those with a time frame beyond five years.",
+    "question": "Satellite dishes use omnidirectional antennas.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They use high-gain directional antennas."
   },
   {
-    "question": "Effectiveness is described as \"doing things right.\"",
+    "question": "Side lobes improve antenna efficiency.",
     "options": ["True", "False"],
-    "answer": "False"
+    "answer": "False",
+    "correction": "They reduce efficiency by radiating energy in unwanted directions."
+  },
+  {
+    "question": "HPBW is a measure of antenna directivity.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "All antennas have identical side lobe levels.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Side lobe levels vary by antenna design."
+  },
+  {
+    "question": "The back lobe is always stronger than the main lobe.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "The main lobe has maximum radiation intensity."
+  },
+  {
+    "question": "FNBW is narrower than HPBW.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "FNBW is wider than HPBW."
+  },
+  {
+    "question": "Gain is always higher than directivity.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Gain ≤ Directivity (since η ≤ 1)."
+  },
+  {
+    "question": "Aperture efficiency compares effective aperture to physical aperture.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Dielectric efficiency is unrelated to total efficiency.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is a component of total efficiency."
+  },
+  {
+    "question": "ηc represents conductor efficiency.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Directivity measures how focused an antenna's radiation is.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "EIRP uses dBi for antenna gain.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Cable loss increases EIRP.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Cable loss decreases EIRP."
+  },
+  {
+    "question": "EIRP is irrelevant for satellite communications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is critical for link budget calculations."
+  },
+  {
+    "question": "Isotropic radiators are practical antennas.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are theoretical references."
+  },
+  {
+    "question": "EIRP = Transmitter power + Antenna gain.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "EIRP = Transmitter power + Antenna gain - Cable loss."
+  },
+  {
+    "question": "ERP is always higher than EIRP for the same antenna.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "ERP is 2.15 dB lower than EIRP."
+  },
+  {
+    "question": "ERP uses dBd for antenna gain.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Dipole antennas have 0 dBd gain.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "ERP = EIRP + 2.15 dB.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "ERP = EIRP - 2.15 dB."
+  },
+  {
+    "question": "ERP is preferred in satellite communications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "EIRP is standard for satellites."
+  },
+  {
+    "question": "A 3 dBd antenna has higher gain than a 3 dBi antenna.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Propagation models are irrelevant for modern wireless networks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are critical for network design and optimization."
+  },
+  {
+    "question": "Signal strength prediction is a key output of propagation models.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Propagation models ignore environmental effects.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They account for buildings, terrain, etc."
+  },
+  {
+    "question": "Frequency selection has no impact on signal propagation.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Higher frequencies experience greater attenuation."
+  },
+  {
+    "question": "Propagation models are only theoretical with no practical applications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are widely used in real-world network planning."
+  },
+  {
+    "question": "The Okumura Model is an empirical propagation model.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Theoretical models ignore real-world data entirely.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Hybrid models are less accurate than pure empirical models.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They often improve accuracy by combining approaches."
+  },
+  {
+    "question": "The Free-Space Path Loss Model accounts for urban clutter.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It assumes ideal, obstruction-free conditions."
+  },
+  {
+    "question": "COST-231 is used for rural area planning only.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It applies to urban/suburban cellular networks."
+  },
+  {
+    "question": "LOS propagation is unaffected by weather conditions.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Rain/fog can attenuate LOS signals."
+  },
+  {
+    "question": "Microwave towers typically use LOS propagation.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "LOS is the primary mode for indoor Wi-Fi.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Indoor Wi-Fi often uses NLOS due to walls/furniture."
+  },
+  {
+    "question": "Satellite TV requires LOS to the receiver dish.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Mountains improve LOS propagation.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They block LOS paths."
+  },
+  {
+    "question": "NLOS propagation avoids multipath effects.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Multipath is a hallmark of NLOS."
+  },
+  {
+    "question": "Urban environments often rely on NLOS.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Diffraction helps signals bend around obstacles in NLOS.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "NLOS provides clearer signals than LOS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "NLOS often suffers from fading/interference."
+  },
+  {
+    "question": "Wi-Fi in homes operates primarily via LOS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Walls/furniture force NLOS operation."
+  },
+  {
+    "question": "Reflection only occurs in vacuum environments.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It occurs when signals encounter surfaces like buildings."
+  },
+  {
+    "question": "Diffraction enables signals to reach obstructed areas.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Radar relies on absorption for object detection.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It uses reflected signals."
+  },
+  {
+    "question": "Urban environments minimize diffraction effects.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Urban areas amplify diffraction due to obstacles."
+  },
+  {
+    "question": "Shaded regions have stronger signals than unobstructed areas.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Shaded regions experience weaker signals."
+  },
+  {
+    "question": "Scattering is negligible for 5G mWave signals.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is pronounced due to small wavelengths."
+  },
+  {
+    "question": "Ionospheric refraction allows signals to travel beyond the horizon.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Refraction occurs only in solid materials.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It occurs in varying media (e.g., ionosphere)."
+  },
+  {
+    "question": "Dust particles improve mWave signal strength.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They cause scattering and attenuation."
+  },
+  {
+    "question": "Shortwave radio relies on ground waves only.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It uses ionospheric refraction for long-distance links."
+  },
+  {
+    "question": "Rain fade improves satellite signal quality.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It degrades signals due to absorption."
+  },
+  {
+    "question": "Doppler shift alters the received frequency.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Multipath fading occurs only in LOS conditions.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is typical in NLOS with reflections."
+  },
+  {
+    "question": "Absorption is negligible for all radio frequencies.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It affects higher frequencies significantly."
+  },
+  {
+    "question": "Diversity techniques use multiple antennas to combat fading.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Circular polarization ensures consistent signal reception.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Atmospheric pressure has no impact on signals.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It affects signal propagation speed."
+  },
+  {
+    "question": "Polarization mismatch is irrelevant for satellite communications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes significant signal loss."
+  },
+  {
+    "question": "Fog scatters visible light but not radio waves.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Fog affects higher-frequency radio waves."
+  },
+  {
+    "question": "Elliptical polarization is a hybrid of linear and circular polarization.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fading only occurs in wired communications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Fading is specific to wireless environments."
+  },
+  {
+    "question": "Signal reflections can cause fading.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Atmospheric conditions have no impact on fading.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Humidity/temperature affect signal propagation."
+  },
+  {
+    "question": "Fading improves signal strength uniformly.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes unpredictable fluctuations."
+  },
+  {
+    "question": "Mobile calls in tunnels often experience fading.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Large-scale fading results from short-distance effects.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It occurs over large distances."
+  },
+  {
+    "question": "Small-scale fading is caused by multipath propagation.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Tall buildings can cause large-scale fading.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Small-scale fading is irrelevant in mobile networks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It critically affects mobile reception."
+  },
+  {
+    "question": "Both large-scale and small-scale fading improve signal quality.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Both degrade signal reliability."
+  },
+  {
+    "question": "Path loss increases with distance.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Shadowing causes rapid signal fluctuations.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes slow variations."
+  },
+  {
+    "question": "Multipath fading can lead to signal cancellation.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Frequency-selective fading uniformly affects all bands.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It targets specific frequencies."
+  },
+  {
+    "question": "Flat fading is common in narrowband systems.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Path loss decreases with distance.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It increases with distance."
+  },
+  {
+    "question": "Water vapor can exacerbate path loss.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Path loss is identical for all frequencies.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Higher frequencies suffer more loss."
+  },
+  {
+    "question": "Path loss is a small-scale fading effect.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is a large-scale fading effect."
+  },
+  {
+    "question": "Wi-Fi routers experience path loss indoors.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Flat fading uniformly impacts all signal frequencies.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Frequency-selective fading improves signal clarity.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes distortion due to uneven fading."
+  },
+  {
+    "question": "Bluetooth signals are immune to flat fading.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They experience flat fading when obstructed."
+  },
+  {
+    "question": "Coherence bandwidth determines fading type.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "HF radio always experiences flat fading.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It often shows frequency-selective fading."
+  },
+  {
+    "question": "Doppler shift depends on relative motion.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Higher velocity reduces the Doppler effect.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Higher velocity increases the Doppler shift."
+  },
+  {
+    "question": "Carrier frequency is irrelevant to Doppler shift.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Carrier frequency (fc) directly affects the Doppler shift (fd)."
+  },
+  {
+    "question": "Doppler effect improves signal stability.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes frequency instability."
+  },
+  {
+    "question": "Mobile phones in trains experience Doppler shift.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fast fading correlates with high velocity.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Slow fading occurs over milliseconds.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It happens over seconds/minutes."
+  },
+  {
+    "question": "Basements exacerbate slow fading.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fast fading improves call quality.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes signal instability."
+  },
+  {
+    "question": "Time-variance fading affects all wireless systems.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Time diversity requires identical signal repetition.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Mars Rovers use time diversity for real-time video.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is used for delayed data reliability."
+  },
+  {
+    "question": "Time diversity eliminates all fading.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It mitigates short-term fades."
+  },
+  {
+    "question": "Coherence time determines time diversity intervals.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Time diversity is useless in mobile networks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It helps in intermittent fading."
+  },
+  {
+    "question": "Fade margin is only relevant for wired networks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is critical for wireless systems."
+  },
+  {
+    "question": "Higher fade margin guarantees better reliability.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fade margin and link margin are synonymous terms.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fade margin prevents all signal attenuation.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It mitigates but doesn't eliminate attenuation."
+  },
+  {
+    "question": "RSS must exceed Rx threshold for a stable connection.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fade margin = Tx power + Antenna gain.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Fade margin = RSS - Rx threshold."
+  },
+  {
+    "question": "High fade margin always improves performance.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Excessive margin wastes power."
+  },
+  {
+    "question": "Rx threshold is fixed for all systems.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It varies by application."
+  },
+  {
+    "question": "Fade margin compensates for path loss.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "5G mmWave requires lower fade margin than 4G.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "mmWave needs higher margin due to greater atmospheric attenuation."
+  },
+  {
+    "question": "Emergency networks prioritize high fade margins.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fade margin is identical across all environments.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It varies by terrain/application."
+  },
+  {
+    "question": "Urban areas reduce multipath effects.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Urban areas increase multipath."
+  },
+  {
+    "question": "Reliability requirements dictate fade margin.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Emergency networks use the lowest fade margins.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They use the highest."
+  },
+  {
+    "question": "Wi-Fi fade margins account for indoor obstructions.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Rural cellular needs less fade margin than urban.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Rural needs more due to distance."
+  },
+  {
+    "question": "The fade margin table provides exact fade margins for all scenarios.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It lists typical ranges."
+  },
+  {
+    "question": "Microwave links require minimal fade margin.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They need high margins (20-40 dB)."
+  },
+  {
+    "question": "Fresnel zones only matter for optical communications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are fundamental to RF/wireless systems."
+  },
+  {
+    "question": "The first Fresnel zone carries most signal energy.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "All Fresnel zones equally impact signal quality.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Higher-order zones have negligible effects."
+  },
+  {
+    "question": "Fresnel zone analysis is unnecessary for satellite links.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's critical for satellite and microwave links."
+  },
+  {
+    "question": "Fresnel zones are irrelevant for cellular networks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are critical for 4G/5G planning."
+  },
+  {
+    "question": "LOS guarantees no Fresnel zone issues.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Obstructions in the zone still degrade signals."
+  },
+  {
+    "question": "Wi-Fi performance depends on Fresnel zone clearance.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fresnel zones only affect satellite uplinks.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They impact all wireless links."
+  },
+  {
+    "question": "Signal diffraction occurs at Fresnel zone edges.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The first Fresnel zone is the least important.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's the most critical."
+  },
+  {
+    "question": "60% clearance is a rule of thumb for the first Fresnel zone.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Higher-order Fresnel zones require strict clearance.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Their impact is minimal."
+  },
+  {
+    "question": "The second Fresnel zone carries no energy.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It carries weaker energy."
+  },
+  {
+    "question": "Fresnel zone analysis ignores signal energy distribution.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It focuses on energy concentration."
+  },
+  {
+    "question": "Fresnel zone radius increases with distance.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Higher frequencies yield larger Fresnel zones.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They produce smaller zones."
+  },
+  {
+    "question": "Lower frequencies improve diffraction but reduce bandwidth.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Fresnel zones are irrelevant for Wi-Fi.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They affect all wireless links."
+  },
+  {
+    "question": "Relay stations decrease link reliability.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They improve it by avoiding obstructions."
+  },
+  {
+    "question": "Antenna height has no impact on Fresnel zone clearance.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's the primary mitigation method."
+  },
+  {
+    "question": "Microwave links tolerate 100% Fresnel zone obstruction.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They require ≥60% clearance."
+  },
+  {
+    "question": "All satellites are man-made.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Natural satellites like the Moon exist."
+  },
+  {
+    "question": "The Hubble Telescope orbits Earth.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Satellites have no role in scientific discovery.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They enable space exploration and research."
+  },
+  {
+    "question": "Artificial satellites are only used for TV broadcasting.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They serve communication, navigation, science, etc."
+  },
+  {
+    "question": "Natural satellites are always spherical.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Their shape varies (e.g., irregular asteroids)."
+  },
+  {
+    "question": "Satellites are irrelevant for disaster response.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Earth observation aids in disaster management."
+  },
+  {
+    "question": "Uplinks transmit signals from Earth to satellites.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Weather satellites only operate at night.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They provide continuous monitoring."
+  },
+  {
+    "question": "Military satellites use only optical imaging.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They also use radar and ELINT."
+  },
+  {
+    "question": "Navigation satellites like GPS are man-made.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GEO satellites appear stationary from Earth.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Landsat satellites track real-time traffic.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They monitor land changes, not vehicles."
+  },
+  {
+    "question": "Starlink uses LEO satellites.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Earth observation is only for military use.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It serves agriculture, forestry, etc."
+  },
+  {
+    "question": "Communication satellites cannot operate in LEO.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Some (e.g., Starlink) use LEO."
+  },
+  {
+    "question": "LEO satellites have orbital periods of 90-120 minutes.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Atmospheric drag is negligible for LEO satellites.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It causes gradual orbit decay."
+  },
+  {
+    "question": "The ISS uses GEO for stable positioning.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It operates in LEO."
+  },
+  {
+    "question": "Starlink satellites provide global coverage with just 3 units.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Constellations require hundreds/thousands."
+  },
+  {
+    "question": "LEO is ideal for high-resolution Earth imaging.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "MEO satellites have orbital periods of 2–12 hours.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GPS satellites use GEO for stable signals.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They operate in MEO."
+  },
+  {
+    "question": "BeiDou is China's navigation system.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "MEO satellites experience higher drag than LEO.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Drag is lower in MEO."
+  },
+  {
+    "question": "Weather monitoring is impossible in MEO.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Some weather satellites use MEO."
+  },
+  {
+    "question": "GEO satellites have a 24-hour orbital period.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GEO provides the lowest latency for real-time gaming.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "LEO/MEO offer lower latency."
+  },
+  {
+    "question": "Three GEO satellites can cover most of Earth.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Himawari is Japan's GEO weather satellite.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GEO satellites orbit at 98° inclination.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They orbit near 0° inclination."
+  },
+  {
+    "question": "The GPS is part of the Space Segment.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "The GPS satellite constellation is part of the Space Segment, but GPS receivers are part of the User Segment."
+  },
+  {
+    "question": "The Ground Segment includes satellites in orbit.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Satellites are part of the Space Segment."
+  },
+  {
+    "question": "A satellite system has only two segments.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It has three: Space, Ground, and User segments."
+  },
+  {
+    "question": "The Payload includes communication equipment.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The Space Segment is responsible for managing ground stations.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Ground stations are managed by the Ground Segment."
+  },
+  {
+    "question": "Satellites are classified based on their antenna size.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Classification depends on orbit/function, not antenna size."
+  },
+  {
+    "question": "The Ground Segment includes tracking systems.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Control Centers are part of the User Segment.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They belong to the Ground Segment."
+  },
+  {
+    "question": "The User Segment manages satellite operations.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "The Ground Segment does."
+  },
+  {
+    "question": "Mobile devices are part of the User Segment.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "VSATs are ground-based control centers.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are end-user terminals."
+  },
+  {
+    "question": "The User Segment manages satellite orbits.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "The Ground Segment does."
+  },
+  {
+    "question": "LEO satellites like Starlink belong to the Space Segment.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The Ground Segment includes GPS receivers.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "GPS receivers are part of the User Segment."
+  },
+  {
+    "question": "Intelsat is an example of a User Segment system.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's a Space Segment system."
+  },
+  {
+    "question": "The Uplink sends signals from Earth to the satellite.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Downlink refers to signals from the satellite to Earth.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Transponders are part of the User Segment.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They belong to the Space Segment."
+  },
+  {
+    "question": "The uplink signal is typically low-frequency radio waves.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's high-frequency (e.g., C/Ku-band)."
+  },
+  {
+    "question": "Ku-band uplink frequencies include 14.0 – 14.5 GHz.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The ground transmitter is part of the User Segment.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's part of the Ground Segment."
+  },
+  {
+    "question": "A bent-pipe transponder modifies the signal content.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It only amplifies and shifts frequency."
+  },
+  {
+    "question": "Ku-band uplink (14 GHz) is typically downlinked at 11 GHz.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Transponders are located in ground stations.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are onboard the satellite."
+  },
+  {
+    "question": "The downlink signal is captured by end-user devices.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "C-band downlink frequencies are higher than uplink frequencies.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Downlink is lower: 3.7–4.2 GHz vs. 5.925–6.425 GHz uplink."
+  },
+  {
+    "question": "Ground stations are irrelevant to downlink communication.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They receive downlink signals for distribution."
+  },
+  {
+    "question": "VSAT terminals are used for end-user signal reception.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The processed satellite signal is used for submarine communication.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Typical uses include TV, internet, GPS, and voice communication."
+  },
+  {
+    "question": "GPS navigation relies on end-user reception of satellite signals.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Ku-band is used for Direct-to-Home (DTH) TV and VSAT networks.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The uplink frequency is always higher than the downlink frequency.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Ka-band is used for experimental low-speed data transmission.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's for high-speed broadband (e.g., Starlink)."
+  },
+  {
+    "question": "X-band is used for TV broadcasting.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It's for military/government applications; C/Ku-band are used for TV."
+  },
+  {
+    "question": "Ka-band downlink frequencies range from 17.7–21.2 GHz.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "L-band wavelengths are approximately 19 cm.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GNSS provides coverage only for specific regions.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "GNSS offers worldwide coverage; RNSS is regional."
+  },
+  {
+    "question": "Satellite navigation is critical for defense applications.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Mapping relies on satellite navigation systems.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "BeiDou is China's global navigation system.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Trilateration uses signal strength to determine location.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It uses time delay from satellite signals."
+  },
+  {
+    "question": "GPS and GLONASS are both GNSS systems.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GPS satellites broadcast their position and time data.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "The GPS receiver calculates location using signal frequency.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It uses time delay, not frequency."
+  },
+  {
+    "question": "Atmospheric interference has no effect on GPS signals.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Receivers compensate for these errors."
+  },
+  {
+    "question": "Trilateration relies on measuring signal time delays.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GPS receivers need only two satellites to determine location.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "4+ satellites are needed for 3D positioning."
+  },
+  {
+    "question": "Atmospheric interference affects GPS signal accuracy.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Multipath errors occur when signals reflect off surfaces before reaching the GPS receiver.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GLONASS satellites use the same orbital altitude as GPS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "GLONASS orbits at ~19,100 km; GPS at ~20,200 km."
+  },
+  {
+    "question": "GPS signals can penetrate underwater for deep-sea navigation.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Signals attenuate rapidly in water."
+  },
+  {
+    "question": "Atmospheric interference can reduce GPS signal accuracy.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "A GPS receiver can determine altitude using only three satellites.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "4+ satellites are needed for 3D positioning."
+  },
+  {
+    "question": "Multipath errors occur when signals reflect off buildings before reaching the GPS receiver.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "DGPS can achieve sub-meter accuracy, unlike standard GPS.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "A DGPS reference station must be mobile to provide corrections.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "It is fixed at a known location."
+  },
+  {
+    "question": "Satellite clock inaccuracies are irrelevant to DGPS corrections.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are a key source of error that DGPS fixes."
+  },
+  {
+    "question": "Real-time kinematic (RTK) GPS is a more precise alternative to DGPS.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "DGPS corrections are only useful for military applications.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "Used in civilian applications like surveying, aviation, and marine navigation."
+  },
+  {
+    "question": "DGPS can achieve centimeter-level accuracy in ideal conditions.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "DGPS reference stations must be mobile to function.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They are fixed at known locations."
+  },
+  {
+    "question": "Atmospheric errors are a major target of DGPS corrections.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Galileo is operated by the European Union Agency for the Space Programme (EUSPA).",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GPS satellites orbit at 19,100 km altitude.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "They orbit at 20,200 km; GLONASS uses 19,100 km."
+  },
+  {
+    "question": "GLONASS has more orbital planes than GPS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "GPS: 6 planes; GLONASS: 3 planes."
+  },
+  {
+    "question": "BeiDou is fully interoperable with GLONASS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "BeiDou is interoperable with GPS/Galileo, but GLONASS has limited interoperability."
+  },
+  {
+    "question": "GPS L5 band is used for civilian aviation safety.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "GLONASS provides better civilian accuracy than GPS.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "correction": "GPS: ~5 m; GLONASS: ~5–10 m."
+  },
+  {
+    "question": "Galileo's OS-NMA is a high-precision service for civilian use.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
+  },
+  {
+    "question": "Military accuracy is less than 1 meter in all GNSS systems except Galileo.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "correction": null
   }
 ]
